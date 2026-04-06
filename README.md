@@ -11,7 +11,7 @@ A desktop application for managing mods for **Anno 117: Pax Romana**. It covers 
 > Built with Python and Tkinter. Runs on Windows (packaged as a standalone `.exe`) and Linux (from source).
 
 
-**Hier geht es zum Readme auf Deutsch!** -> **[readme]**(README_de)
+**Hier geht es zum Readme auf Deutsch!** -> [readme](README_de)
 
 ---
 
