@@ -291,6 +291,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
         """Initialises the main application window, sets up all state variables, loads settings and metadata, builds the UI and schedules the language-picker / first-run sequence."""
         super().__init__()
         self.title("Anno 117 Mod Manager")
+        self.iconbitmap(resource_path("data/ui/anno117_mod_manager.ico"))
         self.geometry("1440x900")
         self.configure(bg=BG_MAIN)
 
@@ -1211,8 +1212,8 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                 self.collections_btn = btn
 
             if tab == "Settings":
-                separator = tk.Frame(self.sidebar, bg=FG_DIM, height=1, bd=0, highlightthickness=0)
-                separator.pack(fill="x", padx=20, pady=(10, 10))
+                separator_top = tk.Frame(self.sidebar, bg=FG_DIM, height=1, bd=0, highlightthickness=0)
+                separator_top.pack(fill="x", padx=20, pady=(10, 10))
 
                 def open_kofi():
                     webbrowser.open("https://ko-fi.com/W7W8L558T")
@@ -1232,11 +1233,14 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                 self._bind_border_button_hover(self.discord_btn, "#5865F2", "#6c75f3")
 
                 docu_ico = load_icon("docu", (24, 24))
-                self.docs_border = tk.Frame(self.sidebar, bg="#4c565f", highlightthickness=1, highlightbackground="#24292e", bd=0)
+                self.docs_border = tk.Frame(self.sidebar, bg="#4c565f", highlightthickness=1, highlightbackground="#4c565f", bd=0)
                 self.docs_border.pack(fill="x", padx=10, pady=(2, 2))
-                self.docs_btn = tk.Button(self.docs_border, text=" Tutorial", command=open_docs, image=docu_ico, compound="left", bg="#24292e", fg="white", font=("Marcellus", 10, "bold"), relief="flat", bd=0, cursor="hand2", pady=8)
+                self.docs_btn = tk.Button(self.docs_border, text="  Tutorial\n  Github", command=open_docs, image=docu_ico, compound="left", bg="#4c565f", fg="white", font=("Marcellus", 10, "bold"), relief="flat", bd=0, cursor="hand2", pady=8)
                 self.docs_btn.pack(fill="both", expand=True)
-                self._bind_border_button_hover(self.docs_btn, "#4c565f", "#4c565f")
+                self._bind_border_button_hover(self.docs_btn, "#4c565f", "#65717c")
+
+                separator_bottom = tk.Frame(self.sidebar, bg=FG_DIM, height=1, bd=0, highlightthickness=0)
+                separator_bottom.pack(fill="x", padx=20, pady=(10, 10))
 
                 kofi_ico = load_icon("kofi", (24, 24))
                 self.kofi_border = tk.Frame(self.sidebar, bg="#5F032E", highlightthickness=1, highlightbackground="#5F032E", bd=0)
