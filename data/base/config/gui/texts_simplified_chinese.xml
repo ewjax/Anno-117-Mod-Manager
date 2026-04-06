@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Texts>
+  <Text>
+    <LineId>1999101000</LineId>
+    <Text>Anno 117 Mod Manager</Text>
+  </Text>
+  <Text>
+    <LineId>1999101001</LineId>
+    <Text>mod 浏览器集成</Text>
+  </Text>
+  <Text>
+    <LineId>1999101002</LineId>
+    <Text>您想启用 mod.io 浏览器集成吗？
+
+这样您就可以直接从应用程序中浏览和安装 mod，但需要一个免费的 mod.io 账户和 API 密钥。
+
+您可以稍后在 "设置 "中更改。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101003</LineId>
+    <Text>启用</Text>
+  </Text>
+  <Text>
+    <LineId>1999101004</LineId>
+    <Text>现在不行</Text>
+  </Text>
+  <Text>
+    <LineId>1999101005</LineId>
+    <Text>保存预设值</Text>
+  </Text>
+  <Text>
+    <LineId>1999101006</LineId>
+    <Text>为预设命名</Text>
+  </Text>
+  <Text>
+    <LineId>1999101007</LineId>
+    <Text>输入此 mod 配置的名称：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101008</LineId>
+    <Text>确认</Text>
+  </Text>
+  <Text>
+    <LineId>1999101009</LineId>
+    <Text>Mod Info</Text>
+  </Text>
+  <Text>
+    <LineId>1999101010</LineId>
+    <Text>新闻和更新</Text>
+  </Text>
+  <Text>
+    <LineId>1999101011</LineId>
+    <Text>  刷新新闻</Text>
+  </Text>
+  <Text>
+    <LineId>1999101012</LineId>
+    <Text>  ANNO 联盟</Text>
+  </Text>
+  <Text>
+    <LineId>1999101013</LineId>
+    <Text>从帝国获取最新消息...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101014</LineId>
+    <Text>未找到新闻。检查您的连接。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101015</LineId>
+    <Text>档案中没有找到的模式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101016</LineId>
+    <Text>无图片
+所附</Text>
+  </Text>
+  <Text>
+    <LineId>1999101017</LineId>
+    <Text>  在模式浏览器中打开</Text>
+  </Text>
+  <Text>
+    <LineId>1999101018</LineId>
+    <Text>  在收藏中打开</Text>
+  </Text>
+  <Text>
+    <LineId>1999101019</LineId>
+    <Text>活跃档案：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101020</LineId>
+    <Text>  另存为</Text>
+  </Text>
+  <Text>
+    <LineId>1999101021</LineId>
+    <Text>  删除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101022</LineId>
+    <Text>搜索：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101023</LineId>
+    <Text>  全部激活</Text>
+  </Text>
+  <Text>
+    <LineId>1999101024</LineId>
+    <Text>  装载订单</Text>
+  </Text>
+  <Text>
+    <LineId>1999101025</LineId>
+    <Text>未找到修改器。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101026</LineId>
+    <Text>模式名称</Text>
+  </Text>
+  <Text>
+    <LineId>1999101027</LineId>
+    <Text>类别</Text>
+  </Text>
+  <Text>
+    <LineId>1999101028</LineId>
+    <Text>未选择模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101029</LineId>
+    <Text> 取消订阅</Text>
+  </Text>
+  <Text>
+    <LineId>1999101030</LineId>
+    <Text> 卸载模块</Text>
+  </Text>
+  <Text>
+    <LineId>1999101031</LineId>
+    <Text>  自定义修改 - 点击调整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101032</LineId>
+    <Text>难度 </Text>
+  </Text>
+  <Text>
+    <LineId>1999101033</LineId>
+    <Text>依赖关系</Text>
+  </Text>
+  <Text>
+    <LineId>1999101034</LineId>
+    <Text>文件夹</Text>
+  </Text>
+  <Text>
+    <LineId>1999101035</LineId>
+    <Text>尺寸</Text>
+  </Text>
+  <Text>
+    <LineId>1999101036</LineId>
+    <Text>激活失踪人员</Text>
+  </Text>
+  <Text>
+    <LineId>1999101037</LineId>
+    <Text>返回</Text>
+  </Text>
+  <Text>
+    <LineId>1999101038</LineId>
+    <Text>手动安装</Text>
+  </Text>
+  <Text>
+    <LineId>1999101039</LineId>
+    <Text>已经下载了修改器？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101040</LineId>
+    <Text>选择要安装的 .zip 档案</Text>
+  </Text>
+  <Text>
+    <LineId>1999101041</LineId>
+    <Text>刷新日志</Text>
+  </Text>
+  <Text>
+    <LineId>1999101042</LineId>
+    <Text>将文本复制到剪贴板</Text>
+  </Text>
+  <Text>
+    <LineId>1999101043</LineId>
+    <Text>修改管理器设置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101044</LineId>
+    <Text>一般情况</Text>
+  </Text>
+  <Text>
+    <LineId>1999101045</LineId>
+    <Text>教程信息提示</Text>
+  </Text>
+  <Text>
+    <LineId>1999101046</LineId>
+    <Text>当鼠标悬停在整个应用程序的按钮上时，会显示有用的工具提示。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101047</LineId>
+    <Text>在新闻提要中显示 r/anno 帖子</Text>
+  </Text>
+  <Text>
+    <LineId>1999101048</LineId>
+    <Text>显示来自 reddit.com/r/anno 的最新帖子和其他新闻。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101049</LineId>
+    <Text>自动激活新安装的修改器</Text>
+  </Text>
+  <Text>
+    <LineId>1999101050</LineId>
+    <Text>如果禁用，新模式将出现在列表中，但在手动启用前保持未选中状态。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101051</LineId>
+    <Text>游戏文件</Text>
+  </Text>
+  <Text>
+    <LineId>1999101052</LineId>
+    <Text>Anno 117 安装目录：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101053</LineId>
+    <Text>浏览</Text>
+  </Text>
+  <Text>
+    <LineId>1999101054</LineId>
+    <Text>模块存储：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101055</LineId>
+    <Text>mod.io 集成</Text>
+  </Text>
+  <Text>
+    <LineId>1999101056</LineId>
+    <Text>API 密钥：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101057</LineId>
+    <Text>保存密钥</Text>
+  </Text>
+  <Text>
+    <LineId>1999101058</LineId>
+    <Text>状态：已验证 ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101059</LineId>
+    <Text>断开帐户</Text>
+  </Text>
+  <Text>
+    <LineId>1999101060</LineId>
+    <Text>状态： 未连接未连接</Text>
+  </Text>
+  <Text>
+    <LineId>1999101061</LineId>
+    <Text>连接至 Mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101062</LineId>
+    <Text>打开配置文件夹</Text>
+  </Text>
+  <Text>
+    <LineId>1999101063</LineId>
+    <Text>查看调试日志</Text>
+  </Text>
+  <Text>
+    <LineId>1999101064</LineId>
+    <Text>好的</Text>
+  </Text>
+  <Text>
+    <LineId>1999101065</LineId>
+    <Text>是</Text>
+  </Text>
+  <Text>
+    <LineId>1999101066</LineId>
+    <Text>没有</Text>
+  </Text>
+  <Text>
+    <LineId>1999101067</LineId>
+    <Text>所需帝国证书</Text>
+  </Text>
+  <Text>
+    <LineId>1999101068</LineId>
+    <Text>皇室档案查阅</Text>
+  </Text>
+  <Text>
+    <LineId>1999101069</LineId>
+    <Text>打开 mod.io 简介</Text>
+  </Text>
+  <Text>
+    <LineId>1999101070</LineId>
+    <Text>授权</Text>
+  </Text>
+  <Text>
+    <LineId>1999101071</LineId>
+    <Text>Mod.io 协议</Text>
+  </Text>
+  <Text>
+    <LineId>1999101072</LineId>
+    <Text>查看使用条款</Text>
+  </Text>
+  <Text>
+    <LineId>1999101073</LineId>
+    <Text>查看隐私政策</Text>
+  </Text>
+  <Text>
+    <LineId>1999101074</LineId>
+    <Text>我同意</Text>
+  </Text>
+  <Text>
+    <LineId>1999101075</LineId>
+    <Text>不，谢谢</Text>
+  </Text>
+  <Text>
+    <LineId>1999101076</LineId>
+    <Text>帝国身份验证</Text>
+  </Text>
+  <Text>
+    <LineId>1999101077</LineId>
+    <Text>出示证件</Text>
+  </Text>
+  <Text>
+    <LineId>1999101078</LineId>
+    <Text>输入与您的 mod.io 账户相关联的电子邮件地址：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101079</LineId>
+    <Text>请求访问代码</Text>
+  </Text>
+  <Text>
+    <LineId>1999101080</LineId>
+    <Text>安全审查</Text>
+  </Text>
+  <Text>
+    <LineId>1999101081</LineId>
+    <Text>输入验证码</Text>
+  </Text>
+  <Text>
+    <LineId>1999101082</LineId>
+    <Text>验证凭据</Text>
+  </Text>
+  <Text>
+    <LineId>1999101083</LineId>
+    <Text>MOD 浏览器</Text>
+  </Text>
+  <Text>
+    <LineId>1999101084</LineId>
+    <Text>  已订阅</Text>
+  </Text>
+  <Text>
+    <LineId>1999101085</LineId>
+    <Text>请在设置中验证。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101086</LineId>
+    <Text>搜索...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101087</LineId>
+    <Text>查阅帝国档案...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101088</LineId>
+    <Text>未找到修改器。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101089</LineId>
+    <Text>未找到此游戏的已订阅模式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101090</LineId>
+    <Text>⌛ 正在加载...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101091</LineId>
+    <Text>  认可</Text>
+  </Text>
+  <Text>
+    <LineId>1999101092</LineId>
+    <Text>  支持</Text>
+  </Text>
+  <Text>
+    <LineId>1999101093</LineId>
+    <Text>  访问</Text>
+  </Text>
+  <Text>
+    <LineId>1999101094</LineId>
+    <Text>  安装</Text>
+  </Text>
+  <Text>
+    <LineId>1999101095</LineId>
+    <Text>+ 加载更多修改器</Text>
+  </Text>
+  <Text>
+    <LineId>1999101096</LineId>
+    <Text>⌛ 正在加载更多...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101097</LineId>
+    <Text>无预览</Text>
+  </Text>
+  <Text>
+    <LineId>1999101098</LineId>
+    <Text>关闭</Text>
+  </Text>
+  <Text>
+    <LineId>1999101099</LineId>
+    <Text>安装模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101100</LineId>
+    <Text>载入主图像...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101101</LineId>
+    <Text>档案细节</Text>
+  </Text>
+  <Text>
+    <LineId>1999101102</LineId>
+    <Text>视觉档案损坏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101103</LineId>
+    <Text>帝国物流</Text>
+  </Text>
+  <Text>
+    <LineId>1999101104</LineId>
+    <Text>获取档案：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101105</LineId>
+    <Text>联系 Mod.io...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101106</LineId>
+    <Text>下载字节流...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101107</LineId>
+    <Text>与档案整合...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101108</LineId>
+    <Text>  已订阅</Text>
+  </Text>
+  <Text>
+    <LineId>1999101109</LineId>
+    <Text>  取消订阅</Text>
+  </Text>
+  <Text>
+    <LineId>1999101110</LineId>
+    <Text>拆除...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101111</LineId>
+    <Text>调整 MOD 配置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101112</LineId>
+    <Text>全部重置为默认值</Text>
+  </Text>
+  <Text>
+    <LineId>1999101113</LineId>
+    <Text>未找到可定制的修改程序。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101114</LineId>
+    <Text>选择一个模式，检查其 "选项"。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101115</LineId>
+    <Text>重置为默认值</Text>
+  </Text>
+  <Text>
+    <LineId>1999101116</LineId>
+    <Text>无法读取选项模式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101117</LineId>
+    <Text>不兼容警告</Text>
+  </Text>
+  <Text>
+    <LineId>1999101118</LineId>
+    <Text>⚠ 检测到模式冲突</Text>
+  </Text>
+  <Text>
+    <LineId>1999101119</LineId>
+    <Text>接受风险</Text>
+  </Text>
+  <Text>
+    <LineId>1999101120</LineId>
+    <Text>保持禁用状态</Text>
+  </Text>
+  <Text>
+    <LineId>1999101121</LineId>
+    <Text>禁用冲突模块</Text>
+  </Text>
+  <Text>
+    <LineId>1999101122</LineId>
+    <Text>mod 系列</Text>
+  </Text>
+  <Text>
+    <LineId>1999101123</LineId>
+    <Text>  跟随</Text>
+  </Text>
+  <Text>
+    <LineId>1999101124</LineId>
+    <Text>+ 加载更多收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101125</LineId>
+    <Text>未找到收藏。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101126</LineId>
+    <Text>您还没有关注任何收藏集。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101127</LineId>
+    <Text>该系列中的修改器</Text>
+  </Text>
+  <Text>
+    <LineId>1999101128</LineId>
+    <Text>⌛ Fetching mods...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101129</LineId>
+    <Text>本系列中没有修改器。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101130</LineId>
+    <Text>  关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101131</LineId>
+    <Text>  关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101132</LineId>
+    <Text>跟进......</Text>
+  </Text>
+  <Text>
+    <LineId>1999101133</LineId>
+    <Text>跟踪收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101134</LineId>
+    <Text>令人兴奋的收集模式...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101135</LineId>
+    <Text>取消关注系列</Text>
+  </Text>
+  <Text>
+    <LineId>1999101136</LineId>
+    <Text>取消收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101137</LineId>
+    <Text> 取消关注 + 删除修改</Text>
+  </Text>
+  <Text>
+    <LineId>1999101138</LineId>
+    <Text> 仅取消关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101139</LineId>
+    <Text>  关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101140</LineId>
+    <Text>关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101141</LineId>
+    <Text>帝国档案馆</Text>
+  </Text>
+  <Text>
+    <LineId>1999101142</LineId>
+    <Text>默认管理器安装行为</Text>
+  </Text>
+  <Text>
+    <LineId>1999101143</LineId>
+    <Text>新闻提要</Text>
+  </Text>
+  <Text>
+    <LineId>1999101144</LineId>
+    <Text>查看调试日志</Text>
+  </Text>
+  <Text>
+    <LineId>1999101145</LineId>
+    <Text>安装</Text>
+  </Text>
+  <Text>
+    <LineId>1999101146</LineId>
+    <Text>正在加载...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101147</LineId>
+    <Text>  自定义模块（点击调整）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101148</LineId>
+    <Text>新闻</Text>
+  </Text>
+  <Text>
+    <LineId>1999101149</LineId>
+    <Text>模块激活</Text>
+  </Text>
+  <Text>
+    <LineId>1999101150</LineId>
+    <Text>修改器浏览器</Text>
+  </Text>
+  <Text>
+    <LineId>1999101151</LineId>
+    <Text>收藏品</Text>
+  </Text>
+  <Text>
+    <LineId>1999101152</LineId>
+    <Text>手动安装</Text>
+  </Text>
+  <Text>
+    <LineId>1999101153</LineId>
+    <Text>修改器日志</Text>
+  </Text>
+  <Text>
+    <LineId>1999101154</LineId>
+    <Text>调整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101155</LineId>
+    <Text>设置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101156</LineId>
+    <Text>语言</Text>
+  </Text>
+  <Text>
+    <LineId>1999101157</LineId>
+    <Text>重新启动应用程序以完全应用新语言。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101158</LineId>
+    <Text>OK ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101159</LineId>
+    <Text>  启动
+游戏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101160</LineId>
+    <Text>刷新新闻</Text>
+  </Text>
+  <Text>
+    <LineId>1999101161</LineId>
+    <Text>ANNO 联盟</Text>
+  </Text>
+  <Text>
+    <LineId>1999101162</LineId>
+    <Text>无图片
+所附</Text>
+  </Text>
+  <Text>
+    <LineId>1999101163</LineId>
+    <Text> 在模式浏览器中打开</Text>
+  </Text>
+  <Text>
+    <LineId>1999101164</LineId>
+    <Text> 在收藏中打开</Text>
+  </Text>
+  <Text>
+    <LineId>1999101165</LineId>
+    <Text> 自定义修改 - 点击调整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101166</LineId>
+    <Text>已订阅</Text>
+  </Text>
+  <Text>
+    <LineId>1999101167</LineId>
+    <Text> 认可</Text>
+  </Text>
+  <Text>
+    <LineId>1999101168</LineId>
+    <Text> 访问</Text>
+  </Text>
+  <Text>
+    <LineId>1999101169</LineId>
+    <Text> 安装</Text>
+  </Text>
+  <Text>
+    <LineId>1999101170</LineId>
+    <Text>不适用</Text>
+  </Text>
+  <Text>
+    <LineId>1999101171</LineId>
+    <Text>⌛ ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101172</LineId>
+    <Text>✓ 已认可</Text>
+  </Text>
+  <Text>
+    <LineId>1999101173</LineId>
+    <Text>❤ 赞同</Text>
+  </Text>
+  <Text>
+    <LineId>1999101174</LineId>
+    <Text>⌛ 交换视图...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101175</LineId>
+    <Text> 已订阅</Text>
+  </Text>
+  <Text>
+    <LineId>1999101176</LineId>
+    <Text> 取消订阅</Text>
+  </Text>
+  <Text>
+    <LineId>1999101177</LineId>
+    <Text>安装</Text>
+  </Text>
+  <Text>
+    <LineId>1999101178</LineId>
+    <Text>跟随</Text>
+  </Text>
+  <Text>
+    <LineId>1999101179</LineId>
+    <Text> 关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101180</LineId>
+    <Text> 关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101181</LineId>
+    <Text> 关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101182</LineId>
+    <Text>关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101183</LineId>
+    <Text>另存为</Text>
+  </Text>
+  <Text>
+    <LineId>1999101184</LineId>
+    <Text>删除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101185</LineId>
+    <Text>全部激活</Text>
+  </Text>
+  <Text>
+    <LineId>1999101186</LineId>
+    <Text> 装载订单</Text>
+  </Text>
+  <Text>
+    <LineId>1999101187</LineId>
+    <Text>首次启动</Text>
+  </Text>
+  <Text>
+    <LineId>1999101188</LineId>
+    <Text>会期已过</Text>
+  </Text>
+  <Text>
+    <LineId>1999101189</LineId>
+    <Text>错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101190</LineId>
+    <Text>资料重置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101191</LineId>
+    <Text>系统简介</Text>
+  </Text>
+  <Text>
+    <LineId>1999101192</LineId>
+    <Text>无效文件</Text>
+  </Text>
+  <Text>
+    <LineId>1999101193</LineId>
+    <Text>安装错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101194</LineId>
+    <Text>无效模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101195</LineId>
+    <Text>剪贴板</Text>
+  </Text>
+  <Text>
+    <LineId>1999101196</LineId>
+    <Text>拒绝访问</Text>
+  </Text>
+  <Text>
+    <LineId>1999101197</LineId>
+    <Text>未找到文件夹</Text>
+  </Text>
+  <Text>
+    <LineId>1999101198</LineId>
+    <Text>敕令</Text>
+  </Text>
+  <Text>
+    <LineId>1999101199</LineId>
+    <Text>未找到日志</Text>
+  </Text>
+  <Text>
+    <LineId>1999101200</LineId>
+    <Text>未找到配置文件夹</Text>
+  </Text>
+  <Text>
+    <LineId>1999101201</LineId>
+    <Text>成功</Text>
+  </Text>
+  <Text>
+    <LineId>1999101202</LineId>
+    <Text>连接已建立</Text>
+  </Text>
+  <Text>
+    <LineId>1999101203</LineId>
+    <Text>条款更新</Text>
+  </Text>
+  <Text>
+    <LineId>1999101204</LineId>
+    <Text>验证失败</Text>
+  </Text>
+  <Text>
+    <LineId>1999101205</LineId>
+    <Text>连接已撤销</Text>
+  </Text>
+  <Text>
+    <LineId>1999101206</LineId>
+    <Text>重置所有调整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101207</LineId>
+    <Text>启动错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101208</LineId>
+    <Text>加载错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101209</LineId>
+    <Text>已加载预置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101210</LineId>
+    <Text>重写</Text>
+  </Text>
+  <Text>
+    <LineId>1999101211</LineId>
+    <Text>卸载模块</Text>
+  </Text>
+  <Text>
+    <LineId>1999101212</LineId>
+    <Text>已安装（非活动）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101213</LineId>
+    <Text>帝国物流</Text>
+  </Text>
+  <Text>
+    <LineId>1999101214</LineId>
+    <Text>重新安装模块</Text>
+  </Text>
+  <Text>
+    <LineId>1999101220</LineId>
+    <Text>未自动找到 Anno 117。请选择游戏安装文件夹。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101221</LineId>
+    <Text>您的 mod.io 会话令牌已过期。
+请在 "设置 "中重新连接您的账户，以继续使用 Mod 浏览器。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101222</LineId>
+    <Text>未找到可保存的活动配置文件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101223</LineId>
+    <Text>已切换至默认状态。所有已安装的 MOD 已激活。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101224</LineId>
+    <Text>默认 "配置文件是系统要求，不能删除。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101225</LineId>
+    <Text>请发送 .zip mod 压缩包。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101226</LineId>
+    <Text>未设置 Mod 存储路径。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101227</LineId>
+    <Text>此 ZIP 中未发现 modinfo.json。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101228</LineId>
+    <Text>日志内容复制成功！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101229</LineId>
+    <Text>请在 "设置 "中配置您的 mod.io API 密钥，以访问此功能。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101230</LineId>
+    <Text>找不到模块安装文件夹。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101231</LineId>
+    <Text>未找到模块元数据。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101232</LineId>
+    <Text>未找到 Anno117.exe！请在 "设置 "中设置路径。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101233</LineId>
+    <Text>mod.io API 密钥更新成功。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101234</LineId>
+    <Text>尚未创建调试日志文件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101235</LineId>
+    <Text>尚未创建配置文件夹。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101236</LineId>
+    <Text>API 密钥不能为空。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101237</LineId>
+    <Text>凭证已接受。继续验证。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101238</LineId>
+    <Text>您的 mod.io 会话已过期。请在 "设置 "中重新连接您的账户。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101239</LineId>
+    <Text>帝国档案现在已与您的账户同步。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101240</LineId>
+    <Text>自您上次同意后，mod.io 的使用条款已更新。
+在继续使用之前，您需要再次查看并接受这些条款。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101241</LineId>
+    <Text>提供的安全代码被档案馆拒绝。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101242</LineId>
+    <Text>您的证书已从本地存储中删除。档案现已锁定。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101243</LineId>
+    <Text>mod.io 使用条款已更改。请重新认证以查看并接受这些条款。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101244</LineId>
+    <Text>您确定要将所有多器官功能障碍恢复到默认配置吗？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101245</LineId>
+    <Text>所有修改调整都已重置。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101250</LineId>
+    <Text>按名称或类别搜索模式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101251</LineId>
+    <Text>重置为默认配置文件 - 激活所有已安装的修改器。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101252</LineId>
+    <Text>在资源管理器中打开当前 mod 安装文件夹。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101253</LineId>
+    <Text>从磁盘重新载入当前的模式列表--如果你用 "老式 "超级手动方式安装了一个模式，这很方便--否则它不会立即显示在列表中。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101254</LineId>
+    <Text>切换加载顺序视图 - 按照游戏加载的顺序排列 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101255</LineId>
+    <Text>在资源管理器中打开此模式的安装文件夹。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101256</LineId>
+    <Text>在 mod.io 上退订此 mod 并卸载其本地文件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101257</LineId>
+    <Text>删除本地文件，卸载此 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101258</LineId>
+    <Text>在 "调整 "选项卡中打开此模式，自定义其中的一些内容。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101259</LineId>
+    <Text>激活缺失的 Mod 依赖项。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101260</LineId>
+    <Text>在游戏启动后手动更新 mod-loader.log 文件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101261</LineId>
+    <Text>将 mod-loader.log 的内容以 .txt 文件形式复制到剪贴板，以便在 Discord 上共享。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101262</LineId>
+    <Text>在资源管理器中浏览你的安诺游戏安装文件夹。选择名为 "Anno 117 - Pax Romana "的文件夹并点击 "OK"，如果您在当前视图中看到一个 "mods "文件夹，说明位置不对--请将文件夹上移一级！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101263</LineId>
+    <Text>保存您的 mod.io API 密钥。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101264</LineId>
+    <Text>断开当前 mod.io 账户与应用程序的连接。Mod 浏览器和收藏夹将停止工作。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101265</LineId>
+    <Text>将您的 mod.io 账户连接到应用程序。现在可以使用 "Mod 浏览器 "和 "收藏集"。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101266</LineId>
+    <Text>向指定的电子邮件地址发送包含 5 位数安全代码的电子邮件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101267</LineId>
+    <Text>只显示您订阅的模式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101268</LineId>
+    <Text>重新下载并重新安装此模块，例如在文件损坏或模块更新的情况下。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101269</LineId>
+    <Text>将所有 MOD 的所有选项值重置为 MOD 的 modinfo.json 中的默认值。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101270</LineId>
+    <Text>将此模块的选项值重置为模块 modinfo.json 中的默认值。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101271</LineId>
+    <Text>通过色轮选择一种颜色。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101272</LineId>
+    <Text>禁用冲突的模式，同时启用当前模式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101273</LineId>
+    <Text>只显示您关注的收藏集。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101274</LineId>
+    <Text>从程序集中重新下载任何缺失或更新的 MOD，而不会触及现有的 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101280</LineId>
+    <Text>预设保存</Text>
+  </Text>
+  <Text>
+    <LineId>1999101281</LineId>
+    <Text>确认删除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101282</LineId>
+    <Text>安装失败</Text>
+  </Text>
+  <Text>
+    <LineId>1999101283</LineId>
+    <Text>放弃模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101284</LineId>
+    <Text>无效文件夹</Text>
+  </Text>
+  <Text>
+    <LineId>1999101285</LineId>
+    <Text>登录 mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101286</LineId>
+    <Text>物流错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101287</LineId>
+    <Text>确认断开</Text>
+  </Text>
+  <Text>
+    <LineId>1999101288</LineId>
+    <Text>认可失败</Text>
+  </Text>
+  <Text>
+    <LineId>1999101289</LineId>
+    <Text>安装依赖项</Text>
+  </Text>
+  <Text>
+    <LineId>1999101290</LineId>
+    <Text>重写</Text>
+  </Text>
+  <Text>
+    <LineId>1999101291</LineId>
+    <Text>卸载模块</Text>
+  </Text>
+  <Text>
+    <LineId>1999101292</LineId>
+    <Text>已安装（非活动）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101293</LineId>
+    <Text>重新安装模块</Text>
+  </Text>
+  <Text>
+    <LineId>1999101294</LineId>
+    <Text>启动错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101295</LineId>
+    <Text>加载错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101296</LineId>
+    <Text>已加载预置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101297</LineId>
+    <Text>记录已加载</Text>
+  </Text>
+  <Text>
+    <LineId>1999101298</LineId>
+    <Text>API 错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101299</LineId>
+    <Text>放弃失败</Text>
+  </Text>
+  <Text>
+    <LineId>1999101300</LineId>
+    <Text>在未查看使用条款和隐私政策的情况下登录 mod.io？
+
+继续登录即表示您同意这些文件。您可以在 mod.io 网站上找到这些文件。
+
+您也可以稍后在 "设置 "中继续登录。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101301</LineId>
+    <Text>您确定要撤销与 mod.io 的连接吗？
+
+您的本地凭据将被删除，对 mod 浏览器的访问也将受到限制。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101302</LineId>
+    <Text>已安装依赖</Text>
+  </Text>
+  <Text>
+    <LineId>1999101303</LineId>
+    <Text>删除依赖项</Text>
+  </Text>
+  <Text>
+    <LineId>1999101304</LineId>
+    <Text>需要手动操作</Text>
+  </Text>
+  <Text>
+    <LineId>1999101305</LineId>
+    <Text>已收集</Text>
+  </Text>
+  <Text>
+    <LineId>1999101306</LineId>
+    <Text>已安装收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101307</LineId>
+    <Text>未关注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101308</LineId>
+    <Text>刷新系列</Text>
+  </Text>
+  <Text>
+    <LineId>1999101309</LineId>
+    <Text>版本 </Text>
+  </Text>
+  <Text>
+    <LineId>1999101310</LineId>
+    <Text>由 </Text>
+  </Text>
+  <Text>
+    <LineId>1999101311</LineId>
+    <Text>用户文档</Text>
+  </Text>
+  <Text>
+    <LineId>1999101312</LineId>
+    <Text>游戏目录</Text>
+  </Text>
+  <Text>
+    <LineId>1999101313</LineId>
+    <Text>配置保存为漫游：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101314</LineId>
+    <Text>一个 5 位数的清关代码已发送至：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101315</LineId>
+    <Text>修改后</Text>
+  </Text>
+  <Text>
+    <LineId>1999101316</LineId>
+    <Text>后续修改</Text>
+  </Text>
+  <Text>
+    <LineId>1999101317</LineId>
+    <Text>重新安装模块</Text>
+  </Text>
+  <Text>
+    <LineId>1999101318</LineId>
+    <Text>放弃失败</Text>
+  </Text>
+  <Text>
+    <LineId>1999101319</LineId>
+    <Text>跟踪失败</Text>
+  </Text>
+  <Text>
+    <LineId>1999101320</LineId>
+    <Text>无法跟踪收集情况</Text>
+  </Text>
+  <Text>
+    <LineId>1999101321</LineId>
+    <Text>安装系列</Text>
+  </Text>
+  <Text>
+    <LineId>1999101322</LineId>
+    <Text>采集预设错误</Text>
+  </Text>
+  <Text>
+    <LineId>1999101323</LineId>
+    <Text>删除被遗弃的依赖关系</Text>
+  </Text>
+  <Text>
+    <LineId>1999101324</LineId>
+    <Text>重置模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101325</LineId>
+    <Text>放弃</Text>
+  </Text>
+  <Text>
+    <LineId>1999101326</LineId>
+    <Text>删除简介</Text>
+  </Text>
+  <Text>
+    <LineId>1999101327</LineId>
+    <Text>缺失的依赖关系</Text>
+  </Text>
+  <Text>
+    <LineId>1999101328</LineId>
+    <Text>帝国档案访问</Text>
+  </Text>
+  <Text>
+    <LineId>1999101350</LineId>
+    <Text>您确定要永久删除预置"{0}"吗？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101351</LineId>
+    <Text>MOD文件夹"{0}"已经存在。重写？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101352</LineId>
+    <Text>您是否希望取消订阅"{0}"？
+
+这将从您的 "新闻源 "中移除此模块的更新，并删除本地模块文件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101353</LineId>
+    <Text>您确定要永久删除 {0}？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101354</LineId>
+    <Text>成功安装 {0}。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101355</LineId>
+    <Text>配置'{0}'已存档。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101356</LineId>
+    <Text>记录'{0}'已成功应用。刷新档案。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101357</LineId>
+    <Text>预设 {0}"已删除。恢复为默认设置（激活所有修改器）。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101358</LineId>
+    <Text>成功卸载 {0}。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101359</LineId>
+    <Text>{0}"的 MOD 文件将重新下载并重新安装。
+
+使用此功能可应用更新或刷新全部文件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101360</LineId>
+    <Text>以下模块已作为"{0}"的依赖项安装，但不再需要：
+
+{1}
+
+也删除它们吗？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101361</LineId>
+    <Text>将"{0}"的所有调整恢复为默认值？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101362</LineId>
+    <Text>从"{0}"重新下载任何丢失或更新的修改器？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101363</LineId>
+    <Text>取消关注"{0}"？
+
+您是否也想取消订阅并删除专属于此收藏集的所有模块？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101364</LineId>
+    <Text>{0}'已成功安装。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101365</LineId>
+    <Text>从档案和本地存储中删除了'{0}'。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101366</LineId>
+    <Text>{0}"已被取消关注。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101367</LineId>
+    <Text>{0}'已成功安装。
+
+由于检测到冲突，该 MOD 已被禁用。
+请在 "激活 "选项卡中解决冲突以启用它。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101368</LineId>
+    <Text>{0}'已成功安装。
+
+ 由于在 "设置 "中关闭了 "自动激活新安装的模块"，因此该模块一直处于禁用状态。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101369</LineId>
+    <Text>以下所需的 MOD 尚未安装，将在"{0}"之前自动下载：
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101370</LineId>
+    <Text>以下所需的 MOD 尚未安装，将自动下载：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101371</LineId>
+    <Text>用户文件 ({0})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101372</LineId>
+    <Text>游戏目录 ({0})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101373</LineId>
+    <Text>保存到漫游的配置： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101374</LineId>
+    <Text>一个 5 位数的通关代码已发送至：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101375</LineId>
+    <Text>版本 {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101376</LineId>
+    <Text>由{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101377</LineId>
+    <Text>作者： {0}  | 已更新：{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101378</LineId>
+    <Text>{0}之后</Text>
+  </Text>
+  <Text>
+    <LineId>1999101379</LineId>
+    <Text>针对 {0} 重置的调整。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101380</LineId>
+    <Text>无法取消订阅：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101381</LineId>
+    <Text>发生技术故障：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101382</LineId>
+    <Text>现在关注"{0}"。
+此集合中的所有模块均已安装和订阅。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101383</LineId>
+    <Text>来自"{0}"的所有 MOD 已成功订阅和安装。
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101384</LineId>
+    <Text>现在跟随"{0}"。
+
+将下载并安装以下 {1} 个 MOD：
+
+{2}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101385</LineId>
+    <Text>保存预设失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101386</LineId>
+    <Text>应用预设失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101387</LineId>
+    <Text>无法删除预置：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101388</LineId>
+    <Text>{0}'已成功安装。
+
+由于检测到冲突，该 MOD 已被禁用。
+请在 "激活 "选项卡中解决冲突以启用它。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101389</LineId>
+    <Text>{0}'已成功安装。
+
+由于在 "设置 "中关闭了 "自动激活新安装的模块"，因此该模块一直处于禁用状态。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101390</LineId>
+    <Text>发生错误：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101391</LineId>
+    <Text>复制日志失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101392</LineId>
+    <Text>获取失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101393</LineId>
+    <Text>卸载失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101394</LineId>
+    <Text>游戏启动失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101395</LineId>
+    <Text>在 Bin\Win64\Anno117.exe 中找不到：
+{0}
+
+请选择 Anno 117 的主安装目录。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101396</LineId>
+    <Text>连接 mod.io 服务器失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101397</LineId>
+    <Text>获取订阅失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101398</LineId>
+    <Text>无法提交评级：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101399</LineId>
+    <Text>获取模块失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101400</LineId>
+    <Text>发生技术故障：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101401</LineId>
+    <Text>取消订阅并删除了以下孤儿模式：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101402</LineId>
+    <Text>以下模式已在 mod.io 上退订，但无法匹配到本地文件夹，必须手动删除：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101403</LineId>
+    <Text>加载模块失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101404</LineId>
+    <Text>现在遵循"{0}"。
+所有修改器都已安装。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101405</LineId>
+    <Text>已成功安装"{0}"中的所有修改器。
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101406</LineId>
+    <Text>取消关注失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101407</LineId>
+    <Text>{0}模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101408</LineId>
+    <Text>{0}模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101409</LineId>
+    <Text>预设中缺少的模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101410</LineId>
+    <Text>此预置中保存的下列模式当前未安装，将被跳过：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101411</LineId>
+    <Text>其他模式的要求</Text>
+  </Text>
+  <Text>
+    <LineId>1999101412</LineId>
+    <Text>无论如何删除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101413</LineId>
+    <Text>无论如何卸载</Text>
+  </Text>
+  <Text>
+    <LineId>1999101414</LineId>
+    <Text>无论如何都要启动</Text>
+  </Text>
+  <Text>
+    <LineId>1999101415</LineId>
+    <Text>无论如何都要继续</Text>
+  </Text>
+  <Text>
+    <LineId>1999101416</LineId>
+    <Text>缺失的依赖关系</Text>
+  </Text>
+  <Text>
+    <LineId>1999101417</LineId>
+    <Text>{0}'被以下活动模块列为必需依赖项：
+
+{1}
+
+取消订阅并移除它可能会破坏这些模块。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101418</LineId>
+    <Text>{0}'被以下活动模块列为必需依赖项：
+
+{1}
+
+卸载它可能会破坏这些模块。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101419</LineId>
+    <Text>您的活动模式列表中缺少以下所需的模式：
+
+{0}
+
+不使用它们可能会导致错误、崩溃或不稳定！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101420</LineId>
+    <Text>{0}'已取消订阅，并从本地存储中删除。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101421</LineId>
+    <Text>无法跟踪数据集：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101422</LineId>
+    <Text>未能跟踪数据集：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101423</LineId>
+    <Text>打开模块管理器的配置文件夹</Text>
+  </Text>
+  <Text>
+    <LineId>1999101424</LineId>
+    <Text>打开 Mod Manager 调试日志文件：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101425</LineId>
+    <Text>读取日志时出错：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101426</LineId>
+    <Text>在以下位置未找到日志文件：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101427</LineId>
+    <Text>从帝国档案馆加载...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101428</LineId>
+    <Text>+ 或将 .zip 文件拖放到此处</Text>
+  </Text>
+  <Text>
+    <LineId>1999101429</LineId>
+    <Text>安装用于拖放的 "tkinterdnd2</Text>
+  </Text>
+  <Text>
+    <LineId>1999101430</LineId>
+    <Text>要访问在线 mod.io 功能，您必须输入您的凭据。
+
+1.在 mod.io 注册或登录
+2.点击你的用户头像（在网站面板左下方）--"API 访问
+3.在 "API 访问 "下，阅读并接受 mod.io API 密钥使用条款。
+4.然后点击 "申请 API 密钥"。
+5.复制生成的 API 密钥并粘贴到下面。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101431</LineId>
+    <Text>此应用程序使用 mod.io 支持自动安装用户生成的内容（mod）。
+
+点击 "我同意 "即表示您同意 mod.io 使用条款。请参阅 mod.io 隐私政策，了解 mod.io 如何处理您的个人数据。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101432</LineId>
+    <Text>下载次数最多</Text>
+  </Text>
+  <Text>
+    <LineId>1999101433</LineId>
+    <Text>按字母顺序排列</Text>
+  </Text>
+  <Text>
+    <LineId>1999101434</LineId>
+    <Text>最新</Text>
+  </Text>
+  <Text>
+    <LineId>1999101435</LineId>
+    <Text>最高评级</Text>
+  </Text>
+  <Text>
+    <LineId>1999101436</LineId>
+    <Text>作者</Text>
+  </Text>
+  <Text>
+    <LineId>1999101437</LineId>
+    <Text>活动模式 - 加载顺序</Text>
+  </Text>
+  <Text>
+    <LineId>1999101438</LineId>
+    <Text>停用的修改器</Text>
+  </Text>
+  <Text>
+    <LineId>1999101439</LineId>
+    <Text>活动模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101440</LineId>
+    <Text>{0}"被标记为不兼容
+与以下当前激活的模式不兼容：
+
+{1}
+
+同时运行可能会导致不稳定或错误。
+您想如何继续？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101441</LineId>
+    <Text>订阅 {0} mod(s)...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101442</LineId>
+    <Text>已安装所有修改器。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101443</LineId>
+    <Text>安装{0}个新模块...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101444</LineId>
+    <Text>完成！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101445</LineId>
+    <Text>激活/安装的模块：{0} / {1}   | 总大小： {2}/ {3}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101446</LineId>
+    <Text>  - {0}"（{1}为必填项）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101447</LineId>
+    <Text>错误：无法检索文件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101448</LineId>
+    <Text>连接失败：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101449</LineId>
+    <Text>找到{1}模式中的{0}模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101450</LineId>
+    <Text>订阅了 {1} 个模式中的 {0} 个模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101451</LineId>
+    <Text>该集合中的 {0} 模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101452</LineId>
+    <Text>{0}本系列中的模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101453</LineId>
+    <Text>- 需要新游戏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101454</LineId>
+    <Text>- 中途安全移除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101455</LineId>
+    <Text>- 兼容多人游戏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101456</LineId>
+    <Text>- 在运动中安全使用</Text>
+  </Text>
+  <Text>
+    <LineId>1999101457</LineId>
+    <Text>已知问题</Text>
+  </Text>
+  <Text>
+    <LineId>1999101458</LineId>
+    <Text>要求</Text>
+  </Text>
+  <Text>
+    <LineId>1999101459</LineId>
+    <Text>可选</Text>
+  </Text>
+  <Text>
+    <LineId>1999101460</LineId>
+    <Text>加载后</Text>
+  </Text>
+  <Text>
+    <LineId>1999101461</LineId>
+    <Text>弃用</Text>
+  </Text>
+  <Text>
+    <LineId>1999101462</LineId>
+    <Text>不兼容</Text>
+  </Text>
+  <Text>
+    <LineId>1999101463</LineId>
+    <Text>最后加载</Text>
+  </Text>
+  <Text>
+    <LineId>1999101464</LineId>
+    <Text>{0}的{1}集合</Text>
+  </Text>
+</Texts>

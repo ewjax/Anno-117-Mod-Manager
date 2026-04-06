@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Texts>
+  <Text>
+    <LineId>1999101000</LineId>
+    <Text>Anno 117 Mod Manager</Text>
+  </Text>
+  <Text>
+    <LineId>1999101001</LineId>
+    <Text>ИНТЕГРАЦИЯ МОДОВ В БРАУЗЕР</Text>
+  </Text>
+  <Text>
+    <LineId>1999101002</LineId>
+    <Text>Хотите включить интеграцию с браузером mod.io?
+
+Это позволит вам просматривать и устанавливать моды прямо из приложения, но для этого потребуется бесплатная учетная запись mod.io и ключ API.
+
+Вы всегда можете изменить это позже в Настройках.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101003</LineId>
+    <Text>Включить</Text>
+  </Text>
+  <Text>
+    <LineId>1999101004</LineId>
+    <Text>Не сейчас</Text>
+  </Text>
+  <Text>
+    <LineId>1999101005</LineId>
+    <Text>Сохранить предустановку</Text>
+  </Text>
+  <Text>
+    <LineId>1999101006</LineId>
+    <Text>НАЗОВИТЕ СВОЮ ПРЕДУСТАНОВКУ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101007</LineId>
+    <Text>Введите обозначение для конфигурации этого мода:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101008</LineId>
+    <Text>Подтвердите</Text>
+  </Text>
+  <Text>
+    <LineId>1999101009</LineId>
+    <Text>Mod Info</Text>
+  </Text>
+  <Text>
+    <LineId>1999101010</LineId>
+    <Text>НОВОСТИ И ОБНОВЛЕНИЯ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101011</LineId>
+    <Text>  ОБНОВИТЬ НОВОСТИ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101012</LineId>
+    <Text>  ANNO UNION</Text>
+  </Text>
+  <Text>
+    <LineId>1999101013</LineId>
+    <Text>Последние новости Империи...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101014</LineId>
+    <Text>Новости не найдены. Проверьте соединение.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101015</LineId>
+    <Text>Мод не найден в архивах.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101016</LineId>
+    <Text>Нет изображения
+прилагается</Text>
+  </Text>
+  <Text>
+    <LineId>1999101017</LineId>
+    <Text>  Открыть в браузере модов</Text>
+  </Text>
+  <Text>
+    <LineId>1999101018</LineId>
+    <Text>  Открыть в коллекциях</Text>
+  </Text>
+  <Text>
+    <LineId>1999101019</LineId>
+    <Text>Активный
+профиль:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101020</LineId>
+    <Text>  Сохранить
+как новый</Text>
+  </Text>
+  <Text>
+    <LineId>1999101021</LineId>
+    <Text>  Удалить</Text>
+  </Text>
+  <Text>
+    <LineId>1999101022</LineId>
+    <Text>Поиск:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101023</LineId>
+    <Text>  Активировать
+все</Text>
+  </Text>
+  <Text>
+    <LineId>1999101024</LineId>
+    <Text>  Заказ груза</Text>
+  </Text>
+  <Text>
+    <LineId>1999101025</LineId>
+    <Text>Моды не найдены.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101026</LineId>
+    <Text>Название мода</Text>
+  </Text>
+  <Text>
+    <LineId>1999101027</LineId>
+    <Text>Категория</Text>
+  </Text>
+  <Text>
+    <LineId>1999101028</LineId>
+    <Text>Мод не выбран</Text>
+  </Text>
+  <Text>
+    <LineId>1999101029</LineId>
+    <Text> Отписаться от рассылки</Text>
+  </Text>
+  <Text>
+    <LineId>1999101030</LineId>
+    <Text> Удалить мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101031</LineId>
+    <Text>  Настраиваемый мод - нажмите, чтобы настроить</Text>
+  </Text>
+  <Text>
+    <LineId>1999101032</LineId>
+    <Text>Сложность: </Text>
+  </Text>
+  <Text>
+    <LineId>1999101033</LineId>
+    <Text>Зависимости</Text>
+  </Text>
+  <Text>
+    <LineId>1999101034</LineId>
+    <Text>Папка:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101035</LineId>
+    <Text>Размер:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101036</LineId>
+    <Text>Активировать пропажу</Text>
+  </Text>
+  <Text>
+    <LineId>1999101037</LineId>
+    <Text>Вернуться</Text>
+  </Text>
+  <Text>
+    <LineId>1999101038</LineId>
+    <Text>Ручная установка</Text>
+  </Text>
+  <Text>
+    <LineId>1999101039</LineId>
+    <Text>Уже скачали мод?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101040</LineId>
+    <Text>Выберите архив .zip для установки</Text>
+  </Text>
+  <Text>
+    <LineId>1999101041</LineId>
+    <Text>Обновить журнал</Text>
+  </Text>
+  <Text>
+    <LineId>1999101042</LineId>
+    <Text>Копирование текста в буфер обмена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101043</LineId>
+    <Text>Настройки менеджера модов</Text>
+  </Text>
+  <Text>
+    <LineId>1999101044</LineId>
+    <Text>Общие сведения</Text>
+  </Text>
+  <Text>
+    <LineId>1999101045</LineId>
+    <Text>Обучающие советы</Text>
+  </Text>
+  <Text>
+    <LineId>1999101046</LineId>
+    <Text>Показывает полезные подсказки при наведении курсора на кнопки во всем приложении.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101047</LineId>
+    <Text>Показывать сообщения r/anno в ленте новостей</Text>
+  </Text>
+  <Text>
+    <LineId>1999101048</LineId>
+    <Text>Отображает последние сообщения с сайта reddit.com/r/anno наряду с другими новостями.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101049</LineId>
+    <Text>Автоматическая активация вновь установленных модов</Text>
+  </Text>
+  <Text>
+    <LineId>1999101050</LineId>
+    <Text>Если отключить эту функцию, новые моды появятся в списке, но останутся не отмеченными, пока их не включат вручную.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101051</LineId>
+    <Text>Игровые файлы</Text>
+  </Text>
+  <Text>
+    <LineId>1999101052</LineId>
+    <Text>Anno 117 Каталог установки:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101053</LineId>
+    <Text>Просмотреть</Text>
+  </Text>
+  <Text>
+    <LineId>1999101054</LineId>
+    <Text>Мод Storage:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101055</LineId>
+    <Text>интеграция с mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101056</LineId>
+    <Text>Ключ API:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101057</LineId>
+    <Text>Ключ сохранения</Text>
+  </Text>
+  <Text>
+    <LineId>1999101058</LineId>
+    <Text>Статус: Аутентифицирован ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101059</LineId>
+    <Text>Отключить учетную запись</Text>
+  </Text>
+  <Text>
+    <LineId>1999101060</LineId>
+    <Text>Статус: Не подключено</Text>
+  </Text>
+  <Text>
+    <LineId>1999101061</LineId>
+    <Text>Подключитесь к Mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101062</LineId>
+    <Text>Откройте папку Config</Text>
+  </Text>
+  <Text>
+    <LineId>1999101063</LineId>
+    <Text>Просмотр журнала отладки</Text>
+  </Text>
+  <Text>
+    <LineId>1999101064</LineId>
+    <Text>Хорошо</Text>
+  </Text>
+  <Text>
+    <LineId>1999101065</LineId>
+    <Text>Да</Text>
+  </Text>
+  <Text>
+    <LineId>1999101066</LineId>
+    <Text>Нет</Text>
+  </Text>
+  <Text>
+    <LineId>1999101067</LineId>
+    <Text>Требуются императорские дипломы</Text>
+  </Text>
+  <Text>
+    <LineId>1999101068</LineId>
+    <Text>ДОСТУП К ИМПЕРАТОРСКОМУ АРХИВУ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101069</LineId>
+    <Text>Откройте профиль mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101070</LineId>
+    <Text>УТВЕРЖДАЮ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101071</LineId>
+    <Text>Соглашение Mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101072</LineId>
+    <Text>Посмотреть условия использования</Text>
+  </Text>
+  <Text>
+    <LineId>1999101073</LineId>
+    <Text>Посмотреть политику конфиденциальности</Text>
+  </Text>
+  <Text>
+    <LineId>1999101074</LineId>
+    <Text>Я СОГЛАСЕН</Text>
+  </Text>
+  <Text>
+    <LineId>1999101075</LineId>
+    <Text>НЕТ, СПАСИБО</Text>
+  </Text>
+  <Text>
+    <LineId>1999101076</LineId>
+    <Text>Имперская проверка личности</Text>
+  </Text>
+  <Text>
+    <LineId>1999101077</LineId>
+    <Text>ПРЕДЪЯВИТЕ УДОСТОВЕРЕНИЕ ЛИЧНОСТИ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101078</LineId>
+    <Text>Введите адрес электронной почты, связанный с вашей учетной записью mod.io:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101079</LineId>
+    <Text>ЗАПРОСИТЬ КОД ДОСТУПА</Text>
+  </Text>
+  <Text>
+    <LineId>1999101080</LineId>
+    <Text>Допуск к секретности</Text>
+  </Text>
+  <Text>
+    <LineId>1999101081</LineId>
+    <Text>ВВЕДИТЕ КОД БЕЗОПАСНОСТИ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101082</LineId>
+    <Text>ПОДТВЕРДИТЬ УЧЕТНЫЕ ДАННЫЕ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101083</LineId>
+    <Text>MOD BROWSER</Text>
+  </Text>
+  <Text>
+    <LineId>1999101084</LineId>
+    <Text>  Подписка</Text>
+  </Text>
+  <Text>
+    <LineId>1999101085</LineId>
+    <Text>Пожалуйста, авторизуйтесь в "Настройках".</Text>
+  </Text>
+  <Text>
+    <LineId>1999101086</LineId>
+    <Text>Поиск...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101087</LineId>
+    <Text>Консультации в Имперском архиве...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101088</LineId>
+    <Text>Моды не найдены.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101089</LineId>
+    <Text>Для этой игры не найдено подписных модов.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101090</LineId>
+    <Text>⌛ Загрузка...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101091</LineId>
+    <Text>  Одобрено</Text>
+  </Text>
+  <Text>
+    <LineId>1999101092</LineId>
+    <Text>  Поддержите</Text>
+  </Text>
+  <Text>
+    <LineId>1999101093</LineId>
+    <Text>  ПОСЕТИТЕ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101094</LineId>
+    <Text>  УСТАНОВИТЬ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101095</LineId>
+    <Text>+ ДОПОЛНИТЕЛЬНЫЕ МОДЫ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101096</LineId>
+    <Text>⌛ Loading more...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101097</LineId>
+    <Text>Без предварительного просмотра</Text>
+  </Text>
+  <Text>
+    <LineId>1999101098</LineId>
+    <Text>ЗАКРЫТЬ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101099</LineId>
+    <Text>УСТАНОВИТЬ МОДУ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101100</LineId>
+    <Text>⌛ Loading Main Image...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101101</LineId>
+    <Text>АРХИВНЫЕ ДАННЫЕ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101102</LineId>
+    <Text>Визуальный архив поврежден</Text>
+  </Text>
+  <Text>
+    <LineId>1999101103</LineId>
+    <Text>Имперская логистика</Text>
+  </Text>
+  <Text>
+    <LineId>1999101104</LineId>
+    <Text>ПРИОБРЕТАЯ АРХИВ:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101105</LineId>
+    <Text>Связаться с Mod.io...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101106</LineId>
+    <Text>Загрузка байт-потока...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101107</LineId>
+    <Text>Интеграция с архивами...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101108</LineId>
+    <Text>  ПОДПИСАНО</Text>
+  </Text>
+  <Text>
+    <LineId>1999101109</LineId>
+    <Text>  ОТПИСАТЬСЯ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101110</LineId>
+    <Text>УДАЛЕНИЕ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101111</LineId>
+    <Text>НАСТРОЙКА КОНФИГУРАЦИЙ МОДОВ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101112</LineId>
+    <Text>Сброс всех
+настроек по умолчанию</Text>
+  </Text>
+  <Text>
+    <LineId>1999101113</LineId>
+    <Text>Настраиваемых модов
+не найдено.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101114</LineId>
+    <Text>Выберите мод, чтобы
+просмотреть его параметры.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101115</LineId>
+    <Text>Сброс настроек
+по умолчанию</Text>
+  </Text>
+  <Text>
+    <LineId>1999101116</LineId>
+    <Text>Схема опций не может быть прочитана.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101117</LineId>
+    <Text>Предупреждение о несовместимости</Text>
+  </Text>
+  <Text>
+    <LineId>1999101118</LineId>
+    <Text>⚠ ОБНАРУЖЕН КОНФЛИКТ МОДОВ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101119</LineId>
+    <Text>Принять риск</Text>
+  </Text>
+  <Text>
+    <LineId>1999101120</LineId>
+    <Text>Сохранять отключенным</Text>
+  </Text>
+  <Text>
+    <LineId>1999101121</LineId>
+    <Text>Отключите конфликтующий мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101122</LineId>
+    <Text>КОЛЛЕКЦИИ МОДОВ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101123</LineId>
+    <Text>  Следовать</Text>
+  </Text>
+  <Text>
+    <LineId>1999101124</LineId>
+    <Text>+ ДРУГИЕ КОЛЛЕКЦИИ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101125</LineId>
+    <Text>Коллекции не найдены.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101126</LineId>
+    <Text>Вы еще не следите за коллекциями.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101127</LineId>
+    <Text>МОДЫ В ЭТОЙ КОЛЛЕКЦИИ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101128</LineId>
+    <Text>⌛ Захватывающие мод...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101129</LineId>
+    <Text>В этой коллекции нет модов.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101130</LineId>
+    <Text>  ПОЛЕЗНО</Text>
+  </Text>
+  <Text>
+    <LineId>1999101131</LineId>
+    <Text>  ОТКЛЮЧИТЬ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101132</LineId>
+    <Text>Следуя...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101133</LineId>
+    <Text>Следующая коллекция</Text>
+  </Text>
+  <Text>
+    <LineId>1999101134</LineId>
+    <Text>Коллекционные моды...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101135</LineId>
+    <Text>Отключить коллекцию</Text>
+  </Text>
+  <Text>
+    <LineId>1999101136</LineId>
+    <Text>ОТМЕНИТЬ СБОР</Text>
+  </Text>
+  <Text>
+    <LineId>1999101137</LineId>
+    <Text> Отключить + удалить моды</Text>
+  </Text>
+  <Text>
+    <LineId>1999101138</LineId>
+    <Text> Только отменить</Text>
+  </Text>
+  <Text>
+    <LineId>1999101139</LineId>
+    <Text>  СЛЕДИТЬ ЗА</Text>
+  </Text>
+  <Text>
+    <LineId>1999101140</LineId>
+    <Text>СЛЕДИТЬ ЗА</Text>
+  </Text>
+  <Text>
+    <LineId>1999101141</LineId>
+    <Text>Имперские архивы</Text>
+  </Text>
+  <Text>
+    <LineId>1999101142</LineId>
+    <Text>Поведение при установке менеджера по умолчанию</Text>
+  </Text>
+  <Text>
+    <LineId>1999101143</LineId>
+    <Text>Лента новостей</Text>
+  </Text>
+  <Text>
+    <LineId>1999101144</LineId>
+    <Text>Просмотр журнала отладки</Text>
+  </Text>
+  <Text>
+    <LineId>1999101145</LineId>
+    <Text>Установите</Text>
+  </Text>
+  <Text>
+    <LineId>1999101146</LineId>
+    <Text>Загрузка...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101147</LineId>
+    <Text>  Настраиваемый мод (нажмите, чтобы настроить)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101148</LineId>
+    <Text>Новости</Text>
+  </Text>
+  <Text>
+    <LineId>1999101149</LineId>
+    <Text> Активация  
+  мода</Text>
+  </Text>
+  <Text>
+    <LineId>1999101150</LineId>
+    <Text>Мод Браузер</Text>
+  </Text>
+  <Text>
+    <LineId>1999101151</LineId>
+    <Text>Коллекции</Text>
+  </Text>
+  <Text>
+    <LineId>1999101152</LineId>
+    <Text>    Ручная  
+    установка</Text>
+  </Text>
+  <Text>
+    <LineId>1999101153</LineId>
+    <Text>  Журнал  
+  модлоадера</Text>
+  </Text>
+  <Text>
+    <LineId>1999101154</LineId>
+    <Text>Настройка</Text>
+  </Text>
+  <Text>
+    <LineId>1999101155</LineId>
+    <Text>Настройки</Text>
+  </Text>
+  <Text>
+    <LineId>1999101156</LineId>
+    <Text>Язык:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101157</LineId>
+    <Text>Перезапустите приложение, чтобы полностью применить новый язык.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101158</LineId>
+    <Text>ХОРОШО ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101159</LineId>
+    <Text>  ЗАПУСК
+ИГРА</Text>
+  </Text>
+  <Text>
+    <LineId>1999101160</LineId>
+    <Text>ОБНОВИТЬ НОВОСТИ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101161</LineId>
+    <Text>ANNO UNION</Text>
+  </Text>
+  <Text>
+    <LineId>1999101162</LineId>
+    <Text>Нет изображения
+прилагается</Text>
+  </Text>
+  <Text>
+    <LineId>1999101163</LineId>
+    <Text> Открыть в браузере модов</Text>
+  </Text>
+  <Text>
+    <LineId>1999101164</LineId>
+    <Text> Открыть в коллекциях</Text>
+  </Text>
+  <Text>
+    <LineId>1999101165</LineId>
+    <Text> Настраиваемый мод - нажмите, чтобы настроить</Text>
+  </Text>
+  <Text>
+    <LineId>1999101166</LineId>
+    <Text>Подписка</Text>
+  </Text>
+  <Text>
+    <LineId>1999101167</LineId>
+    <Text> Одобрено</Text>
+  </Text>
+  <Text>
+    <LineId>1999101168</LineId>
+    <Text> ПОСЕТИТЕ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101169</LineId>
+    <Text> УСТАНОВИТЬ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101170</LineId>
+    <Text>Н/Д</Text>
+  </Text>
+  <Text>
+    <LineId>1999101171</LineId>
+    <Text>⌛ ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101172</LineId>
+    <Text>✓ Одобрено</Text>
+  </Text>
+  <Text>
+    <LineId>1999101173</LineId>
+    <Text>❤ Одобрить</Text>
+  </Text>
+  <Text>
+    <LineId>1999101174</LineId>
+    <Text>⌛ Смена вида...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101175</LineId>
+    <Text> ПОДПИСАНО</Text>
+  </Text>
+  <Text>
+    <LineId>1999101176</LineId>
+    <Text> ОТПИСАТЬСЯ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101177</LineId>
+    <Text>УСТАНОВИТЬ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101178</LineId>
+    <Text>Следовать</Text>
+  </Text>
+  <Text>
+    <LineId>1999101179</LineId>
+    <Text> СЛЕДИТЬ ЗА</Text>
+  </Text>
+  <Text>
+    <LineId>1999101180</LineId>
+    <Text> ПОЛЕЗНО</Text>
+  </Text>
+  <Text>
+    <LineId>1999101181</LineId>
+    <Text> ОТКЛЮЧИТЬ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101182</LineId>
+    <Text>СЛЕДИТЬ ЗА</Text>
+  </Text>
+  <Text>
+    <LineId>1999101183</LineId>
+    <Text>Сохранить
+как новый</Text>
+  </Text>
+  <Text>
+    <LineId>1999101184</LineId>
+    <Text>Удалить</Text>
+  </Text>
+  <Text>
+    <LineId>1999101185</LineId>
+    <Text>Активировать все</Text>
+  </Text>
+  <Text>
+    <LineId>1999101186</LineId>
+    <Text> Заказ груза</Text>
+  </Text>
+  <Text>
+    <LineId>1999101187</LineId>
+    <Text>Первый старт</Text>
+  </Text>
+  <Text>
+    <LineId>1999101188</LineId>
+    <Text>Сессия истекла</Text>
+  </Text>
+  <Text>
+    <LineId>1999101189</LineId>
+    <Text>Ошибка</Text>
+  </Text>
+  <Text>
+    <LineId>1999101190</LineId>
+    <Text>Сброс профиля</Text>
+  </Text>
+  <Text>
+    <LineId>1999101191</LineId>
+    <Text>Профиль системы</Text>
+  </Text>
+  <Text>
+    <LineId>1999101192</LineId>
+    <Text>Недопустимый файл</Text>
+  </Text>
+  <Text>
+    <LineId>1999101193</LineId>
+    <Text>Ошибка установки</Text>
+  </Text>
+  <Text>
+    <LineId>1999101194</LineId>
+    <Text>Неверный мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101195</LineId>
+    <Text>Буфер обмена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101196</LineId>
+    <Text>Доступ запрещен</Text>
+  </Text>
+  <Text>
+    <LineId>1999101197</LineId>
+    <Text>Папка не найдена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101198</LineId>
+    <Text>Императорский указ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101199</LineId>
+    <Text>Журнал не найден</Text>
+  </Text>
+  <Text>
+    <LineId>1999101200</LineId>
+    <Text>Папка конфигурации не найдена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101201</LineId>
+    <Text>Успех</Text>
+  </Text>
+  <Text>
+    <LineId>1999101202</LineId>
+    <Text>Соединение установлено</Text>
+  </Text>
+  <Text>
+    <LineId>1999101203</LineId>
+    <Text>Обновленные условия</Text>
+  </Text>
+  <Text>
+    <LineId>1999101204</LineId>
+    <Text>Валидация не прошла</Text>
+  </Text>
+  <Text>
+    <LineId>1999101205</LineId>
+    <Text>Отмена соединения</Text>
+  </Text>
+  <Text>
+    <LineId>1999101206</LineId>
+    <Text>Сброс всех настроек</Text>
+  </Text>
+  <Text>
+    <LineId>1999101207</LineId>
+    <Text>Ошибка запуска</Text>
+  </Text>
+  <Text>
+    <LineId>1999101208</LineId>
+    <Text>Ошибка загрузки</Text>
+  </Text>
+  <Text>
+    <LineId>1999101209</LineId>
+    <Text>Предварительная установка загружена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101210</LineId>
+    <Text>Перезапись</Text>
+  </Text>
+  <Text>
+    <LineId>1999101211</LineId>
+    <Text>Удалить мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101212</LineId>
+    <Text>Установлено (неактивно)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101213</LineId>
+    <Text>Имперская логистика</Text>
+  </Text>
+  <Text>
+    <LineId>1999101214</LineId>
+    <Text>Переустановите мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101220</LineId>
+    <Text>Anno 117 не был найден автоматически. Пожалуйста, выберите папку установки игры.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101221</LineId>
+    <Text>Срок действия вашего токена сессии mod.io истек.
+Пожалуйста, переподключите свой аккаунт в Настройках, чтобы продолжить использование Mod Browser.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101222</LineId>
+    <Text>Не найдено ни одного активного профиля для сохранения.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101223</LineId>
+    <Text>Переключился на дефолт. Все установленные моды активированы.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101224</LineId>
+    <Text>Профиль "По умолчанию" является системным требованием и не может быть удален.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101225</LineId>
+    <Text>Пожалуйста, скиньте архив с модом в формате .zip.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101226</LineId>
+    <Text>Путь хранения Mod не установлен.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101227</LineId>
+    <Text>В этом ZIP не обнаружено файла modinfo.json.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101228</LineId>
+    <Text>Содержимое журнала успешно скопировано!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101229</LineId>
+    <Text>Чтобы получить доступ к этой функции, настройте свой API-ключ mod.io в Настройках.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101230</LineId>
+    <Text>Не удалось найти папку установки мода.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101231</LineId>
+    <Text>Метаданные мода не найдены.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101232</LineId>
+    <Text>Anno117.exe не найден! Пожалуйста, укажите путь в Настройках.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101233</LineId>
+    <Text>ключ API mod.io успешно обновлен.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101234</LineId>
+    <Text>Файл журнала отладки еще не создан.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101235</LineId>
+    <Text>Папка конфигурации еще не создана.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101236</LineId>
+    <Text>Ключ API не может быть пустым.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101237</LineId>
+    <Text>Учетные данные приняты. Переходим к аутентификации.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101238</LineId>
+    <Text>Срок действия вашей сессии mod.io истек. Пожалуйста, переподключите свой аккаунт в Настройках.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101239</LineId>
+    <Text>Имперские архивы теперь синхронизированы с вашей учетной записью.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101240</LineId>
+    <Text>условия использования mod.io были обновлены с момента вашего последнего согласия.
+Вам нужно будет просмотреть и принять их снова, прежде чем продолжить.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101241</LineId>
+    <Text>Предоставленный код безопасности был отклонен архивом.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101242</LineId>
+    <Text>Ваши учетные данные были удалены из локального хранилища. Архивы теперь заблокированы.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101243</LineId>
+    <Text>Условия использования mod.io изменились. Пожалуйста, пройдите повторную аутентификацию, чтобы ознакомиться с ними и принять их.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101244</LineId>
+    <Text>Вы уверены, что хотите вернуть все моды к их конфигурации по умолчанию?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101245</LineId>
+    <Text>Все твики мода были сброшены.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101250</LineId>
+    <Text>Поиск модов по названию или категории.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101251</LineId>
+    <Text>Сброс к профилю по умолчанию - активирует все установленные моды.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101252</LineId>
+    <Text>Откройте папку текущей установки мода в Проводнике.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101253</LineId>
+    <Text>Перезагрузите текущий список модов с диска - удобно, если вы установили мод "старым" суперручным способом - иначе он не появится в списке сразу.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101254</LineId>
+    <Text>Toggle load order view - сортировка модов в порядке их загрузки игрой.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101255</LineId>
+    <Text>Откройте папку установки этого мода в Проводнике.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101256</LineId>
+    <Text>Отпишитесь от этого мода на mod.io и удалите его локальные файлы.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101257</LineId>
+    <Text>Удалите этот мод, удалив его локальные файлы.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101258</LineId>
+    <Text>Откройте этот мод во вкладке Tweaking, чтобы настроить его содержимое.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101259</LineId>
+    <Text>Активируйте зависимость от отсутствующего мода.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101260</LineId>
+    <Text>Обновляйте файл mod-loader.log вручную после запуска игры.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101261</LineId>
+    <Text>Копирует содержимое mod-loader.log в виде файла .txt в буфер обмена, чтобы поделиться им в Discord.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101262</LineId>
+    <Text>Найдите в проводнике папку установки игры Anno. Выберите папку с названием "Anno 117 - Pax Romana" и нажмите "Окей". Если в текущем окне вы видите папку "mods", это не то место - переместитесь на один уровень вверх!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101263</LineId>
+    <Text>Сохраните свой ключ API mod.io.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101264</LineId>
+    <Text>Отключите текущий аккаунт mod.io от приложения. Браузер модов и Коллекции перестанут работать.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101265</LineId>
+    <Text>Подключите свой аккаунт mod.io к приложению. Браузер модов и коллекции теперь доступны.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101266</LineId>
+    <Text>На указанный адрес электронной почты отправляется письмо, содержащее 5-значный код безопасности.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101267</LineId>
+    <Text>Показывать только моды, на которые вы подписаны.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101268</LineId>
+    <Text>Перезагружает и переустанавливает этот мод, например, если файлы повреждены или мод получил обновление.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101269</LineId>
+    <Text>Сбрасывает значения ВСЕХ параметров для ВСЕХ модов на значения по умолчанию, указанные в modinfo.json мода.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101270</LineId>
+    <Text>Сбрасывает значения параметров для ЭТОГО мода на значения по умолчанию, указанные в modinfo.json этого мода.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101271</LineId>
+    <Text>Выберите цвет с помощью цветового круга.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101272</LineId>
+    <Text>Отключает конфликтующий мод и включает текущий.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101273</LineId>
+    <Text>Показывайте только коллекции, за которыми вы следите.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101274</LineId>
+    <Text>Перезагружает все отсутствующие или обновленные моды из коллекции, не трогая существующие.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101280</LineId>
+    <Text>Предустановка сохранена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101281</LineId>
+    <Text>Подтвердить удаление</Text>
+  </Text>
+  <Text>
+    <LineId>1999101282</LineId>
+    <Text>Установка не удалась</Text>
+  </Text>
+  <Text>
+    <LineId>1999101283</LineId>
+    <Text>Отказаться от мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101284</LineId>
+    <Text>Недопустимая папка</Text>
+  </Text>
+  <Text>
+    <LineId>1999101285</LineId>
+    <Text>Войдите в mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101286</LineId>
+    <Text>Ошибка логистики</Text>
+  </Text>
+  <Text>
+    <LineId>1999101287</LineId>
+    <Text>Подтвердите отключение</Text>
+  </Text>
+  <Text>
+    <LineId>1999101288</LineId>
+    <Text>Одобрение не состоялось</Text>
+  </Text>
+  <Text>
+    <LineId>1999101289</LineId>
+    <Text>Установка зависимостей</Text>
+  </Text>
+  <Text>
+    <LineId>1999101290</LineId>
+    <Text>Перезапись</Text>
+  </Text>
+  <Text>
+    <LineId>1999101291</LineId>
+    <Text>Удалить мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101292</LineId>
+    <Text>Установлено (неактивно)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101293</LineId>
+    <Text>Переустановите мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101294</LineId>
+    <Text>Ошибка запуска</Text>
+  </Text>
+  <Text>
+    <LineId>1999101295</LineId>
+    <Text>Ошибка загрузки</Text>
+  </Text>
+  <Text>
+    <LineId>1999101296</LineId>
+    <Text>Предварительная установка загружена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101297</LineId>
+    <Text>Запись загружена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101298</LineId>
+    <Text>Ошибка API</Text>
+  </Text>
+  <Text>
+    <LineId>1999101299</LineId>
+    <Text>Отказаться не удалось</Text>
+  </Text>
+  <Text>
+    <LineId>1999101300</LineId>
+    <Text>Вошли в mod.io, не ознакомившись с Условиями использования и Политикой конфиденциальности?
+
+Продолжая, вы соглашаетесь с этими документами. Вы можете найти их на сайте mod.io.
+
+Вы также можете продолжить вход в систему позже в Настройках.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101301</LineId>
+    <Text>Вы уверены, что хотите отозвать свое подключение к mod.io?
+
+Ваши локальные учетные данные будут удалены, а доступ к браузеру модов будет ограничен.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101302</LineId>
+    <Text>Зависимость установлена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101303</LineId>
+    <Text>Устранение зависимостей</Text>
+  </Text>
+  <Text>
+    <LineId>1999101304</LineId>
+    <Text>Требуется ручное действие</Text>
+  </Text>
+  <Text>
+    <LineId>1999101305</LineId>
+    <Text>Коллекция "Следование</Text>
+  </Text>
+  <Text>
+    <LineId>1999101306</LineId>
+    <Text>Коллекция установлена</Text>
+  </Text>
+  <Text>
+    <LineId>1999101307</LineId>
+    <Text>Отклоненные</Text>
+  </Text>
+  <Text>
+    <LineId>1999101308</LineId>
+    <Text>Коллекция Refresh</Text>
+  </Text>
+  <Text>
+    <LineId>1999101309</LineId>
+    <Text>Версия </Text>
+  </Text>
+  <Text>
+    <LineId>1999101310</LineId>
+    <Text>на </Text>
+  </Text>
+  <Text>
+    <LineId>1999101311</LineId>
+    <Text>Документы пользователя</Text>
+  </Text>
+  <Text>
+    <LineId>1999101312</LineId>
+    <Text>Каталог игр</Text>
+  </Text>
+  <Text>
+    <LineId>1999101313</LineId>
+    <Text>Конфигурация сохранена в Roaming:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101314</LineId>
+    <Text>На него был отправлен пятизначный код оформления:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101315</LineId>
+    <Text>мод последовал</Text>
+  </Text>
+  <Text>
+    <LineId>1999101316</LineId>
+    <Text>моды следовали</Text>
+  </Text>
+  <Text>
+    <LineId>1999101317</LineId>
+    <Text>Переустановите мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101318</LineId>
+    <Text>Отказаться не удалось</Text>
+  </Text>
+  <Text>
+    <LineId>1999101319</LineId>
+    <Text>Следовать не удалось</Text>
+  </Text>
+  <Text>
+    <LineId>1999101320</LineId>
+    <Text>Не удалось проследить за сбором</Text>
+  </Text>
+  <Text>
+    <LineId>1999101321</LineId>
+    <Text>Установка коллекции</Text>
+  </Text>
+  <Text>
+    <LineId>1999101322</LineId>
+    <Text>Ошибка предварительной установки коллекции</Text>
+  </Text>
+  <Text>
+    <LineId>1999101323</LineId>
+    <Text>Удаление устаревших зависимостей</Text>
+  </Text>
+  <Text>
+    <LineId>1999101324</LineId>
+    <Text>Сброс мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101325</LineId>
+    <Text>Отказаться от</Text>
+  </Text>
+  <Text>
+    <LineId>1999101326</LineId>
+    <Text>Профиль удален</Text>
+  </Text>
+  <Text>
+    <LineId>1999101327</LineId>
+    <Text>Отсутствующие зависимости</Text>
+  </Text>
+  <Text>
+    <LineId>1999101328</LineId>
+    <Text>Доступ к императорскому архиву</Text>
+  </Text>
+  <Text>
+    <LineId>1999101350</LineId>
+    <Text>Вы уверены, что хотите навсегда удалить предустановку '{0}'?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101351</LineId>
+    <Text>Папка мода '{0}' уже существует. Перезаписать?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101352</LineId>
+    <Text>Вы хотите отказаться от подписки на '{0}'?
+
+Это удалит обновления для этого мода из вашей ленты новостей и удалит локальные файлы мода.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101353</LineId>
+    <Text>Вы уверены, что хотите навсегда удалить {0}?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101354</LineId>
+    <Text>Установка {0} прошла успешно.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101355</LineId>
+    <Text>Конфигурация '{0}' была заархивирована.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101356</LineId>
+    <Text>Запись '{0}' успешно применена. Обновление архивов.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101357</LineId>
+    <Text>Предустановка '{0}' удалена. Возврат к значению "По умолчанию" (все моды активированы).</Text>
+  </Text>
+  <Text>
+    <LineId>1999101358</LineId>
+    <Text>Успешно деинсталлировано {0}.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101359</LineId>
+    <Text>Файлы мода '{0}' будут заново скачаны и переустановлены.
+
+Используйте эту команду, чтобы применить обновление или полностью обновить файлы.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101360</LineId>
+    <Text>Следующие моды были установлены как зависимости от '{0}' и больше не требуются:
+
+{1}
+
+Удалить их тоже?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101361</LineId>
+    <Text>Вернуть все твики для '{0}' к значениям по умолчанию?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101362</LineId>
+    <Text>Перезагрузить все отсутствующие или обновленные моды из '{0}'?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101363</LineId>
+    <Text>Отказаться от '{0}'?
+
+Вы также хотите отписаться и удалить все моды, принадлежащие исключительно этой коллекции?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101364</LineId>
+    <Text>'{0}' успешно установлен.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101365</LineId>
+    <Text>'{0}' удалено из архивов и локального хранилища.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101366</LineId>
+    <Text>'{0}' был удален.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101367</LineId>
+    <Text>'{0}' был успешно установлен.
+
+Мод был отключен из-за обнаруженного конфликта.
+Устраните конфликт на вкладке "Активация", чтобы включить его.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101368</LineId>
+    <Text>'{0}' был успешно установлен.
+
+ Мод остался отключенным, потому что в Настройках отключена опция "Автоматически активировать вновь установленные моды".</Text>
+  </Text>
+  <Text>
+    <LineId>1999101369</LineId>
+    <Text>Следующие необходимые моды еще не установлены и будут загружены автоматически до '{0}':
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101370</LineId>
+    <Text>Следующие необходимые моды еще не установлены и будут загружены автоматически:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101371</LineId>
+    <Text>Документы пользователя ({0})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101372</LineId>
+    <Text>Каталог игр ({0})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101373</LineId>
+    <Text>Конфигурация сохранена в Roaming: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101374</LineId>
+    <Text>Пятизначный код разрешения был отправлен на:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101375</LineId>
+    <Text>Версия {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101376</LineId>
+    <Text>на {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101377</LineId>
+    <Text>By {0}  | Обновлено: {1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101378</LineId>
+    <Text>{0} последовал</Text>
+  </Text>
+  <Text>
+    <LineId>1999101379</LineId>
+    <Text>Настройки для сброса {0}.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101380</LineId>
+    <Text>Не удалось отписаться: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101381</LineId>
+    <Text>Произошел технический сбой: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101382</LineId>
+    <Text>Теперь следуем за '{0}'.
+Все моды в этой коллекции уже установлены и подписаны.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101383</LineId>
+    <Text>Все моды от '{0}' были подписаны и успешно установлены.
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101384</LineId>
+    <Text>Теперь следуем за '{0}'.
+
+Будут загружены и установлены следующие {1} модов:
+
+{2}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101385</LineId>
+    <Text>Не удалось сохранить предустановку: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101386</LineId>
+    <Text>Не удалось применить предустановку: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101387</LineId>
+    <Text>Не удалось удалить предустановку: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101388</LineId>
+    <Text>'{0}' был успешно установлен.
+
+Мод был отключен из-за обнаруженного конфликта.
+Устраните конфликт на вкладке "Активация", чтобы включить его.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101389</LineId>
+    <Text>'{0}' был успешно установлен.
+
+Мод остался отключенным, потому что в Настройках отключена опция "Автоматически активировать вновь установленные моды".</Text>
+  </Text>
+  <Text>
+    <LineId>1999101390</LineId>
+    <Text>Произошла ошибка: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101391</LineId>
+    <Text>Не удалось скопировать журнал: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101392</LineId>
+    <Text>Не удалось получить: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101393</LineId>
+    <Text>Не удалось удалить: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101394</LineId>
+    <Text>Не удалось запустить игру: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101395</LineId>
+    <Text>Не удалось найти файл Bin\Win64\Anno117.exe в:
+{0}
+
+Пожалуйста, выберите основной каталог установки Anno 117.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101396</LineId>
+    <Text>Не удалось связаться с сервером mod.io: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101397</LineId>
+    <Text>Не удалось получить подписки: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101398</LineId>
+    <Text>Не удалось выставить рейтинг:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101399</LineId>
+    <Text>Не удалось приобрести мод: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101400</LineId>
+    <Text>Произошел технический сбой: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101401</LineId>
+    <Text>Следующие осиротевшие мод(ы) были отписаны и удалены:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101402</LineId>
+    <Text>Следующие моды были отписаны на mod.io, но не могут быть сопоставлены с локальной папкой и должны быть удалены вручную:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101403</LineId>
+    <Text>Не удалось загрузить мод: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101404</LineId>
+    <Text>Теперь следуйте за '{0}'.
+Все моды уже установлены.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101405</LineId>
+    <Text>Все моды из '{0}' были успешно установлены.
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101406</LineId>
+    <Text>Не удалось открепить: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101407</LineId>
+    <Text>{0} mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101408</LineId>
+    <Text>{0} мод</Text>
+  </Text>
+  <Text>
+    <LineId>1999101409</LineId>
+    <Text>Отсутствующие моды в пресетах</Text>
+  </Text>
+  <Text>
+    <LineId>1999101410</LineId>
+    <Text>Следующие моды, сохраненные в этом пресете, в данный момент не установлены и будут пропущены:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101411</LineId>
+    <Text>Требуется от других модов</Text>
+  </Text>
+  <Text>
+    <LineId>1999101412</LineId>
+    <Text>Удалить в любом случае</Text>
+  </Text>
+  <Text>
+    <LineId>1999101413</LineId>
+    <Text>Деинсталляция в любом случае</Text>
+  </Text>
+  <Text>
+    <LineId>1999101414</LineId>
+    <Text>Запуск в любом случае</Text>
+  </Text>
+  <Text>
+    <LineId>1999101415</LineId>
+    <Text>Действуйте в любом случае</Text>
+  </Text>
+  <Text>
+    <LineId>1999101416</LineId>
+    <Text>Отсутствующие зависимости</Text>
+  </Text>
+  <Text>
+    <LineId>1999101417</LineId>
+    <Text>'{0}' указан как необходимая зависимость в следующих активных модах:
+
+{1}
+
+Отмена подписки и удаление может нарушить работу этих модов.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101418</LineId>
+    <Text>'{0}' указан как необходимая зависимость в следующих активных модах:
+
+{1}
+
+Его удаление может привести к поломке этих модов.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101419</LineId>
+    <Text>В вашем списке активных модов отсутствуют следующие необходимые моды:
+
+{0}
+
+Запуск без них может привести к ошибкам, сбоям или нестабильности!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101420</LineId>
+    <Text>'{0}' отписался и удалил из локального хранилища.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101421</LineId>
+    <Text>Не удалось проследить за коллекцией: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101422</LineId>
+    <Text>Не удалось проследить за коллекцией: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101423</LineId>
+    <Text>Открывает папку конфигурации менеджера модов</Text>
+  </Text>
+  <Text>
+    <LineId>1999101424</LineId>
+    <Text>Открывает файл журнала отладки Mod Manager по адресу:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101425</LineId>
+    <Text>Ошибка при чтении журнала: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101426</LineId>
+    <Text>Файл журнала не найден по адресу:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101427</LineId>
+    <Text>Загрузка из Императорского архива...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101428</LineId>
+    <Text>+ или перетащите .zip-файл сюда</Text>
+  </Text>
+  <Text>
+    <LineId>1999101429</LineId>
+    <Text>Установите 'tkinterdnd2' для перетаскивания</Text>
+  </Text>
+  <Text>
+    <LineId>1999101430</LineId>
+    <Text>Чтобы получить доступ к онлайн-функциям mod.io, необходимо ввести свои учетные данные.
+
+1. Зарегистрируйтесь или войдите в систему на сайте mod.io
+2. Нажмите на аватар своего пользователя (на панели сайта, слева внизу) - "Доступ к API"
+3. В разделе "Доступ к API" прочитайте и примите условия использования ключей API mod.io.
+4. Затем нажмите на "Запросить ключ API".
+5. Скопируйте полученный API-ключ и вставьте его ниже.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101431</LineId>
+    <Text>Это приложение использует mod.io для поддержки автоматической установки пользовательского контента (модов).
+
+Нажимая "Я согласен", вы соглашаетесь с условиями использования mod.io. О том, как mod.io обрабатывает ваши персональные данные, читайте в Политике конфиденциальности mod.io.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101432</LineId>
+    <Text>Большинство загрузок</Text>
+  </Text>
+  <Text>
+    <LineId>1999101433</LineId>
+    <Text>По алфавиту</Text>
+  </Text>
+  <Text>
+    <LineId>1999101434</LineId>
+    <Text>Самые новые</Text>
+  </Text>
+  <Text>
+    <LineId>1999101435</LineId>
+    <Text>Наивысший рейтинг</Text>
+  </Text>
+  <Text>
+    <LineId>1999101436</LineId>
+    <Text>Автор</Text>
+  </Text>
+  <Text>
+    <LineId>1999101437</LineId>
+    <Text>АКТИВНЫЕ МОДЫ - ПОРЯДОК ЗАГРУЗКИ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101438</LineId>
+    <Text>ДЕАКТИВИРОВАННЫЕ МОДЫ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101439</LineId>
+    <Text>АКТИВНЫЕ МОДЫ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101440</LineId>
+    <Text>'{0}' отмечен как несовместимый
+со следующими активными модами:
+
+{1}
+
+Их совместный запуск может привести к нестабильности или ошибкам.
+Как бы вы хотели продолжить?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101441</LineId>
+    <Text>Подписываясь на {0} мод(ы)...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101442</LineId>
+    <Text>Все моды уже установлены.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101443</LineId>
+    <Text>Установка {0} новых модов...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101444</LineId>
+    <Text>Готово!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101445</LineId>
+    <Text>Активные/установленные моды: {0} / {1}   | Общий размер: {2} / {3}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101446</LineId>
+    <Text>  - '{0}' (требуется {1})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101447</LineId>
+    <Text>Ошибка: Не удалось получить документ.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101448</LineId>
+    <Text>Соединение не удалось: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101449</LineId>
+    <Text>найдено {0} мод из {1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101450</LineId>
+    <Text>{0} из {1} подписанных модов</Text>
+  </Text>
+  <Text>
+    <LineId>1999101451</LineId>
+    <Text>{0} мод в этой коллекции</Text>
+  </Text>
+  <Text>
+    <LineId>1999101452</LineId>
+    <Text>{0} модов в этой коллекции</Text>
+  </Text>
+  <Text>
+    <LineId>1999101453</LineId>
+    <Text>- Требуется новая игра</Text>
+  </Text>
+  <Text>
+    <LineId>1999101454</LineId>
+    <Text>- Безопасное удаление в середине сессии</Text>
+  </Text>
+  <Text>
+    <LineId>1999101455</LineId>
+    <Text>- Совместимость с мультиплеером</Text>
+  </Text>
+  <Text>
+    <LineId>1999101456</LineId>
+    <Text>- Безопасно для использования в кампании</Text>
+  </Text>
+  <Text>
+    <LineId>1999101457</LineId>
+    <Text>Известные проблемы</Text>
+  </Text>
+  <Text>
+    <LineId>1999101458</LineId>
+    <Text>Требуется</Text>
+  </Text>
+  <Text>
+    <LineId>1999101459</LineId>
+    <Text>Дополнительно</Text>
+  </Text>
+  <Text>
+    <LineId>1999101460</LineId>
+    <Text>Нагрузка после</Text>
+  </Text>
+  <Text>
+    <LineId>1999101461</LineId>
+    <Text>Утрачивает свою актуальность</Text>
+  </Text>
+  <Text>
+    <LineId>1999101462</LineId>
+    <Text>Несовместимые</Text>
+  </Text>
+  <Text>
+    <LineId>1999101463</LineId>
+    <Text>Загружается в последний раз</Text>
+  </Text>
+  <Text>
+    <LineId>1999101464</LineId>
+    <Text>{0} из {1} коллекций</Text>
+  </Text>
+</Texts>

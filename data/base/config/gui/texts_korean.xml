@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Texts>
+  <Text>
+    <LineId>1999101000</LineId>
+    <Text>Anno 117 모드 관리자</Text>
+  </Text>
+  <Text>
+    <LineId>1999101001</LineId>
+    <Text>모드 브라우저 통합</Text>
+  </Text>
+  <Text>
+    <LineId>1999101002</LineId>
+    <Text>Mod.io 브라우저 통합을 사용하시겠습니까?
+
+이렇게 하면 앱에서 직접 모드를 검색하고 설치할 수 있지만 무료 mod.io 계정과 API 키가 필요합니다.
+
+나중에 설정에서 언제든지 변경할 수 있습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101003</LineId>
+    <Text>사용</Text>
+  </Text>
+  <Text>
+    <LineId>1999101004</LineId>
+    <Text>지금은 아닙니다</Text>
+  </Text>
+  <Text>
+    <LineId>1999101005</LineId>
+    <Text>프리셋 저장</Text>
+  </Text>
+  <Text>
+    <LineId>1999101006</LineId>
+    <Text>프리셋 이름 지정</Text>
+  </Text>
+  <Text>
+    <LineId>1999101007</LineId>
+    <Text>이 모드 구성에 대한 명칭을 입력합니다:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101008</LineId>
+    <Text>확인</Text>
+  </Text>
+  <Text>
+    <LineId>1999101009</LineId>
+    <Text>모드 정보</Text>
+  </Text>
+  <Text>
+    <LineId>1999101010</LineId>
+    <Text>뉴스 및 업데이트</Text>
+  </Text>
+  <Text>
+    <LineId>1999101011</LineId>
+    <Text>  새로 고침 뉴스</Text>
+  </Text>
+  <Text>
+    <LineId>1999101012</LineId>
+    <Text>  아노 유니온</Text>
+  </Text>
+  <Text>
+    <LineId>1999101013</LineId>
+    <Text>제국의 최신 뉴스 가져오기...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101014</LineId>
+    <Text>새 소식을 찾을 수 없습니다. 연결을 확인하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101015</LineId>
+    <Text>아카이브에서 모드를 찾을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101016</LineId>
+    <Text>이미지 없음
+첨부</Text>
+  </Text>
+  <Text>
+    <LineId>1999101017</LineId>
+    <Text>  모드 브라우저에서 열기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101018</LineId>
+    <Text>  컬렉션에서 열기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101019</LineId>
+    <Text>활성 프로필:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101020</LineId>
+    <Text>  새 이름으로 저장</Text>
+  </Text>
+  <Text>
+    <LineId>1999101021</LineId>
+    <Text>  삭제</Text>
+  </Text>
+  <Text>
+    <LineId>1999101022</LineId>
+    <Text>검색:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101023</LineId>
+    <Text>  모두 활성화</Text>
+  </Text>
+  <Text>
+    <LineId>1999101024</LineId>
+    <Text>  로드 순서</Text>
+  </Text>
+  <Text>
+    <LineId>1999101025</LineId>
+    <Text>모드를 찾을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101026</LineId>
+    <Text>모드 이름</Text>
+  </Text>
+  <Text>
+    <LineId>1999101027</LineId>
+    <Text>카테고리</Text>
+  </Text>
+  <Text>
+    <LineId>1999101028</LineId>
+    <Text>선택된 모드 없음</Text>
+  </Text>
+  <Text>
+    <LineId>1999101029</LineId>
+    <Text> 구독 취소</Text>
+  </Text>
+  <Text>
+    <LineId>1999101030</LineId>
+    <Text> 모드 제거</Text>
+  </Text>
+  <Text>
+    <LineId>1999101031</LineId>
+    <Text>  사용자 지정 모드 - 클릭하여 조정하기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101032</LineId>
+    <Text>난이도: </Text>
+  </Text>
+  <Text>
+    <LineId>1999101033</LineId>
+    <Text>종속성</Text>
+  </Text>
+  <Text>
+    <LineId>1999101034</LineId>
+    <Text>폴더:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101035</LineId>
+    <Text>크기:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101036</LineId>
+    <Text>누락 활성화</Text>
+  </Text>
+  <Text>
+    <LineId>1999101037</LineId>
+    <Text>뒤로 가기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101038</LineId>
+    <Text>수동 설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101039</LineId>
+    <Text>이미 모드를 다운로드하셨나요?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101040</LineId>
+    <Text>설치할 .zip 아카이브를 선택합니다</Text>
+  </Text>
+  <Text>
+    <LineId>1999101041</LineId>
+    <Text>로그 새로 고침</Text>
+  </Text>
+  <Text>
+    <LineId>1999101042</LineId>
+    <Text>클립보드에 텍스트 복사</Text>
+  </Text>
+  <Text>
+    <LineId>1999101043</LineId>
+    <Text>모드 관리자 설정</Text>
+  </Text>
+  <Text>
+    <LineId>1999101044</LineId>
+    <Text>일반</Text>
+  </Text>
+  <Text>
+    <LineId>1999101045</LineId>
+    <Text>튜토리얼 인포팁</Text>
+  </Text>
+  <Text>
+    <LineId>1999101046</LineId>
+    <Text>앱 전체에서 버튼 위로 마우스를 가져가면 유용한 툴팁을 표시합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101047</LineId>
+    <Text>뉴스피드에 r/anno 게시물 표시</Text>
+  </Text>
+  <Text>
+    <LineId>1999101048</LineId>
+    <Text>Reddit.com/r/anno의 최신 게시물을 다른 뉴스와 함께 표시합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101049</LineId>
+    <Text>새로 설치된 모드 자동 활성화</Text>
+  </Text>
+  <Text>
+    <LineId>1999101050</LineId>
+    <Text>비활성화하면 새 모드가 목록에 표시되지만 수동으로 활성화할 때까지 체크하지 않은 상태로 유지됩니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101051</LineId>
+    <Text>게임 파일</Text>
+  </Text>
+  <Text>
+    <LineId>1999101052</LineId>
+    <Text>Anno 117 설치 디렉터리:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101053</LineId>
+    <Text>찾아보기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101054</LineId>
+    <Text>모드 저장소:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101055</LineId>
+    <Text>mod.io 통합</Text>
+  </Text>
+  <Text>
+    <LineId>1999101056</LineId>
+    <Text>API 키:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101057</LineId>
+    <Text>키 저장</Text>
+  </Text>
+  <Text>
+    <LineId>1999101058</LineId>
+    <Text>상태: 인증됨 ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101059</LineId>
+    <Text>계정 연결 해제</Text>
+  </Text>
+  <Text>
+    <LineId>1999101060</LineId>
+    <Text>상태: 연결되지 않음</Text>
+  </Text>
+  <Text>
+    <LineId>1999101061</LineId>
+    <Text>Mod.io에 연결</Text>
+  </Text>
+  <Text>
+    <LineId>1999101062</LineId>
+    <Text>구성 폴더 열기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101063</LineId>
+    <Text>디버그 로그 보기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101064</LineId>
+    <Text>Okay</Text>
+  </Text>
+  <Text>
+    <LineId>1999101065</LineId>
+    <Text>예</Text>
+  </Text>
+  <Text>
+    <LineId>1999101066</LineId>
+    <Text>아니요</Text>
+  </Text>
+  <Text>
+    <LineId>1999101067</LineId>
+    <Text>제국 자격 증명 필요</Text>
+  </Text>
+  <Text>
+    <LineId>1999101068</LineId>
+    <Text>임페리얼 아카이브 액세스</Text>
+  </Text>
+  <Text>
+    <LineId>1999101069</LineId>
+    <Text>Mod.io 프로필 열기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101070</LineId>
+    <Text>권한 부여</Text>
+  </Text>
+  <Text>
+    <LineId>1999101071</LineId>
+    <Text>Mod.io 계약</Text>
+  </Text>
+  <Text>
+    <LineId>1999101072</LineId>
+    <Text>이용 약관 보기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101073</LineId>
+    <Text>개인정보 취급방침 보기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101074</LineId>
+    <Text>동의함</Text>
+  </Text>
+  <Text>
+    <LineId>1999101075</LineId>
+    <Text>아니요, 감사합니다</Text>
+  </Text>
+  <Text>
+    <LineId>1999101076</LineId>
+    <Text>제국 신원 확인</Text>
+  </Text>
+  <Text>
+    <LineId>1999101077</LineId>
+    <Text>신분증 제시</Text>
+  </Text>
+  <Text>
+    <LineId>1999101078</LineId>
+    <Text>Mod.io 계정과 연결된 이메일 주소를 입력합니다:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101079</LineId>
+    <Text>액세스 코드 요청</Text>
+  </Text>
+  <Text>
+    <LineId>1999101080</LineId>
+    <Text>보안 허가</Text>
+  </Text>
+  <Text>
+    <LineId>1999101081</LineId>
+    <Text>보안 코드 입력</Text>
+  </Text>
+  <Text>
+    <LineId>1999101082</LineId>
+    <Text>자격 증명 확인</Text>
+  </Text>
+  <Text>
+    <LineId>1999101083</LineId>
+    <Text>모드 브라우저</Text>
+  </Text>
+  <Text>
+    <LineId>1999101084</LineId>
+    <Text>  구독</Text>
+  </Text>
+  <Text>
+    <LineId>1999101085</LineId>
+    <Text>설정에서 인증하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101086</LineId>
+    <Text>검색 중...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101087</LineId>
+    <Text>황실 기록 보관소 참조...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101088</LineId>
+    <Text>모드를 찾을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101089</LineId>
+    <Text>이 게임에 대해 구독 중인 모드가 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101090</LineId>
+    <Text>⌛ 로드 중...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101091</LineId>
+    <Text>  보증</Text>
+  </Text>
+  <Text>
+    <LineId>1999101092</LineId>
+    <Text>  보증</Text>
+  </Text>
+  <Text>
+    <LineId>1999101093</LineId>
+    <Text>  방문</Text>
+  </Text>
+  <Text>
+    <LineId>1999101094</LineId>
+    <Text>  설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101095</LineId>
+    <Text>+ 더 많은 모드 로드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101096</LineId>
+    <Text>⌛ 자세히 보기...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101097</LineId>
+    <Text>미리보기 없음</Text>
+  </Text>
+  <Text>
+    <LineId>1999101098</LineId>
+    <Text>닫기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101099</LineId>
+    <Text>모드 설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101100</LineId>
+    <Text>⌛ 메인 이미지 로드 중...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101101</LineId>
+    <Text>아카이브 세부 정보</Text>
+  </Text>
+  <Text>
+    <LineId>1999101102</LineId>
+    <Text>시각적 아카이브 손상</Text>
+  </Text>
+  <Text>
+    <LineId>1999101103</LineId>
+    <Text>임페리얼 로지스틱스</Text>
+  </Text>
+  <Text>
+    <LineId>1999101104</LineId>
+    <Text>아카이브 획득:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101105</LineId>
+    <Text>Mod.io에 연락하기...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101106</LineId>
+    <Text>바이트 스트림 다운로드...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101107</LineId>
+    <Text>아카이브와 통합하기...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101108</LineId>
+    <Text>  구독</Text>
+  </Text>
+  <Text>
+    <LineId>1999101109</LineId>
+    <Text>  구독 취소</Text>
+  </Text>
+  <Text>
+    <LineId>1999101110</LineId>
+    <Text>제거...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101111</LineId>
+    <Text>모드 구성 조정</Text>
+  </Text>
+  <Text>
+    <LineId>1999101112</LineId>
+    <Text>모두 기본값으로 재설정</Text>
+  </Text>
+  <Text>
+    <LineId>1999101113</LineId>
+    <Text>사용자 지정 가능한 모드를 찾을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101114</LineId>
+    <Text>모드를 선택하여 옵션을 확인합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101115</LineId>
+    <Text>기본값으로 재설정</Text>
+  </Text>
+  <Text>
+    <LineId>1999101116</LineId>
+    <Text>옵션 스키마를 읽을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101117</LineId>
+    <Text>비호환성 경고</Text>
+  </Text>
+  <Text>
+    <LineId>1999101118</LineId>
+    <Text>⚠ 모드 충돌 감지</Text>
+  </Text>
+  <Text>
+    <LineId>1999101119</LineId>
+    <Text>위험 수용</Text>
+  </Text>
+  <Text>
+    <LineId>1999101120</LineId>
+    <Text>비활성화 유지</Text>
+  </Text>
+  <Text>
+    <LineId>1999101121</LineId>
+    <Text>충돌하는 모드 비활성화</Text>
+  </Text>
+  <Text>
+    <LineId>1999101122</LineId>
+    <Text>모드 컬렉션</Text>
+  </Text>
+  <Text>
+    <LineId>1999101123</LineId>
+    <Text>  팔로잉</Text>
+  </Text>
+  <Text>
+    <LineId>1999101124</LineId>
+    <Text>+ 더 많은 컬렉션 로드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101125</LineId>
+    <Text>컬렉션을 찾을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101126</LineId>
+    <Text>아직 어떤 컬렉션도 팔로우하고 있지 않습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101127</LineId>
+    <Text>이 컬렉션의 모드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101128</LineId>
+    <Text>⌛ 모드 불러오기...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101129</LineId>
+    <Text>이 컬렉션에는 모드가 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101130</LineId>
+    <Text>  팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101131</LineId>
+    <Text>  언팔로우하기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101132</LineId>
+    <Text>다음...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101133</LineId>
+    <Text>팔로잉 컬렉션</Text>
+  </Text>
+  <Text>
+    <LineId>1999101134</LineId>
+    <Text>컬렉션 모드 가져오기...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101135</LineId>
+    <Text>컬렉션 언팔로우하기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101136</LineId>
+    <Text>컬렉션 언팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101137</LineId>
+    <Text> 언팔로우 + 모드 삭제</Text>
+  </Text>
+  <Text>
+    <LineId>1999101138</LineId>
+    <Text> 언팔로우 전용</Text>
+  </Text>
+  <Text>
+    <LineId>1999101139</LineId>
+    <Text>  팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101140</LineId>
+    <Text>팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101141</LineId>
+    <Text>제국 기록 보관소</Text>
+  </Text>
+  <Text>
+    <LineId>1999101142</LineId>
+    <Text>기본 관리자 설치 동작</Text>
+  </Text>
+  <Text>
+    <LineId>1999101143</LineId>
+    <Text>뉴스 피드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101144</LineId>
+    <Text>디버그 로그 보기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101145</LineId>
+    <Text>설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101146</LineId>
+    <Text>로드 중...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101147</LineId>
+    <Text>  사용자 지정 모드 (클릭하여 조정)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101148</LineId>
+    <Text>뉴스</Text>
+  </Text>
+  <Text>
+    <LineId>1999101149</LineId>
+    <Text>모드 활성화</Text>
+  </Text>
+  <Text>
+    <LineId>1999101150</LineId>
+    <Text>모드 브라우저</Text>
+  </Text>
+  <Text>
+    <LineId>1999101151</LineId>
+    <Text>컬렉션</Text>
+  </Text>
+  <Text>
+    <LineId>1999101152</LineId>
+    <Text>수동 설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101153</LineId>
+    <Text>모드로더 로그</Text>
+  </Text>
+  <Text>
+    <LineId>1999101154</LineId>
+    <Text>조정</Text>
+  </Text>
+  <Text>
+    <LineId>1999101155</LineId>
+    <Text>설정</Text>
+  </Text>
+  <Text>
+    <LineId>1999101156</LineId>
+    <Text>언어:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101157</LineId>
+    <Text>새 언어를 완전히 적용하려면 앱을 다시 시작하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101158</LineId>
+    <Text>확인 ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101159</LineId>
+    <Text>  출시
+게임</Text>
+  </Text>
+  <Text>
+    <LineId>1999101160</LineId>
+    <Text>새로 고침 뉴스</Text>
+  </Text>
+  <Text>
+    <LineId>1999101161</LineId>
+    <Text>아노 유니온</Text>
+  </Text>
+  <Text>
+    <LineId>1999101162</LineId>
+    <Text>이미지 없음
+첨부</Text>
+  </Text>
+  <Text>
+    <LineId>1999101163</LineId>
+    <Text> 모드 브라우저에서 열기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101164</LineId>
+    <Text> 컬렉션에서 열기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101165</LineId>
+    <Text> 사용자 지정 모드 - 클릭하여 조정하기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101166</LineId>
+    <Text>구독</Text>
+  </Text>
+  <Text>
+    <LineId>1999101167</LineId>
+    <Text> 보증</Text>
+  </Text>
+  <Text>
+    <LineId>1999101168</LineId>
+    <Text> 방문</Text>
+  </Text>
+  <Text>
+    <LineId>1999101169</LineId>
+    <Text> 설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101170</LineId>
+    <Text>N/A</Text>
+  </Text>
+  <Text>
+    <LineId>1999101171</LineId>
+    <Text>⌛ ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101172</LineId>
+    <Text>보증됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101173</LineId>
+    <Text>❤ 지지</Text>
+  </Text>
+  <Text>
+    <LineId>1999101174</LineId>
+    <Text>⌛ 보기 바꾸기...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101175</LineId>
+    <Text> 구독</Text>
+  </Text>
+  <Text>
+    <LineId>1999101176</LineId>
+    <Text> 구독 취소</Text>
+  </Text>
+  <Text>
+    <LineId>1999101177</LineId>
+    <Text>설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101178</LineId>
+    <Text>팔로잉</Text>
+  </Text>
+  <Text>
+    <LineId>1999101179</LineId>
+    <Text> 팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101180</LineId>
+    <Text> 팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101181</LineId>
+    <Text> 언팔로우하기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101182</LineId>
+    <Text>팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101183</LineId>
+    <Text>새 이름으로 저장</Text>
+  </Text>
+  <Text>
+    <LineId>1999101184</LineId>
+    <Text>삭제</Text>
+  </Text>
+  <Text>
+    <LineId>1999101185</LineId>
+    <Text>모두 활성화</Text>
+  </Text>
+  <Text>
+    <LineId>1999101186</LineId>
+    <Text> 로드 순서</Text>
+  </Text>
+  <Text>
+    <LineId>1999101187</LineId>
+    <Text>첫 시작</Text>
+  </Text>
+  <Text>
+    <LineId>1999101188</LineId>
+    <Text>세션 만료</Text>
+  </Text>
+  <Text>
+    <LineId>1999101189</LineId>
+    <Text>오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101190</LineId>
+    <Text>프로필 초기화</Text>
+  </Text>
+  <Text>
+    <LineId>1999101191</LineId>
+    <Text>시스템 프로필</Text>
+  </Text>
+  <Text>
+    <LineId>1999101192</LineId>
+    <Text>잘못된 파일</Text>
+  </Text>
+  <Text>
+    <LineId>1999101193</LineId>
+    <Text>설치 오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101194</LineId>
+    <Text>잘못된 모드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101195</LineId>
+    <Text>클립보드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101196</LineId>
+    <Text>액세스 거부됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101197</LineId>
+    <Text>폴더를 찾을 수 없음</Text>
+  </Text>
+  <Text>
+    <LineId>1999101198</LineId>
+    <Text>황실 법령</Text>
+  </Text>
+  <Text>
+    <LineId>1999101199</LineId>
+    <Text>로그를 찾을 수 없음</Text>
+  </Text>
+  <Text>
+    <LineId>1999101200</LineId>
+    <Text>구성 폴더를 찾을 수 없음</Text>
+  </Text>
+  <Text>
+    <LineId>1999101201</LineId>
+    <Text>성공</Text>
+  </Text>
+  <Text>
+    <LineId>1999101202</LineId>
+    <Text>연결 설정됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101203</LineId>
+    <Text>약관 업데이트</Text>
+  </Text>
+  <Text>
+    <LineId>1999101204</LineId>
+    <Text>유효성 검사 실패</Text>
+  </Text>
+  <Text>
+    <LineId>1999101205</LineId>
+    <Text>연결이 취소됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101206</LineId>
+    <Text>모든 조정 사항 초기화</Text>
+  </Text>
+  <Text>
+    <LineId>1999101207</LineId>
+    <Text>실행 오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101208</LineId>
+    <Text>로드 오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101209</LineId>
+    <Text>프리셋 로드됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101210</LineId>
+    <Text>덮어쓰기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101211</LineId>
+    <Text>모드 제거</Text>
+  </Text>
+  <Text>
+    <LineId>1999101212</LineId>
+    <Text>설치됨(비활성)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101213</LineId>
+    <Text>임페리얼 로지스틱스</Text>
+  </Text>
+  <Text>
+    <LineId>1999101214</LineId>
+    <Text>모드 재설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101220</LineId>
+    <Text>Anno 117을 자동으로 찾을 수 없습니다. 게임 설치 폴더를 선택해 주세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101221</LineId>
+    <Text>Mod.io 세션 토큰이 만료되었습니다.
+모드 브라우저를 계속 사용하려면 설정에서 계정을 다시 연결하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101222</LineId>
+    <Text>저장할 활성 프로필을 찾을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101223</LineId>
+    <Text>기본값으로 전환했습니다. 설치된 모든 모드가 활성화되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101224</LineId>
+    <Text>'기본' 프로필은 시스템 요구 사항이며 삭제할 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101225</LineId>
+    <Text>.zip 모드 아카이브를 드롭하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101226</LineId>
+    <Text>모드 저장 경로가 설정되지 않았습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101227</LineId>
+    <Text>이 ZIP에 modinfo.json이 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101228</LineId>
+    <Text>로그 콘텐츠가 성공적으로 복사되었습니다!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101229</LineId>
+    <Text>이 기능에 액세스하려면 설정에서 mod.io API 키를 구성하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101230</LineId>
+    <Text>모드 설치 폴더를 찾을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101231</LineId>
+    <Text>모드 메타데이터를 찾을 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101232</LineId>
+    <Text>Anno117.exe를 찾을 수 없습니다! 설정에서 경로를 설정하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101233</LineId>
+    <Text>mod.io API 키가 성공적으로 업데이트되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101234</LineId>
+    <Text>아직 디버그 로그 파일이 생성되지 않았습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101235</LineId>
+    <Text>아직 구성 폴더가 생성되지 않았습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101236</LineId>
+    <Text>API 키는 비워둘 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101237</LineId>
+    <Text>자격 증명이 수락되었습니다. 인증을 진행합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101238</LineId>
+    <Text>Mod.io 세션이 만료되었습니다. 설정에서 계정을 다시 연결하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101239</LineId>
+    <Text>이제 임페리얼 아카이브가 계정과 동기화됩니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101240</LineId>
+    <Text>mod.io의 이용약관이 마지막으로 동의한 이후 업데이트되었습니다.
+계속하기 전에 약관을 다시 검토하고 동의해야 합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101241</LineId>
+    <Text>제공한 보안 코드가 아카이브에서 거부되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101242</LineId>
+    <Text>로컬 저장소에서 자격 증명이 제거되었습니다. 이제 아카이브가 잠겼습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101243</LineId>
+    <Text>Mod.io 이용약관이 변경되었습니다. 약관을 검토하고 동의하려면 다시 인증해 주세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101244</LineId>
+    <Text>모든 모드를 기본 구성으로 되돌리시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101245</LineId>
+    <Text>모든 모드 조정이 초기화되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101250</LineId>
+    <Text>이름이나 카테고리로 모드를 검색하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101251</LineId>
+    <Text>기본 프로필로 재설정 - 설치된 모든 모드를 활성화합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101252</LineId>
+    <Text>탐색기에서 현재 모드 설치 폴더를 엽니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101253</LineId>
+    <Text>디스크에서 현재 모드 목록을 다시 로드하면 '구식' 슈퍼 수동 방식으로 모드를 설치한 경우 편리하지만, 그렇지 않은 경우 목록에 즉시 표시되지 않습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101254</LineId>
+    <Text>로드 순서 보기 토글 - 게임에서 모드를 로드하는 순서에 따라 모드를 정렬합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101255</LineId>
+    <Text>탐색기에서 이 모드의 설치 폴더를 엽니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101256</LineId>
+    <Text>Mod.io에서 이 모드의 구독을 취소하고 로컬 파일을 제거하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101257</LineId>
+    <Text>로컬 파일을 삭제하여 이 모드를 제거하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101258</LineId>
+    <Text>조정 탭에서 이 모드를 열어 일부 콘텐츠를 사용자 지정하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101259</LineId>
+    <Text>누락된 모드 종속성을 활성화합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101260</LineId>
+    <Text>게임 시작 후 mod-loader.log 파일을 수동으로 업데이트하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101261</LineId>
+    <Text>모드로더.log의 내용을 .txt 파일로 클립보드에 복사하여 Discord에서 공유합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101262</LineId>
+    <Text>탐색기에서 Anno 게임 설치 폴더를 찾습니다. 'Anno 117 - Pax Romana'라는 폴더를 선택하고 확인을 누르세요. 현재 보기에 'mods' 폴더가 표시되면 올바른 위치가 아니므로 한 폴더 레벨 위로 이동하세요!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101263</LineId>
+    <Text>Mod.io API 키를 저장합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101264</LineId>
+    <Text>앱에서 현재 mod.io 계정을 연결 해제합니다. 모드 브라우저 및 컬렉션이 작동을 멈춥니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101265</LineId>
+    <Text>Mod.io 계정을 앱에 연결합니다. 이제 모드 브라우저와 컬렉션을 사용할 수 있습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101266</LineId>
+    <Text>5자리 보안 코드가 포함된 이메일이 지정된 이메일 주소로 전송됩니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101267</LineId>
+    <Text>구독 중인 모드만 표시합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101268</LineId>
+    <Text>파일이 손상되었거나 모드가 업데이트된 경우 등 이 모드를 다시 다운로드하고 다시 설치합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101269</LineId>
+    <Text>모든 모드의 모든 옵션 값을 모드의 modinfo.json에 지정된 기본값으로 초기화합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101270</LineId>
+    <Text>이 모드의 옵션 값을 모드의 modinfo.json에 지정된 기본값으로 재설정합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101271</LineId>
+    <Text>색상환을 통해 색상을 선택합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101272</LineId>
+    <Text>현재 모드를 활성화하는 동안 충돌하는 모드를 비활성화합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101273</LineId>
+    <Text>팔로우 중인 컬렉션만 표시합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101274</LineId>
+    <Text>기존 모드를 건드리지 않고 컬렉션에서 누락되었거나 업데이트된 모드를 다시 다운로드합니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101280</LineId>
+    <Text>저장된 프리셋</Text>
+  </Text>
+  <Text>
+    <LineId>1999101281</LineId>
+    <Text>삭제 확인</Text>
+  </Text>
+  <Text>
+    <LineId>1999101282</LineId>
+    <Text>설치 실패</Text>
+  </Text>
+  <Text>
+    <LineId>1999101283</LineId>
+    <Text>모드 포기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101284</LineId>
+    <Text>잘못된 폴더</Text>
+  </Text>
+  <Text>
+    <LineId>1999101285</LineId>
+    <Text>Mod.io에 로그인</Text>
+  </Text>
+  <Text>
+    <LineId>1999101286</LineId>
+    <Text>물류 오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101287</LineId>
+    <Text>연결 끊기 확인</Text>
+  </Text>
+  <Text>
+    <LineId>1999101288</LineId>
+    <Text>승인 실패</Text>
+  </Text>
+  <Text>
+    <LineId>1999101289</LineId>
+    <Text>종속성 설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101290</LineId>
+    <Text>덮어쓰기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101291</LineId>
+    <Text>모드 제거</Text>
+  </Text>
+  <Text>
+    <LineId>1999101292</LineId>
+    <Text>설치됨(비활성)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101293</LineId>
+    <Text>모드 재설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101294</LineId>
+    <Text>실행 오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101295</LineId>
+    <Text>로드 오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101296</LineId>
+    <Text>프리셋 로드됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101297</LineId>
+    <Text>레코드 로드됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101298</LineId>
+    <Text>API 오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101299</LineId>
+    <Text>포기 실패</Text>
+  </Text>
+  <Text>
+    <LineId>1999101300</LineId>
+    <Text>이용약관 및 개인정보처리방침을 확인하지 않고 mod.io에 로그인하셨나요?
+
+계속 진행하면 이러한 문서에 동의하는 것입니다. Mod.io 웹사이트에서 찾을 수 있습니다.
+
+나중에 설정에서 로그인을 계속할 수도 있습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101301</LineId>
+    <Text>Mod.io에 대한 연결을 취소하시겠습니까?
+
+로컬 자격 증명이 제거되고 모드 브라우저에 대한 액세스 권한이 제한됩니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101302</LineId>
+    <Text>종속성 설치됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101303</LineId>
+    <Text>종속성 제거</Text>
+  </Text>
+  <Text>
+    <LineId>1999101304</LineId>
+    <Text>수동 조치 필요</Text>
+  </Text>
+  <Text>
+    <LineId>1999101305</LineId>
+    <Text>컬렉션 팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101306</LineId>
+    <Text>컬렉션 설치됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101307</LineId>
+    <Text>언팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101308</LineId>
+    <Text>컬렉션 새로 고침</Text>
+  </Text>
+  <Text>
+    <LineId>1999101309</LineId>
+    <Text>버전 </Text>
+  </Text>
+  <Text>
+    <LineId>1999101310</LineId>
+    <Text>by </Text>
+  </Text>
+  <Text>
+    <LineId>1999101311</LineId>
+    <Text>사용자 문서</Text>
+  </Text>
+  <Text>
+    <LineId>1999101312</LineId>
+    <Text>게임 디렉토리</Text>
+  </Text>
+  <Text>
+    <LineId>1999101313</LineId>
+    <Text>로밍에 구성이 저장되었습니다:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101314</LineId>
+    <Text>5자리 통관 코드가 발송되었습니다:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101315</LineId>
+    <Text>모드 팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101316</LineId>
+    <Text>모드 팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101317</LineId>
+    <Text>모드 재설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101318</LineId>
+    <Text>포기 실패</Text>
+  </Text>
+  <Text>
+    <LineId>1999101319</LineId>
+    <Text>팔로우 실패</Text>
+  </Text>
+  <Text>
+    <LineId>1999101320</LineId>
+    <Text>수집을 팔로우할 수 없습니다</Text>
+  </Text>
+  <Text>
+    <LineId>1999101321</LineId>
+    <Text>컬렉션 설치</Text>
+  </Text>
+  <Text>
+    <LineId>1999101322</LineId>
+    <Text>수집 사전 설정 오류</Text>
+  </Text>
+  <Text>
+    <LineId>1999101323</LineId>
+    <Text>고아 종속성 제거</Text>
+  </Text>
+  <Text>
+    <LineId>1999101324</LineId>
+    <Text>모드 재설정</Text>
+  </Text>
+  <Text>
+    <LineId>1999101325</LineId>
+    <Text>포기</Text>
+  </Text>
+  <Text>
+    <LineId>1999101326</LineId>
+    <Text>프로필 삭제됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101327</LineId>
+    <Text>누락된 종속성</Text>
+  </Text>
+  <Text>
+    <LineId>1999101328</LineId>
+    <Text>임페리얼 아카이브 액세스</Text>
+  </Text>
+  <Text>
+    <LineId>1999101350</LineId>
+    <Text>프리셋 {0} 을 영구 삭제하시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101351</LineId>
+    <Text>모드 폴더 {0} 이 이미 존재합니다. 덮어쓰시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101352</LineId>
+    <Text>{0} 의 구독을 취소하시겠습니까?
+
+이렇게 하면 뉴스 피드에서 이 모드에 대한 업데이트가 제거되고 로컬 모드 파일이 삭제됩니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101353</LineId>
+    <Text>{0} 을 영구 삭제하시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101354</LineId>
+    <Text>{0} 을(를) 설치했습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101355</LineId>
+    <Text>구성 {0} 이 보관되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101356</LineId>
+    <Text>레코드 {0} 가 성공적으로 적용되었습니다. 아카이브 새로 고침 중입니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101357</LineId>
+    <Text>프리셋 {0} 이 삭제되었습니다. 기본값으로 되돌렸습니다(모든 모드가 활성화됨).</Text>
+  </Text>
+  <Text>
+    <LineId>1999101358</LineId>
+    <Text>{0}을(를) 성공적으로 제거했습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101359</LineId>
+    <Text>{0} 의 모드 파일을 다시 다운로드하여 다시 설치합니다.
+
+이를 사용하여 업데이트를 적용하거나 전체 파일 새로 고침을 수행하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101360</LineId>
+    <Text>다음 모드(들)가 {0} 의 종속성으로 설치되었으므로 더 이상 필요하지 않습니다:
+
+{1}
+
+그것들도 제거하시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101361</LineId>
+    <Text>{0} 에 대한 모든 조정을 기본값으로 되돌리시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101362</LineId>
+    <Text>{0} 에서 누락되었거나 업데이트된 모드를 다시 다운로드하시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101363</LineId>
+    <Text>{0} 을 언팔로우하시겠습니까?
+
+또한 이 컬렉션에만 속하는 모든 모드를 구독 취소하고 삭제하시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101364</LineId>
+    <Text>{0} 이 성공적으로 설치되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101365</LineId>
+    <Text>{0} 이 아카이브 및 로컬 저장소에서 제거되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101366</LineId>
+    <Text>{0} 님을 언팔로우했습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101367</LineId>
+    <Text>{0} 이 성공적으로 설치되었습니다.
+
+충돌이 감지되어 모드가 비활성화된 상태로 유지되었습니다.
+활성화 탭에서 충돌을 해결하여 활성화하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101368</LineId>
+    <Text>{0} 이 성공적으로 설치되었습니다.
+
+ 설정에서 '새로 설치된 모드 자동 활성화'가 꺼져 있기 때문에 모드가 비활성화된 상태로 유지되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101369</LineId>
+    <Text>다음 필수 모드가 아직 설치되지 않았으며 {0}  이전에 자동으로 다운로드됩니다:
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101370</LineId>
+    <Text>다음 필수 모드는 아직 설치되지 않았으며 자동으로 다운로드됩니다:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101371</LineId>
+    <Text>사용자 문서 {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101372</LineId>
+    <Text>게임 디렉터리 {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101373</LineId>
+    <Text>로밍에 저장된 구성: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101374</LineId>
+    <Text>5자리 통관 코드가 다음 주소로 발송되었습니다:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101375</LineId>
+    <Text>버전 {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101376</LineId>
+    <Text>by {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101377</LineId>
+    <Text>작성자 {0}  | 업데이트됨: {1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101378</LineId>
+    <Text>{0} 팔로우</Text>
+  </Text>
+  <Text>
+    <LineId>1999101379</LineId>
+    <Text>{0} 재설정을 위한 조정.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101380</LineId>
+    <Text>구독을 취소할 수 없습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101381</LineId>
+    <Text>기술적 오류가 발생했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101382</LineId>
+    <Text>이제 {0} 을 팔로우 중입니다.
+이 컬렉션의 모든 모드가 이미 설치되어 구독 중입니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101383</LineId>
+    <Text>{0} 의 모든 모드가 성공적으로 구독 및 설치되었습니다.
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101384</LineId>
+    <Text>이제 {0} 을 팔로우합니다.
+
+다음 {1} 모드가 다운로드 및 설치됩니다:
+
+{2}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101385</LineId>
+    <Text>사전 설정을 저장하지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101386</LineId>
+    <Text>사전 설정을 적용하지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101387</LineId>
+    <Text>사전 설정을 삭제할 수 없습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101388</LineId>
+    <Text>{0} 이 성공적으로 설치되었습니다.
+
+충돌이 감지되어 모드가 비활성화된 상태로 유지되었습니다.
+활성화 탭에서 충돌을 해결하여 활성화하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101389</LineId>
+    <Text>{0} 이 성공적으로 설치되었습니다.
+
+설정에서 '새로 설치된 모드 자동 활성화'가 꺼져 있기 때문에 모드가 비활성화된 상태로 유지되었습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101390</LineId>
+    <Text>오류가 발생했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101391</LineId>
+    <Text>로그를 복사하지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101392</LineId>
+    <Text>가져오지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101393</LineId>
+    <Text>제거하지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101394</LineId>
+    <Text>게임을 시작하지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101395</LineId>
+    <Text>Bin\Win64\Anno117.exe를 찾을 수 없습니다:
+{0}
+
+Anno 117의 기본 설치 디렉터리를 선택하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101396</LineId>
+    <Text>Mod.io 서버에 연결하지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101397</LineId>
+    <Text>구독을 가져오지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101398</LineId>
+    <Text>등급을 제출할 수 없습니다:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101399</LineId>
+    <Text>모드를 획득하지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101400</LineId>
+    <Text>기술적 오류가 발생했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101401</LineId>
+    <Text>다음 고아 모드가 구독 취소 및 제거되었습니다:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101402</LineId>
+    <Text>다음 모드는 mod.io에서 구독이 취소되었지만 로컬 폴더에 일치시킬 수 없으므로 수동으로 삭제해야 합니다:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101403</LineId>
+    <Text>모드를 로드하지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101404</LineId>
+    <Text>이제 {0} 을 팔로우합니다.
+모든 모드가 이미 설치되어 있습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101405</LineId>
+    <Text>{0} 의 모든 모드가 성공적으로 설치되었습니다.
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101406</LineId>
+    <Text>언팔로우에 실패했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101407</LineId>
+    <Text>{0} mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101408</LineId>
+    <Text>{0} 모드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101409</LineId>
+    <Text>프리셋에서 누락된 모드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101410</LineId>
+    <Text>이 프리셋에 저장된 다음 모드는 현재 설치되어 있지 않으므로 건너뜁니다:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101411</LineId>
+    <Text>다른 모드에 필요</Text>
+  </Text>
+  <Text>
+    <LineId>1999101412</LineId>
+    <Text>어쨌든 제거</Text>
+  </Text>
+  <Text>
+    <LineId>1999101413</LineId>
+    <Text>아무튼 제거</Text>
+  </Text>
+  <Text>
+    <LineId>1999101414</LineId>
+    <Text>아무튼 시작</Text>
+  </Text>
+  <Text>
+    <LineId>1999101415</LineId>
+    <Text>어떻게든 진행</Text>
+  </Text>
+  <Text>
+    <LineId>1999101416</LineId>
+    <Text>누락된 종속성</Text>
+  </Text>
+  <Text>
+    <LineId>1999101417</LineId>
+    <Text>{0} 는 다음 활성 모드에서 필수 종속성으로 나열됩니다:
+
+{1}
+
+구독을 취소하고 제거하면 해당 모드가 중단될 수 있습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101418</LineId>
+    <Text>{0} 는 다음 활성 모드에서 필수 종속성으로 나열됩니다:
+
+{1}
+
+제거하면 해당 모드가 손상될 수 있습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101419</LineId>
+    <Text>활성 모드 목록에서 다음 필수 모드가 누락되었습니다:
+
+{0}
+
+해당 모드 없이 실행하면 오류, 충돌 또는 불안정성이 발생할 수 있습니다!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101420</LineId>
+    <Text>{0}  구독을 취소하고 로컬 저장소에서 제거했습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101421</LineId>
+    <Text>수집을 따르지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101422</LineId>
+    <Text>수집을 따르지 못했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101423</LineId>
+    <Text>모드 관리자의 설정 폴더를 엽니다</Text>
+  </Text>
+  <Text>
+    <LineId>1999101424</LineId>
+    <Text>에서 모드 관리자 디버그 로그 파일을 엽니다:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101425</LineId>
+    <Text>로그 읽기 오류입니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101426</LineId>
+    <Text>로그 파일을 찾을 수 없습니다:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101427</LineId>
+    <Text>제국 기록 보관소에서 로드 중...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101428</LineId>
+    <Text>+ 를 클릭하거나 .zip 파일을 여기로 끌어다 놓습니다</Text>
+  </Text>
+  <Text>
+    <LineId>1999101429</LineId>
+    <Text>드래그 앤 드롭을 위해 'tkinterdnd2'를 설치합니다</Text>
+  </Text>
+  <Text>
+    <LineId>1999101430</LineId>
+    <Text>온라인 mod.io 기능에 액세스하려면 자격 증명을 입력해야 합니다.
+
+1. Mod.io에서 등록 또는 로그인
+2. 사용자 아바타(사이트 패널 왼쪽 하단)의 'API 액세스'를 클릭합니다
+3. 'API 액세스'에서 mod.io API 키 이용 약관을 읽고 동의합니다.
+4. 그런 다음 'API 키 요청'을 클릭합니다.
+5. 생성된 API 키를 복사하여 아래에 붙여넣습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101431</LineId>
+    <Text>이 앱은 mod.io를 사용하여 사용자 제작 콘텐츠(모드)의 자동 설치를 지원합니다.
+
+'동의함'을 클릭하면 mod.io 이용약관에 동의하는 것입니다. Mod.io가 개인정보를 처리하는 방법에 대해서는 mod.io 개인정보 처리방침을 참조하세요.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101432</LineId>
+    <Text>최다 다운로드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101433</LineId>
+    <Text>알파벳순</Text>
+  </Text>
+  <Text>
+    <LineId>1999101434</LineId>
+    <Text>최신</Text>
+  </Text>
+  <Text>
+    <LineId>1999101435</LineId>
+    <Text>최고 평점</Text>
+  </Text>
+  <Text>
+    <LineId>1999101436</LineId>
+    <Text>작성자</Text>
+  </Text>
+  <Text>
+    <LineId>1999101437</LineId>
+    <Text>활성 모드 - 로드 순서</Text>
+  </Text>
+  <Text>
+    <LineId>1999101438</LineId>
+    <Text>비활성화된 모드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101439</LineId>
+    <Text>액티브 모드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101440</LineId>
+    <Text>{0} 이 호환되지 않는 것으로 표시되었습니다
+로 표시되어 있습니다:
+
+{1}
+
+함께 실행하면 불안정하거나 오류가 발생할 수 있습니다.
+어떻게 진행하시겠습니까?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101441</LineId>
+    <Text>{0} 모드를 구독 중...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101442</LineId>
+    <Text>모든 모드가 이미 설치되어 있습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101443</LineId>
+    <Text>{0} 새 모드를 설치하는 중...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101444</LineId>
+    <Text>완료!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101445</LineId>
+    <Text>모드가 활성화/설치되었습니다: {0} / {1}   | 총 크기: {2} / {3}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101446</LineId>
+    <Text>  - {0} ({1}에서 필요)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101447</LineId>
+    <Text>오류가 발생했습니다: 문서를 검색할 수 없습니다.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101448</LineId>
+    <Text>연결에 실패했습니다: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101449</LineId>
+    <Text>{1} 모드 중 {0} 개 발견됨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101450</LineId>
+    <Text>{1} 구독 모드 중 {0} 개</Text>
+  </Text>
+  <Text>
+    <LineId>1999101451</LineId>
+    <Text>이 컬렉션의 {0} 모드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101452</LineId>
+    <Text>이 컬렉션의 {0} 모드</Text>
+  </Text>
+  <Text>
+    <LineId>1999101453</LineId>
+    <Text>- 새 게임 필요</Text>
+  </Text>
+  <Text>
+    <LineId>1999101454</LineId>
+    <Text>- 세션 도중 제거해도 안전</Text>
+  </Text>
+  <Text>
+    <LineId>1999101455</LineId>
+    <Text>- 멀티플레이어 호환</Text>
+  </Text>
+  <Text>
+    <LineId>1999101456</LineId>
+    <Text>- 캠페인에서 안전하게 사용 가능</Text>
+  </Text>
+  <Text>
+    <LineId>1999101457</LineId>
+    <Text>알려진 문제</Text>
+  </Text>
+  <Text>
+    <LineId>1999101458</LineId>
+    <Text>필요 사항</Text>
+  </Text>
+  <Text>
+    <LineId>1999101459</LineId>
+    <Text>선택 사항</Text>
+  </Text>
+  <Text>
+    <LineId>1999101460</LineId>
+    <Text>로드 후</Text>
+  </Text>
+  <Text>
+    <LineId>1999101461</LineId>
+    <Text>사용 중단</Text>
+  </Text>
+  <Text>
+    <LineId>1999101462</LineId>
+    <Text>호환되지 않음</Text>
+  </Text>
+  <Text>
+    <LineId>1999101463</LineId>
+    <Text>로드 지속 시간</Text>
+  </Text>
+  <Text>
+    <LineId>1999101464</LineId>
+    <Text>{1} 컬렉션 중 {0} 개</Text>
+  </Text>
+</Texts>

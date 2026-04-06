@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Texts>
+  <Text>
+    <LineId>1999101000</LineId>
+    <Text>Anno 117 Modマネージャー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101001</LineId>
+    <Text>MODブラウザの統合</Text>
+  </Text>
+  <Text>
+    <LineId>1999101002</LineId>
+    <Text>mod.ioブラウザ統合を有効にしますか？
+
+これにより、アプリから直接MODを閲覧、インストールすることができますが、無料のmod.ioアカウントとAPIキーが必要です。
+
+これは後でいつでも設定で変更できます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101003</LineId>
+    <Text>有効にする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101004</LineId>
+    <Text>今ではない</Text>
+  </Text>
+  <Text>
+    <LineId>1999101005</LineId>
+    <Text>プリセットの保存</Text>
+  </Text>
+  <Text>
+    <LineId>1999101006</LineId>
+    <Text>プリセットに名前を付ける</Text>
+  </Text>
+  <Text>
+    <LineId>1999101007</LineId>
+    <Text>このMODコンフィギュレーションの名称を入力する：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101008</LineId>
+    <Text>確認</Text>
+  </Text>
+  <Text>
+    <LineId>1999101009</LineId>
+    <Text>改造情報</Text>
+  </Text>
+  <Text>
+    <LineId>1999101010</LineId>
+    <Text>ニュースと最新情報</Text>
+  </Text>
+  <Text>
+    <LineId>1999101011</LineId>
+    <Text>  リフレッシュ・ニュース</Text>
+  </Text>
+  <Text>
+    <LineId>1999101012</LineId>
+    <Text>  アンノ・ユニオン</Text>
+  </Text>
+  <Text>
+    <LineId>1999101013</LineId>
+    <Text>帝国の最新ニュースを入手...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101014</LineId>
+    <Text>ニュースが見つかりません。接続を確認してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101015</LineId>
+    <Text>アーカイブにないMOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101016</LineId>
+    <Text>画像なし
+付属</Text>
+  </Text>
+  <Text>
+    <LineId>1999101017</LineId>
+    <Text>  MODブラウザで開く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101018</LineId>
+    <Text>  コレクションで開く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101019</LineId>
+    <Text> アクティブな
+  プロフィール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101020</LineId>
+    <Text>  新規保存</Text>
+  </Text>
+  <Text>
+    <LineId>1999101021</LineId>
+    <Text>  削除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101022</LineId>
+    <Text>検索</Text>
+  </Text>
+  <Text>
+    <LineId>1999101023</LineId>
+    <Text>  すべてをアク
+ティブにする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101024</LineId>
+    <Text>  ロードオーダー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101025</LineId>
+    <Text>MODが見つからない。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101026</LineId>
+    <Text>モデル名</Text>
+  </Text>
+  <Text>
+    <LineId>1999101027</LineId>
+    <Text>カテゴリー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101028</LineId>
+    <Text>MOD選択なし</Text>
+  </Text>
+  <Text>
+    <LineId>1999101029</LineId>
+    <Text> 登録解除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101030</LineId>
+    <Text> MODのアンインストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101031</LineId>
+    <Text>  カスタマイズ可能MOD - クリックして微調整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101032</LineId>
+    <Text>難易度が高い： </Text>
+  </Text>
+  <Text>
+    <LineId>1999101033</LineId>
+    <Text>依存関係</Text>
+  </Text>
+  <Text>
+    <LineId>1999101034</LineId>
+    <Text>フォルダー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101035</LineId>
+    <Text>サイズ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101036</LineId>
+    <Text>行方不明者のアクティベート</Text>
+  </Text>
+  <Text>
+    <LineId>1999101037</LineId>
+    <Text>戻る</Text>
+  </Text>
+  <Text>
+    <LineId>1999101038</LineId>
+    <Text>手動インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101039</LineId>
+    <Text>すでにMODをダウンロード済みですか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101040</LineId>
+    <Text>インストールする.zipアーカイブを選択する</Text>
+  </Text>
+  <Text>
+    <LineId>1999101041</LineId>
+    <Text>リフレッシュログ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101042</LineId>
+    <Text>テキストをクリップボードにコピーする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101043</LineId>
+    <Text>MODマネージャーの設定</Text>
+  </Text>
+  <Text>
+    <LineId>1999101044</LineId>
+    <Text>一般</Text>
+  </Text>
+  <Text>
+    <LineId>1999101045</LineId>
+    <Text>チュートリアル情報</Text>
+  </Text>
+  <Text>
+    <LineId>1999101046</LineId>
+    <Text>アプリ内のボタンにカーソルを合わせると、便利なツールチップが表示されます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101047</LineId>
+    <Text>ニュースフィードにr/annoの投稿を表示する</Text>
+  </Text>
+  <Text>
+    <LineId>1999101048</LineId>
+    <Text>reddit.com/r/annoからの最新の投稿を他のニュースと一緒に表示します。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101049</LineId>
+    <Text>新しくインストールしたMODを自動的に有効化</Text>
+  </Text>
+  <Text>
+    <LineId>1999101050</LineId>
+    <Text>無効の場合、新しいMODはリストに表示されますが、手動で有効にするまでチェックはされません。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101051</LineId>
+    <Text>ゲームファイル</Text>
+  </Text>
+  <Text>
+    <LineId>1999101052</LineId>
+    <Text>Anno 117 インストールディレクトリ：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101053</LineId>
+    <Text>ブラウズ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101054</LineId>
+    <Text>MODストレージ：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101055</LineId>
+    <Text>mod.ioの統合</Text>
+  </Text>
+  <Text>
+    <LineId>1999101056</LineId>
+    <Text>APIキー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101057</LineId>
+    <Text>セーブ・キー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101058</LineId>
+    <Text>ステータス認証済み</Text>
+  </Text>
+  <Text>
+    <LineId>1999101059</LineId>
+    <Text>アカウントの切断</Text>
+  </Text>
+  <Text>
+    <LineId>1999101060</LineId>
+    <Text>ステータス未接続</Text>
+  </Text>
+  <Text>
+    <LineId>1999101061</LineId>
+    <Text>Mod.ioに接続する</Text>
+  </Text>
+  <Text>
+    <LineId>1999101062</LineId>
+    <Text>設定フォルダを開く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101063</LineId>
+    <Text>デバッグログを見る</Text>
+  </Text>
+  <Text>
+    <LineId>1999101064</LineId>
+    <Text>オーケー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101065</LineId>
+    <Text>はい</Text>
+  </Text>
+  <Text>
+    <LineId>1999101066</LineId>
+    <Text>いいえ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101067</LineId>
+    <Text>必要な資格</Text>
+  </Text>
+  <Text>
+    <LineId>1999101068</LineId>
+    <Text>帝国アーカイブアクセス</Text>
+  </Text>
+  <Text>
+    <LineId>1999101069</LineId>
+    <Text>mod.ioプロフィールを開く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101070</LineId>
+    <Text>オーソライズ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101071</LineId>
+    <Text>Mod.io規約</Text>
+  </Text>
+  <Text>
+    <LineId>1999101072</LineId>
+    <Text>利用規約を見る</Text>
+  </Text>
+  <Text>
+    <LineId>1999101073</LineId>
+    <Text>プライバシーポリシー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101074</LineId>
+    <Text>同意する</Text>
+  </Text>
+  <Text>
+    <LineId>1999101075</LineId>
+    <Text>いや、ありがとう</Text>
+  </Text>
+  <Text>
+    <LineId>1999101076</LineId>
+    <Text>皇室の身元確認</Text>
+  </Text>
+  <Text>
+    <LineId>1999101077</LineId>
+    <Text>身分証明書の提示</Text>
+  </Text>
+  <Text>
+    <LineId>1999101078</LineId>
+    <Text>mod.ioアカウントに関連付けられているメールアドレスを入力してください：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101079</LineId>
+    <Text>アクセスコードのリクエスト</Text>
+  </Text>
+  <Text>
+    <LineId>1999101080</LineId>
+    <Text>セキュリティ・クリアランス</Text>
+  </Text>
+  <Text>
+    <LineId>1999101081</LineId>
+    <Text>セキュリティコードを入力</Text>
+  </Text>
+  <Text>
+    <LineId>1999101082</LineId>
+    <Text>認証情報</Text>
+  </Text>
+  <Text>
+    <LineId>1999101083</LineId>
+    <Text>MODブラウザ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101084</LineId>
+    <Text>  購読済み</Text>
+  </Text>
+  <Text>
+    <LineId>1999101085</LineId>
+    <Text>設定で認証してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101086</LineId>
+    <Text>検索...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101087</LineId>
+    <Text>帝国公文書館に相談...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101088</LineId>
+    <Text>MODが見つからない。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101089</LineId>
+    <Text>このゲームに登録されているMODは見つかりませんでした。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101090</LineId>
+    <Text>⌛ 読み込み中...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101091</LineId>
+    <Text>  推薦</Text>
+  </Text>
+  <Text>
+    <LineId>1999101092</LineId>
+    <Text>  推薦</Text>
+  </Text>
+  <Text>
+    <LineId>1999101093</LineId>
+    <Text>  訪問</Text>
+  </Text>
+  <Text>
+    <LineId>1999101094</LineId>
+    <Text>  インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101095</LineId>
+    <Text>+ さらにMODをロードする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101096</LineId>
+    <Text>⌛ もっと読み込む...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101097</LineId>
+    <Text>プレビューなし</Text>
+  </Text>
+  <Text>
+    <LineId>1999101098</LineId>
+    <Text>閉じる</Text>
+  </Text>
+  <Text>
+    <LineId>1999101099</LineId>
+    <Text>インストールMOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101100</LineId>
+    <Text>⌛ メイン画像の読み込み中...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101101</LineId>
+    <Text>アーカイブ詳細</Text>
+  </Text>
+  <Text>
+    <LineId>1999101102</LineId>
+    <Text>ビジュアル・アーカイブ破損</Text>
+  </Text>
+  <Text>
+    <LineId>1999101103</LineId>
+    <Text>帝国物流</Text>
+  </Text>
+  <Text>
+    <LineId>1999101104</LineId>
+    <Text>アーカイブを取得する：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101105</LineId>
+    <Text>Mod.ioに連絡する...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101106</LineId>
+    <Text>バイトストリームのダウンロード...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101107</LineId>
+    <Text>アーカイブとの統合...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101108</LineId>
+    <Text>  購読中</Text>
+  </Text>
+  <Text>
+    <LineId>1999101109</LineId>
+    <Text>  配信停止</Text>
+  </Text>
+  <Text>
+    <LineId>1999101110</LineId>
+    <Text>取り外し...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101111</LineId>
+    <Text>MODの設定を微調整する</Text>
+  </Text>
+  <Text>
+    <LineId>1999101112</LineId>
+    <Text>すべてをデフォルトに戻す</Text>
+  </Text>
+  <Text>
+    <LineId>1999101113</LineId>
+    <Text>カスタマイズ可能なMODは見つからなかった。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101114</LineId>
+    <Text>MODを選択し、Optionsを確認する。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101115</LineId>
+    <Text>デフォルトにリセット</Text>
+  </Text>
+  <Text>
+    <LineId>1999101116</LineId>
+    <Text>オプション・スキーマを読み取れませんでした。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101117</LineId>
+    <Text>非互換性に関する警告</Text>
+  </Text>
+  <Text>
+    <LineId>1999101118</LineId>
+    <Text>修正コンフリクトが検出された</Text>
+  </Text>
+  <Text>
+    <LineId>1999101119</LineId>
+    <Text>リスクを受け入れる</Text>
+  </Text>
+  <Text>
+    <LineId>1999101120</LineId>
+    <Text>無効にしておく</Text>
+  </Text>
+  <Text>
+    <LineId>1999101121</LineId>
+    <Text>競合するMODを無効にする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101122</LineId>
+    <Text>MODコレクション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101123</LineId>
+    <Text>  フォロー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101124</LineId>
+    <Text>+ さらにコレクションをロードする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101125</LineId>
+    <Text>コレクションは見つかりませんでした。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101126</LineId>
+    <Text>まだコレクションをフォローしていません。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101127</LineId>
+    <Text>このコレクションのMOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101128</LineId>
+    <Text>⌛ モッズのフェッチ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101129</LineId>
+    <Text>このコレクションにMODはない。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101130</LineId>
+    <Text>  フォローされた</Text>
+  </Text>
+  <Text>
+    <LineId>1999101131</LineId>
+    <Text>  アンフォロー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101132</LineId>
+    <Text>続いて...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101133</LineId>
+    <Text>コレクション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101134</LineId>
+    <Text>コレクションMODのフェッチ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101135</LineId>
+    <Text>アンフォローコレクション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101136</LineId>
+    <Text>アンフォローコレクション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101137</LineId>
+    <Text> フォロー解除＋モッズの削除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101138</LineId>
+    <Text> アンフォロー・オンリー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101139</LineId>
+    <Text>  フォロー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101140</LineId>
+    <Text>フォロー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101141</LineId>
+    <Text>帝国アーカイブ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101142</LineId>
+    <Text>デフォルトのマネージャーインストール動作</Text>
+  </Text>
+  <Text>
+    <LineId>1999101143</LineId>
+    <Text>ニュースフィード</Text>
+  </Text>
+  <Text>
+    <LineId>1999101144</LineId>
+    <Text>デバッグログを見る</Text>
+  </Text>
+  <Text>
+    <LineId>1999101145</LineId>
+    <Text>インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101146</LineId>
+    <Text>読み込み中...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101147</LineId>
+    <Text>  カスタマイズ可能MOD（クリックで微調整）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101148</LineId>
+    <Text>ニュース</Text>
+  </Text>
+  <Text>
+    <LineId>1999101149</LineId>
+    <Text>  MOD アクティ  
+  ベーション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101150</LineId>
+    <Text>Modブラウザ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101151</LineId>
+    <Text>コレクション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101152</LineId>
+    <Text>手動インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101153</LineId>
+    <Text>  モッドロ  
+  ーダーログ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101154</LineId>
+    <Text>微調整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101155</LineId>
+    <Text>設定</Text>
+  </Text>
+  <Text>
+    <LineId>1999101156</LineId>
+    <Text>言語：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101157</LineId>
+    <Text>新しい言語を完全に適用するには、アプリを再起動します。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101158</LineId>
+    <Text>OK ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101159</LineId>
+    <Text>  打ち上げ
+ゲーム</Text>
+  </Text>
+  <Text>
+    <LineId>1999101160</LineId>
+    <Text>リフレッシュ・ニュース</Text>
+  </Text>
+  <Text>
+    <LineId>1999101161</LineId>
+    <Text>アンノ・ユニオン</Text>
+  </Text>
+  <Text>
+    <LineId>1999101162</LineId>
+    <Text>画像なし
+付属</Text>
+  </Text>
+  <Text>
+    <LineId>1999101163</LineId>
+    <Text> MODブラウザで開く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101164</LineId>
+    <Text> コレクションで開く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101165</LineId>
+    <Text> カスタマイズ可能MOD - クリックして微調整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101166</LineId>
+    <Text>購読済み</Text>
+  </Text>
+  <Text>
+    <LineId>1999101167</LineId>
+    <Text> 推薦</Text>
+  </Text>
+  <Text>
+    <LineId>1999101168</LineId>
+    <Text> 訪問</Text>
+  </Text>
+  <Text>
+    <LineId>1999101169</LineId>
+    <Text> インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101170</LineId>
+    <Text>該当なし</Text>
+  </Text>
+  <Text>
+    <LineId>1999101171</LineId>
+    <Text>⌛ ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101172</LineId>
+    <Text>承認</Text>
+  </Text>
+  <Text>
+    <LineId>1999101173</LineId>
+    <Text>支持する</Text>
+  </Text>
+  <Text>
+    <LineId>1999101174</LineId>
+    <Text>⌛ スワップ・ビュー...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101175</LineId>
+    <Text> 購読中</Text>
+  </Text>
+  <Text>
+    <LineId>1999101176</LineId>
+    <Text> 配信停止</Text>
+  </Text>
+  <Text>
+    <LineId>1999101177</LineId>
+    <Text>インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101178</LineId>
+    <Text>フォロー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101179</LineId>
+    <Text> フォロー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101180</LineId>
+    <Text> フォローされた</Text>
+  </Text>
+  <Text>
+    <LineId>1999101181</LineId>
+    <Text> アンフォロー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101182</LineId>
+    <Text>フォロー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101183</LineId>
+    <Text>新規保存</Text>
+  </Text>
+  <Text>
+    <LineId>1999101184</LineId>
+    <Text>削除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101185</LineId>
+    <Text>すべてをアク
+ティブにする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101186</LineId>
+    <Text> ロードオーダー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101187</LineId>
+    <Text>最初のスタート</Text>
+  </Text>
+  <Text>
+    <LineId>1999101188</LineId>
+    <Text>セッション終了</Text>
+  </Text>
+  <Text>
+    <LineId>1999101189</LineId>
+    <Text>エラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101190</LineId>
+    <Text>プロフィール・リセット</Text>
+  </Text>
+  <Text>
+    <LineId>1999101191</LineId>
+    <Text>システム概要</Text>
+  </Text>
+  <Text>
+    <LineId>1999101192</LineId>
+    <Text>無効なファイル</Text>
+  </Text>
+  <Text>
+    <LineId>1999101193</LineId>
+    <Text>インストールエラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101194</LineId>
+    <Text>無効な改造</Text>
+  </Text>
+  <Text>
+    <LineId>1999101195</LineId>
+    <Text>クリップボード</Text>
+  </Text>
+  <Text>
+    <LineId>1999101196</LineId>
+    <Text>アクセス拒否</Text>
+  </Text>
+  <Text>
+    <LineId>1999101197</LineId>
+    <Text>フォルダが見つかりません</Text>
+  </Text>
+  <Text>
+    <LineId>1999101198</LineId>
+    <Text>勅令</Text>
+  </Text>
+  <Text>
+    <LineId>1999101199</LineId>
+    <Text>ログが見つかりません</Text>
+  </Text>
+  <Text>
+    <LineId>1999101200</LineId>
+    <Text>設定フォルダが見つかりません</Text>
+  </Text>
+  <Text>
+    <LineId>1999101201</LineId>
+    <Text>成功</Text>
+  </Text>
+  <Text>
+    <LineId>1999101202</LineId>
+    <Text>接続確立</Text>
+  </Text>
+  <Text>
+    <LineId>1999101203</LineId>
+    <Text>条件更新</Text>
+  </Text>
+  <Text>
+    <LineId>1999101204</LineId>
+    <Text>バリデーション失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101205</LineId>
+    <Text>接続拒否</Text>
+  </Text>
+  <Text>
+    <LineId>1999101206</LineId>
+    <Text>すべての調整をリセットする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101207</LineId>
+    <Text>起動エラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101208</LineId>
+    <Text>ロードエラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101209</LineId>
+    <Text>プリセット・ロード</Text>
+  </Text>
+  <Text>
+    <LineId>1999101210</LineId>
+    <Text>上書き</Text>
+  </Text>
+  <Text>
+    <LineId>1999101211</LineId>
+    <Text>MODのアンインストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101212</LineId>
+    <Text>インストール済み（非アクティブ）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101213</LineId>
+    <Text>帝国物流</Text>
+  </Text>
+  <Text>
+    <LineId>1999101214</LineId>
+    <Text>MODの再インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101220</LineId>
+    <Text>安野117が自動的に見つかりませんでした。ゲームのインストールフォルダを選択してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101221</LineId>
+    <Text>mod.ioのセッショントークンの有効期限が切れました。
+Modブラウザーの使用を続けるには、設定からアカウントを再接続してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101222</LineId>
+    <Text>保存するアクティブなプロファイルが見つかりません。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101223</LineId>
+    <Text>デフォルトに切り替えました。インストールされているすべてのMODが有効になりました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101224</LineId>
+    <Text>デフォルト」プロファイルはシステム要件であり、削除することはできません。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101225</LineId>
+    <Text>.zip形式のMODアーカイブをドロップしてください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101226</LineId>
+    <Text>MODストレージパスが設定されていない。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101227</LineId>
+    <Text>このZIPにはmodinfo.jsonが見つかりません。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101228</LineId>
+    <Text>ログの内容が正常にコピーされた！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101229</LineId>
+    <Text>この機能にアクセスするには、設定でmod.io API Keyを設定してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101230</LineId>
+    <Text>MODのインストールフォルダが見つかりません。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101231</LineId>
+    <Text>MODメタデータが見つかりません。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101232</LineId>
+    <Text>Anno117.exeが見つかりません！設定でパスを設定してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101233</LineId>
+    <Text>mod.io API Keyの更新に成功しました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101234</LineId>
+    <Text>デバッグログファイルはまだ作成されていない。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101235</LineId>
+    <Text>コンフィグフォルダはまだ作成されていない。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101236</LineId>
+    <Text>APIキーを空にすることはできません。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101237</LineId>
+    <Text>認証情報を受け付けました。認証に進みます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101238</LineId>
+    <Text>mod.ioセッションの有効期限が切れました。設定でアカウントを再接続してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101239</LineId>
+    <Text>インペリアル・アーカイブがあなたのアカウントと同期されました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101240</LineId>
+    <Text>mod.ioの利用規約は、あなたが最後に同意してから更新されました。
+続行する前に再度確認し、同意する必要があります。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101241</LineId>
+    <Text>提供されたセキュリティコードは、アーカイブによって拒否されました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101242</LineId>
+    <Text>あなたの認証情報はローカルストレージから削除されました。アーカイブはロックされました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101243</LineId>
+    <Text>mod.ioの利用規約が変更されました。再認証してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101244</LineId>
+    <Text>本当にすべてのMODをデフォルト設定に戻したいのですか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101245</LineId>
+    <Text>すべてのMOD調整がリセットされた。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101250</LineId>
+    <Text>名前またはカテゴリでMODを検索します。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101251</LineId>
+    <Text>デフォルトのプロファイルにリセット - インストールされているすべてのMODを有効にします。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101252</LineId>
+    <Text>現在のMODインストールフォルダをエクスプローラで開きます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101253</LineId>
+    <Text>ディスクから現在のMODリストを再読み込みします。MODを'昔ながらの'スーパーマニュアルでインストールした場合に便利です。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101254</LineId>
+    <Text>Toggle load order view - ゲームがロードする順番でMODをソートします。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101255</LineId>
+    <Text>エクスプローラーでこのMODのインストールフォルダーを開く。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101256</LineId>
+    <Text>mod.ioでこのMODの登録を解除し、ローカルファイルをアンインストールしてください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101257</LineId>
+    <Text>ローカルファイルを削除して、このMODをアンインストールしてください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101258</LineId>
+    <Text>TweakingタブでこのMODを開き、内容の一部をカスタマイズする。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101259</LineId>
+    <Text>不足しているMODの依存関係を有効にする。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101260</LineId>
+    <Text>ゲーム開始後にmod-loader.logファイルを手動で更新する。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101261</LineId>
+    <Text>mod-loader.logの内容を.txtファイルとしてクリップボードにコピーします。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101262</LineId>
+    <Text>エクスプローラーでAnnoゲームのインストールフォルダーをブラウズします。Anno 117 - Pax Romana」という名前のフォルダを選択し、「OK」を押してください。現在のビューで「mods」フォルダが表示されている場合、それは適切な場所ではありません！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101263</LineId>
+    <Text>mod.io APIキーを保存します。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101264</LineId>
+    <Text>現在のmod.ioアカウントをアプリから切断してください。Modブラウザとコレクションが動作しなくなります。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101265</LineId>
+    <Text>mod.ioアカウントをアプリに接続します。MODブラウザとコレクションが利用可能になりました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101266</LineId>
+    <Text>5桁のセキュリティコードが記載されたメールが、指定されたメールアドレスに送信されます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101267</LineId>
+    <Text>購読しているMODのみを表示します。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101268</LineId>
+    <Text>このMODを再ダウンロード、再インストールします。例えば、ファイルが壊れていたり、MODがアップデートされた場合などです。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101269</LineId>
+    <Text>すべてのMODのすべてのオプション値を、MODのmodinfo.jsonで指定されたデフォルト値にリセットします。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101270</LineId>
+    <Text>このMODのオプション値を、MODのmodinfo.jsonで指定されたデフォルト値にリセットします。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101271</LineId>
+    <Text>カラーホイールで色を選ぶ。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101272</LineId>
+    <Text>現在のMODを有効にしながら、競合するMODを無効にする。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101273</LineId>
+    <Text>あなたがフォローしているコレクションのみを表示します。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101274</LineId>
+    <Text>既存のMODに触れることなく、コレクションから不足または更新されたMODを再ダウンロードします。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101280</LineId>
+    <Text>プリセット保存</Text>
+  </Text>
+  <Text>
+    <LineId>1999101281</LineId>
+    <Text>削除の確認</Text>
+  </Text>
+  <Text>
+    <LineId>1999101282</LineId>
+    <Text>インストール失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101283</LineId>
+    <Text>MODを放棄する</Text>
+  </Text>
+  <Text>
+    <LineId>1999101284</LineId>
+    <Text>無効なフォルダ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101285</LineId>
+    <Text>mod.ioにログインする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101286</LineId>
+    <Text>ロジスティクス・エラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101287</LineId>
+    <Text>切断の確認</Text>
+  </Text>
+  <Text>
+    <LineId>1999101288</LineId>
+    <Text>裏書不成立</Text>
+  </Text>
+  <Text>
+    <LineId>1999101289</LineId>
+    <Text>依存関係のインストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101290</LineId>
+    <Text>上書き</Text>
+  </Text>
+  <Text>
+    <LineId>1999101291</LineId>
+    <Text>MODのアンインストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101292</LineId>
+    <Text>インストール済み（非アクティブ）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101293</LineId>
+    <Text>MODの再インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101294</LineId>
+    <Text>起動エラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101295</LineId>
+    <Text>ロードエラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101296</LineId>
+    <Text>プリセット・ロード</Text>
+  </Text>
+  <Text>
+    <LineId>1999101297</LineId>
+    <Text>レコード・ロード</Text>
+  </Text>
+  <Text>
+    <LineId>1999101298</LineId>
+    <Text>APIエラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101299</LineId>
+    <Text>放棄 失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101300</LineId>
+    <Text>利用規約とプライバシーポリシーを見ずにmod.ioにログインしますか？
+
+続行することで、これらの文書に同意したことになります。これらの文書はmod.ioのウェブサイトにあります。
+
+また、後で設定からログインを続けることもできます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101301</LineId>
+    <Text>本当にmod.ioとの接続を解除したいのですか？
+
+あなたのローカル認証情報は削除され、modブラウザへのアクセスは制限されます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101302</LineId>
+    <Text>インストールされている依存関係</Text>
+  </Text>
+  <Text>
+    <LineId>1999101303</LineId>
+    <Text>削除された依存関係</Text>
+  </Text>
+  <Text>
+    <LineId>1999101304</LineId>
+    <Text>手動による処置が必要</Text>
+  </Text>
+  <Text>
+    <LineId>1999101305</LineId>
+    <Text>コレクション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101306</LineId>
+    <Text>コレクション設置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101307</LineId>
+    <Text>フォローされていない</Text>
+  </Text>
+  <Text>
+    <LineId>1999101308</LineId>
+    <Text>リフレッシュ・コレクション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101309</LineId>
+    <Text>バージョン </Text>
+  </Text>
+  <Text>
+    <LineId>1999101310</LineId>
+    <Text>によって </Text>
+  </Text>
+  <Text>
+    <LineId>1999101311</LineId>
+    <Text>ユーザードキュメント</Text>
+  </Text>
+  <Text>
+    <LineId>1999101312</LineId>
+    <Text>ゲームディレクトリ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101313</LineId>
+    <Text>コンフィグをローミングに保存：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101314</LineId>
+    <Text>5桁のクリアランスコードが発信されました：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101315</LineId>
+    <Text>MODが続く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101316</LineId>
+    <Text>modsが続く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101317</LineId>
+    <Text>MODの再インストール</Text>
+  </Text>
+  <Text>
+    <LineId>1999101318</LineId>
+    <Text>放棄 失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101319</LineId>
+    <Text>フォロー失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101320</LineId>
+    <Text>コレクションについていけなかった</Text>
+  </Text>
+  <Text>
+    <LineId>1999101321</LineId>
+    <Text>コレクションの設置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101322</LineId>
+    <Text>コレクション・プリセット・エラー</Text>
+  </Text>
+  <Text>
+    <LineId>1999101323</LineId>
+    <Text>オーファン依存の削除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101324</LineId>
+    <Text>リセット・モッド</Text>
+  </Text>
+  <Text>
+    <LineId>1999101325</LineId>
+    <Text>手放す</Text>
+  </Text>
+  <Text>
+    <LineId>1999101326</LineId>
+    <Text>プロフィール削除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101327</LineId>
+    <Text>欠落している依存関係</Text>
+  </Text>
+  <Text>
+    <LineId>1999101328</LineId>
+    <Text>帝国アーカイブへのアクセス</Text>
+  </Text>
+  <Text>
+    <LineId>1999101350</LineId>
+    <Text>本当にプリセット {0} を永久に削除しますか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101351</LineId>
+    <Text>MODフォルダ {0} は既に存在します。上書きしますか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101352</LineId>
+    <Text>{0} の配信を停止しますか？
+
+これであなたのニュースフィードからこのMODのアップデートが削除され、ローカルのMODファイルも削除されます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101353</LineId>
+    <Text>本当に {0} を永久に削除しますか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101354</LineId>
+    <Text>{0} が正常にインストールされました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101355</LineId>
+    <Text>コンフィグレーション {0} はアーカイブされました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101356</LineId>
+    <Text>レコード {0} が正常に適用されました。アーカイブを更新しています。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101357</LineId>
+    <Text>プリセット {0} を削除。デフォルト（すべてのMODが有効）に戻す。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101358</LineId>
+    <Text>{0} のアンインストールに成功しました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101359</LineId>
+    <Text>{0} のMODファイルが再ダウンロードされ、再インストールされます。
+
+アップデートを適用したり、ファイルを完全に更新したりする場合に使用します。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101360</LineId>
+    <Text>以下のmodは {0} の依存としてインストールされましたが、もはや必要ありません：
+
+{1}
+
+これらも削除しますか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101361</LineId>
+    <Text>{0} の微調整をすべてデフォルトに戻す？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101362</LineId>
+    <Text>{0} から不足している、または更新されたMODを再ダウンロードしますか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101363</LineId>
+    <Text>フォローを解除しますか？
+
+また、このコレクションのみに属するすべてのMODをアンサブスクライブして削除しますか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101364</LineId>
+    <Text>{0} が正常にインストールされました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101365</LineId>
+    <Text>アーカイブとローカルストレージから {0} が削除されました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101366</LineId>
+    <Text>{0} はフォローを外されました。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101367</LineId>
+    <Text>{0} は正常にインストールされました。
+
+コンフリクトが検出されたため、MODは無効化されたままになっています。
+有効化タブで競合を解決して有効化してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101368</LineId>
+    <Text>{0} は正常にインストールされました。
+
+ 設定で「新しくインストールされたMODを自動的に有効にする」がオフになっているため、MODは無効化されたままになっています。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101369</LineId>
+    <Text>以下の必須MODはまだインストールされておらず、{0} の前に自動的にダウンロードされます：
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101370</LineId>
+    <Text>以下の必須MODはまだインストールされておらず、自動的にダウンロードされます：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101371</LineId>
+    <Text>ユーザードキュメント {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101372</LineId>
+    <Text>ゲームディレクトリ {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101373</LineId>
+    <Text>ローミングに保存された設定：{0}。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101374</LineId>
+    <Text>5桁のクリアランスコードが発信されました：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101375</LineId>
+    <Text>バージョン {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101376</LineId>
+    <Text>で {0}。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101377</LineId>
+    <Text>By {0｝  | 更新されました：{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101378</LineId>
+    <Text>{0} が続いた。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101379</LineId>
+    <Text>{0} リセットの微調整。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101380</LineId>
+    <Text>配信停止できませんでした：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101381</LineId>
+    <Text>技術的な障害が発生しました：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101382</LineId>
+    <Text>現在 {0} に続いています。
+このコレクションに含まれるすべてのMODはすでにインストールされ、サブスクライブされています。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101383</LineId>
+    <Text>0}」のすべてのMODが登録され、正常にインストールされました。
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101384</LineId>
+    <Text>今度は {0} に続く。
+
+次の{1}個のMODがダウンロードされ、インストールされます：
+
+{2}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101385</LineId>
+    <Text>プリセットの保存に失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101386</LineId>
+    <Text>プリセットの適用に失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101387</LineId>
+    <Text>プリセットを削除できませんでした： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101388</LineId>
+    <Text> {0} は正常にインストールされました。
+
+コンフリクトが検出されたため、MODは無効化されたままになっています。
+有効化タブで競合を解決して有効化してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101389</LineId>
+    <Text> {0} は正常にインストールされました。
+
+設定で「新しくインストールされたMODを自動的に有効にする」がオフになっているため、MODは無効化されたままになっています。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101390</LineId>
+    <Text>エラーが発生しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101391</LineId>
+    <Text>ログのコピーに失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101392</LineId>
+    <Text>フェッチに失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101393</LineId>
+    <Text>アンインストールに失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101394</LineId>
+    <Text>ゲームの開始に失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101395</LineId>
+    <Text>BinWin64Anno117.exe が見つかりません：
+{0}
+
+Anno 117のメイン・インストール・ディレクトリを選択してください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101396</LineId>
+    <Text>mod.ioサーバーへのアクセスに失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101397</LineId>
+    <Text>サブスクリプションのフェッチに失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101398</LineId>
+    <Text>レーティングを送信できませんでした：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101399</LineId>
+    <Text>MODの取得に失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101400</LineId>
+    <Text>技術的な障害が発生しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101401</LineId>
+    <Text>以下のOrphaned mod(s)は登録解除され、削除されました：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101402</LineId>
+    <Text>以下のMODはmod.ioで登録解除されましたが、ローカルフォルダにマッチしなかったため、手動で削除する必要があります：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101403</LineId>
+    <Text>modsのロードに失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101404</LineId>
+    <Text>{0} に続きます。
+すべてのMODはインストール済みです。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101405</LineId>
+    <Text>{0} のMODはすべて正常にインストールされました。
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101406</LineId>
+    <Text>フォロー解除に失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101407</LineId>
+    <Text>{0} mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101408</LineId>
+    <Text>{0} モッズ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101409</LineId>
+    <Text>プリセットにMODがない</Text>
+  </Text>
+  <Text>
+    <LineId>1999101410</LineId>
+    <Text>このプリセットに保存されている以下のMODは現在インストールされていないため、スキップされます：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101411</LineId>
+    <Text>他のMODで必要</Text>
+  </Text>
+  <Text>
+    <LineId>1999101412</LineId>
+    <Text>とにかく取り除く</Text>
+  </Text>
+  <Text>
+    <LineId>1999101413</LineId>
+    <Text>とにかくアンインストールする</Text>
+  </Text>
+  <Text>
+    <LineId>1999101414</LineId>
+    <Text>とにかく立ち上げる</Text>
+  </Text>
+  <Text>
+    <LineId>1999101415</LineId>
+    <Text>とにかく進む</Text>
+  </Text>
+  <Text>
+    <LineId>1999101416</LineId>
+    <Text>欠落している依存関係</Text>
+  </Text>
+  <Text>
+    <LineId>1999101417</LineId>
+    <Text>{0} は、以下のアクティブなMODによって必須の依存関係としてリストされています：
+
+{1}
+
+購読を解除して削除すると、これらのMODが壊れる可能性があります。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101418</LineId>
+    <Text>{0} は、以下のアクティブなMODによって必須の依存関係としてリストされています：
+
+{1}
+
+アンインストールするとこれらのMODが壊れる可能性があります。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101419</LineId>
+    <Text>アクティブなMODリストに以下のMODがありません：
+
+{0}
+
+これらが無い状態で起動すると、エラーやクラッシュ、不安定性を引き起こす可能性があります！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101420</LineId>
+    <Text>{0} は配信停止され、ローカルストレージから削除された。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101421</LineId>
+    <Text>コレクションに従えませんでした： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101422</LineId>
+    <Text>コレクションのフォローに失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101423</LineId>
+    <Text>Mod Managerの設定フォルダを開きます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101424</LineId>
+    <Text>で Mod Manager デバッグログファイルを開きます：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101425</LineId>
+    <Text>ログ読み取りエラー： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101426</LineId>
+    <Text>ログファイルが見つかりません：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101427</LineId>
+    <Text>帝国文書館からの読み込み...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101428</LineId>
+    <Text>+ または.zipファイルをここにドラッグ＆ドロップ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101429</LineId>
+    <Text>ドラッグ＆ドロップ用に「tkinterdnd2」をインストールする。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101430</LineId>
+    <Text>mod.ioのオンライン機能にアクセスするには、認証情報を入力する必要があります。
+
+1.mod.ioに登録またはログインする
+2.あなたのユーザーアバター（サイトパネル左下）-「APIアクセス」をクリックします。
+3.API Access'の下にあるmod.io API Key Terms of Useを読み、同意してください。
+4.そして'Request API Key'をクリックしてください。
+5.生成されたAPI Keyをコピーし、以下に貼り付けます。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101431</LineId>
+    <Text>このアプリはmod.ioを使用して、ユーザー作成コンテンツ（MOD）の自動インストールをサポートしています。
+
+同意する」をクリックすると、mod.ioの利用規約に同意したことになります。mod.ioがあなたの個人データをどのように処理するかについては、mod.ioプライバシーポリシーをご覧ください。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101432</LineId>
+    <Text>最多ダウンロード数</Text>
+  </Text>
+  <Text>
+    <LineId>1999101433</LineId>
+    <Text>アルファベット順</Text>
+  </Text>
+  <Text>
+    <LineId>1999101434</LineId>
+    <Text>最新</Text>
+  </Text>
+  <Text>
+    <LineId>1999101435</LineId>
+    <Text>最高評価</Text>
+  </Text>
+  <Text>
+    <LineId>1999101436</LineId>
+    <Text>著者</Text>
+  </Text>
+  <Text>
+    <LineId>1999101437</LineId>
+    <Text>アクティブMOD - ロード順</Text>
+  </Text>
+  <Text>
+    <LineId>1999101438</LineId>
+    <Text>無効化されたMOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101439</LineId>
+    <Text>アクティブ・モッズ</Text>
+  </Text>
+  <Text>
+    <LineId>1999101440</LineId>
+    <Text>{0} は互換性がないとマークされています。
+は以下のアクティブなMODと互換性がありません：
+
+{1}
+
+これらを一緒に実行すると不安定になったりエラーが発生する可能性があります。
+どのように進めますか？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101441</LineId>
+    <Text>{0} mod(s)を購読する...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101442</LineId>
+    <Text>すべてのMODはインストール済み。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101443</LineId>
+    <Text>新しいMODを {0} インストール...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101444</LineId>
+    <Text>完了した！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101445</LineId>
+    <Text>アクティブ/インストールされているMOD {0} / {1}   | 合計サイズ: {2} / {3}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101446</LineId>
+    <Text>  - {0} （{1}によって要求される）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101447</LineId>
+    <Text>エラー：ドキュメントを取得できませんでした。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101448</LineId>
+    <Text>接続に失敗しました： {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101449</LineId>
+    <Text>{1} の {0} の改造が見つかった</Text>
+  </Text>
+  <Text>
+    <LineId>1999101450</LineId>
+    <Text>{1} のうち {0} がMODに加入している</Text>
+  </Text>
+  <Text>
+    <LineId>1999101451</LineId>
+    <Text>このコレクションの {0} mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101452</LineId>
+    <Text>このコレクションの {0} 個のMOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101453</LineId>
+    <Text>- 新しいゲームが必要</Text>
+  </Text>
+  <Text>
+    <LineId>1999101454</LineId>
+    <Text>- セッション途中でも安全</Text>
+  </Text>
+  <Text>
+    <LineId>1999101455</LineId>
+    <Text>- マルチプレイ対応</Text>
+  </Text>
+  <Text>
+    <LineId>1999101456</LineId>
+    <Text>- キャンペーンで使用しても安全</Text>
+  </Text>
+  <Text>
+    <LineId>1999101457</LineId>
+    <Text>既知の問題</Text>
+  </Text>
+  <Text>
+    <LineId>1999101458</LineId>
+    <Text>必要</Text>
+  </Text>
+  <Text>
+    <LineId>1999101459</LineId>
+    <Text>オプション</Text>
+  </Text>
+  <Text>
+    <LineId>1999101460</LineId>
+    <Text>ロード・アフター</Text>
+  </Text>
+  <Text>
+    <LineId>1999101461</LineId>
+    <Text>非推奨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101462</LineId>
+    <Text>互換性がない</Text>
+  </Text>
+  <Text>
+    <LineId>1999101463</LineId>
+    <Text>ロードは最後</Text>
+  </Text>
+  <Text>
+    <LineId>1999101464</LineId>
+    <Text>{0} の{1}コレクション</Text>
+  </Text>
+</Texts>

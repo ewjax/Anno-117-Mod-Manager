@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Texts>
+  <Text>
+    <LineId>1999101000</LineId>
+    <Text>Anno 117 Mod Manager</Text>
+  </Text>
+  <Text>
+    <LineId>1999101001</LineId>
+    <Text>MOD 瀏覽器整合</Text>
+  </Text>
+  <Text>
+    <LineId>1999101002</LineId>
+    <Text>您要啟用 mod.io 瀏覽器整合嗎？
+
+這可讓您直接從應用程式瀏覽和安裝 mod，但需要免費的 mod.io 帳戶和 API 金鑰。
+
+您可以稍後在「設定」中變更。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101003</LineId>
+    <Text>啟用</Text>
+  </Text>
+  <Text>
+    <LineId>1999101004</LineId>
+    <Text>現在不行</Text>
+  </Text>
+  <Text>
+    <LineId>1999101005</LineId>
+    <Text>儲存預設值</Text>
+  </Text>
+  <Text>
+    <LineId>1999101006</LineId>
+    <Text>為預設命名</Text>
+  </Text>
+  <Text>
+    <LineId>1999101007</LineId>
+    <Text>輸入此 mod 組態的名稱：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101008</LineId>
+    <Text>確認</Text>
+  </Text>
+  <Text>
+    <LineId>1999101009</LineId>
+    <Text>模組資訊</Text>
+  </Text>
+  <Text>
+    <LineId>1999101010</LineId>
+    <Text>新聞與更新</Text>
+  </Text>
+  <Text>
+    <LineId>1999101011</LineId>
+    <Text>  更新新聞</Text>
+  </Text>
+  <Text>
+    <LineId>1999101012</LineId>
+    <Text>  ANNO UNION</Text>
+  </Text>
+  <Text>
+    <LineId>1999101013</LineId>
+    <Text>擷取帝國的最新消息...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101014</LineId>
+    <Text>未找到新聞。檢查您的連線。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101015</LineId>
+    <Text>檔案中找不到的 Mod。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101016</LineId>
+    <Text>無圖片
+所附</Text>
+  </Text>
+  <Text>
+    <LineId>1999101017</LineId>
+    <Text>  在模組瀏覽器中開啟</Text>
+  </Text>
+  <Text>
+    <LineId>1999101018</LineId>
+    <Text>  在收藏集中開啟</Text>
+  </Text>
+  <Text>
+    <LineId>1999101019</LineId>
+    <Text>活躍個人檔案：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101020</LineId>
+    <Text>  另存新檔</Text>
+  </Text>
+  <Text>
+    <LineId>1999101021</LineId>
+    <Text>  刪除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101022</LineId>
+    <Text>搜尋：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101023</LineId>
+    <Text>  啟動全部</Text>
+  </Text>
+  <Text>
+    <LineId>1999101024</LineId>
+    <Text>  載入訂單</Text>
+  </Text>
+  <Text>
+    <LineId>1999101025</LineId>
+    <Text>未找到任何修改程式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101026</LineId>
+    <Text>模組名稱</Text>
+  </Text>
+  <Text>
+    <LineId>1999101027</LineId>
+    <Text>類別</Text>
+  </Text>
+  <Text>
+    <LineId>1999101028</LineId>
+    <Text>未選擇模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101029</LineId>
+    <Text> 取消訂閱</Text>
+  </Text>
+  <Text>
+    <LineId>1999101030</LineId>
+    <Text> 解除安裝模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101031</LineId>
+    <Text>  可自訂的 Mod - 點選調整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101032</LineId>
+    <Text>難度： </Text>
+  </Text>
+  <Text>
+    <LineId>1999101033</LineId>
+    <Text>依賴</Text>
+  </Text>
+  <Text>
+    <LineId>1999101034</LineId>
+    <Text>資料夾：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101035</LineId>
+    <Text>尺寸：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101036</LineId>
+    <Text>啟動遺失</Text>
+  </Text>
+  <Text>
+    <LineId>1999101037</LineId>
+    <Text>返回</Text>
+  </Text>
+  <Text>
+    <LineId>1999101038</LineId>
+    <Text>手動安裝</Text>
+  </Text>
+  <Text>
+    <LineId>1999101039</LineId>
+    <Text>已經下載了 mod？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101040</LineId>
+    <Text>選擇要安裝的 .zip 存檔</Text>
+  </Text>
+  <Text>
+    <LineId>1999101041</LineId>
+    <Text>刷新日誌</Text>
+  </Text>
+  <Text>
+    <LineId>1999101042</LineId>
+    <Text>複製文字到剪貼簿</Text>
+  </Text>
+  <Text>
+    <LineId>1999101043</LineId>
+    <Text>模組管理員設定</Text>
+  </Text>
+  <Text>
+    <LineId>1999101044</LineId>
+    <Text>一般</Text>
+  </Text>
+  <Text>
+    <LineId>1999101045</LineId>
+    <Text>教學資訊</Text>
+  </Text>
+  <Text>
+    <LineId>1999101046</LineId>
+    <Text>在整個應用程式中將滑鼠停在按鈕上時，會顯示有用的工具提示。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101047</LineId>
+    <Text>在 News feed 中顯示 r/anno 帖子</Text>
+  </Text>
+  <Text>
+    <LineId>1999101048</LineId>
+    <Text>顯示來自 reddit.com/r/anno 的最新文章以及其他新聞。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101049</LineId>
+    <Text>自動啟動新安裝的 MOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101050</LineId>
+    <Text>如果停用，新 mod 會出現在清單中，但在手動啟用前會保持未選取狀態。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101051</LineId>
+    <Text>遊戲檔案</Text>
+  </Text>
+  <Text>
+    <LineId>1999101052</LineId>
+    <Text>Anno 117 安裝目錄：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101053</LineId>
+    <Text>瀏覽</Text>
+  </Text>
+  <Text>
+    <LineId>1999101054</LineId>
+    <Text>Mod 儲存空間：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101055</LineId>
+    <Text>mod.io 整合</Text>
+  </Text>
+  <Text>
+    <LineId>1999101056</LineId>
+    <Text>API 金鑰：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101057</LineId>
+    <Text>儲存鍵</Text>
+  </Text>
+  <Text>
+    <LineId>1999101058</LineId>
+    <Text>狀態：已驗證 ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101059</LineId>
+    <Text>關閉帳戶</Text>
+  </Text>
+  <Text>
+    <LineId>1999101060</LineId>
+    <Text>狀態：未連線</Text>
+  </Text>
+  <Text>
+    <LineId>1999101061</LineId>
+    <Text>連接至 Mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101062</LineId>
+    <Text>開啟組態資料夾</Text>
+  </Text>
+  <Text>
+    <LineId>1999101063</LineId>
+    <Text>檢視除錯紀錄</Text>
+  </Text>
+  <Text>
+    <LineId>1999101064</LineId>
+    <Text>好的</Text>
+  </Text>
+  <Text>
+    <LineId>1999101065</LineId>
+    <Text>是</Text>
+  </Text>
+  <Text>
+    <LineId>1999101066</LineId>
+    <Text>沒有</Text>
+  </Text>
+  <Text>
+    <LineId>1999101067</LineId>
+    <Text>所需的帝國認證</Text>
+  </Text>
+  <Text>
+    <LineId>1999101068</LineId>
+    <Text>皇室檔案存取</Text>
+  </Text>
+  <Text>
+    <LineId>1999101069</LineId>
+    <Text>開啟 mod.io 個人資料</Text>
+  </Text>
+  <Text>
+    <LineId>1999101070</LineId>
+    <Text>授權</Text>
+  </Text>
+  <Text>
+    <LineId>1999101071</LineId>
+    <Text>Mod.io 協議</Text>
+  </Text>
+  <Text>
+    <LineId>1999101072</LineId>
+    <Text>檢視使用條款</Text>
+  </Text>
+  <Text>
+    <LineId>1999101073</LineId>
+    <Text>檢視隱私權政策</Text>
+  </Text>
+  <Text>
+    <LineId>1999101074</LineId>
+    <Text>我同意</Text>
+  </Text>
+  <Text>
+    <LineId>1999101075</LineId>
+    <Text>不，謝謝</Text>
+  </Text>
+  <Text>
+    <LineId>1999101076</LineId>
+    <Text>帝國身份驗證</Text>
+  </Text>
+  <Text>
+    <LineId>1999101077</LineId>
+    <Text>出示您的證件</Text>
+  </Text>
+  <Text>
+    <LineId>1999101078</LineId>
+    <Text>輸入與您的 mod.io 帳戶相關聯的電子郵件地址：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101079</LineId>
+    <Text>請求存取碼</Text>
+  </Text>
+  <Text>
+    <LineId>1999101080</LineId>
+    <Text>安全檢查</Text>
+  </Text>
+  <Text>
+    <LineId>1999101081</LineId>
+    <Text>輸入安全碼</Text>
+  </Text>
+  <Text>
+    <LineId>1999101082</LineId>
+    <Text>驗證憑證</Text>
+  </Text>
+  <Text>
+    <LineId>1999101083</LineId>
+    <Text>MOD 瀏覽器</Text>
+  </Text>
+  <Text>
+    <LineId>1999101084</LineId>
+    <Text>  已訂閱</Text>
+  </Text>
+  <Text>
+    <LineId>1999101085</LineId>
+    <Text>請在設定中驗證。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101086</LineId>
+    <Text>搜尋...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101087</LineId>
+    <Text>諮詢帝國檔案館...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101088</LineId>
+    <Text>未找到任何修改程式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101089</LineId>
+    <Text>未找到適用於此遊戲的訂閱 Mod。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101090</LineId>
+    <Text>⌛ 載入中...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101091</LineId>
+    <Text>  贊同</Text>
+  </Text>
+  <Text>
+    <LineId>1999101092</LineId>
+    <Text>  贊同</Text>
+  </Text>
+  <Text>
+    <LineId>1999101093</LineId>
+    <Text>  參觀</Text>
+  </Text>
+  <Text>
+    <LineId>1999101094</LineId>
+    <Text>  安裝</Text>
+  </Text>
+  <Text>
+    <LineId>1999101095</LineId>
+    <Text>+ 載入更多 mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101096</LineId>
+    <Text>⌛ 載入更多...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101097</LineId>
+    <Text>無預覽</Text>
+  </Text>
+  <Text>
+    <LineId>1999101098</LineId>
+    <Text>關閉</Text>
+  </Text>
+  <Text>
+    <LineId>1999101099</LineId>
+    <Text>安裝 MOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101100</LineId>
+    <Text>⌛ 載入主圖片...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101101</LineId>
+    <Text>存檔詳情</Text>
+  </Text>
+  <Text>
+    <LineId>1999101102</LineId>
+    <Text>視覺檔案損毀</Text>
+  </Text>
+  <Text>
+    <LineId>1999101103</LineId>
+    <Text>帝國物流</Text>
+  </Text>
+  <Text>
+    <LineId>1999101104</LineId>
+    <Text>收購存檔：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101105</LineId>
+    <Text>聯絡 Mod.io...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101106</LineId>
+    <Text>下載 Byte-Stream...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101107</LineId>
+    <Text>與檔案整合...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101108</LineId>
+    <Text>  已訂閱</Text>
+  </Text>
+  <Text>
+    <LineId>1999101109</LineId>
+    <Text>  取消訂閱</Text>
+  </Text>
+  <Text>
+    <LineId>1999101110</LineId>
+    <Text>移除...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101111</LineId>
+    <Text>調整 MOD 配置</Text>
+  </Text>
+  <Text>
+    <LineId>1999101112</LineId>
+    <Text>全部重設為預設值</Text>
+  </Text>
+  <Text>
+    <LineId>1999101113</LineId>
+    <Text>未找到可自訂的 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101114</LineId>
+    <Text>選取一個 MOD 檢查其選項。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101115</LineId>
+    <Text>重設為預設值</Text>
+  </Text>
+  <Text>
+    <LineId>1999101116</LineId>
+    <Text>無法讀取選項模式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101117</LineId>
+    <Text>不相容警告</Text>
+  </Text>
+  <Text>
+    <LineId>1999101118</LineId>
+    <Text>偵測到 MOD 衝突</Text>
+  </Text>
+  <Text>
+    <LineId>1999101119</LineId>
+    <Text>接受風險</Text>
+  </Text>
+  <Text>
+    <LineId>1999101120</LineId>
+    <Text>保持停用狀態</Text>
+  </Text>
+  <Text>
+    <LineId>1999101121</LineId>
+    <Text>停用衝突的 Mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101122</LineId>
+    <Text>mod 系列</Text>
+  </Text>
+  <Text>
+    <LineId>1999101123</LineId>
+    <Text>  跟蹤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101124</LineId>
+    <Text>+ 載入更多收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101125</LineId>
+    <Text>未找到收藏集。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101126</LineId>
+    <Text>您尚未關注任何收藏集。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101127</LineId>
+    <Text>此系列中的 MOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101128</LineId>
+    <Text>⌛ Fetching mods...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101129</LineId>
+    <Text>此系列中沒有 mod。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101130</LineId>
+    <Text>  追隨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101131</LineId>
+    <Text>  關注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101132</LineId>
+    <Text>跟蹤...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101133</LineId>
+    <Text>跟隨收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101134</LineId>
+    <Text>Fetching collection mods...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101135</LineId>
+    <Text>取消關注收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101136</LineId>
+    <Text>取消收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101137</LineId>
+    <Text> 取消追蹤 + 移除模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101138</LineId>
+    <Text> 僅取消跟蹤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101139</LineId>
+    <Text>  追蹤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101140</LineId>
+    <Text>追蹤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101141</LineId>
+    <Text>帝國檔案</Text>
+  </Text>
+  <Text>
+    <LineId>1999101142</LineId>
+    <Text>預設 Manager 安裝行為</Text>
+  </Text>
+  <Text>
+    <LineId>1999101143</LineId>
+    <Text>新聞饋送</Text>
+  </Text>
+  <Text>
+    <LineId>1999101144</LineId>
+    <Text>檢視除錯紀錄</Text>
+  </Text>
+  <Text>
+    <LineId>1999101145</LineId>
+    <Text>安裝</Text>
+  </Text>
+  <Text>
+    <LineId>1999101146</LineId>
+    <Text>載入中...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101147</LineId>
+    <Text>  可自訂的 Mod (點選調整)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101148</LineId>
+    <Text>新聞</Text>
+  </Text>
+  <Text>
+    <LineId>1999101149</LineId>
+    <Text>模組啟動</Text>
+  </Text>
+  <Text>
+    <LineId>1999101150</LineId>
+    <Text>模組瀏覽器</Text>
+  </Text>
+  <Text>
+    <LineId>1999101151</LineId>
+    <Text>收藏集</Text>
+  </Text>
+  <Text>
+    <LineId>1999101152</LineId>
+    <Text>手動安裝</Text>
+  </Text>
+  <Text>
+    <LineId>1999101153</LineId>
+    <Text>Modloader 日誌</Text>
+  </Text>
+  <Text>
+    <LineId>1999101154</LineId>
+    <Text>調整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101155</LineId>
+    <Text>設定</Text>
+  </Text>
+  <Text>
+    <LineId>1999101156</LineId>
+    <Text>語言：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101157</LineId>
+    <Text>重新啟動應用程式以完全套用新語言。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101158</LineId>
+    <Text>OK ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101159</LineId>
+    <Text>  啟動
+遊戲</Text>
+  </Text>
+  <Text>
+    <LineId>1999101160</LineId>
+    <Text>更新新聞</Text>
+  </Text>
+  <Text>
+    <LineId>1999101161</LineId>
+    <Text>ANNO UNION</Text>
+  </Text>
+  <Text>
+    <LineId>1999101162</LineId>
+    <Text>無圖片
+所附</Text>
+  </Text>
+  <Text>
+    <LineId>1999101163</LineId>
+    <Text> 在模組瀏覽器中開啟</Text>
+  </Text>
+  <Text>
+    <LineId>1999101164</LineId>
+    <Text> 在收藏集中開啟</Text>
+  </Text>
+  <Text>
+    <LineId>1999101165</LineId>
+    <Text> 可自訂的 Mod - 點選調整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101166</LineId>
+    <Text>已訂閱</Text>
+  </Text>
+  <Text>
+    <LineId>1999101167</LineId>
+    <Text> 贊同</Text>
+  </Text>
+  <Text>
+    <LineId>1999101168</LineId>
+    <Text> 參觀</Text>
+  </Text>
+  <Text>
+    <LineId>1999101169</LineId>
+    <Text> 安裝</Text>
+  </Text>
+  <Text>
+    <LineId>1999101170</LineId>
+    <Text>不適用</Text>
+  </Text>
+  <Text>
+    <LineId>1999101171</LineId>
+    <Text>⌛ ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101172</LineId>
+    <Text>✓ 已背書</Text>
+  </Text>
+  <Text>
+    <LineId>1999101173</LineId>
+    <Text>❤ 認可</Text>
+  </Text>
+  <Text>
+    <LineId>1999101174</LineId>
+    <Text>⌛ 交換視圖...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101175</LineId>
+    <Text> 已訂閱</Text>
+  </Text>
+  <Text>
+    <LineId>1999101176</LineId>
+    <Text> 取消訂閱</Text>
+  </Text>
+  <Text>
+    <LineId>1999101177</LineId>
+    <Text>安裝</Text>
+  </Text>
+  <Text>
+    <LineId>1999101178</LineId>
+    <Text>跟蹤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101179</LineId>
+    <Text> 追蹤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101180</LineId>
+    <Text> 追隨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101181</LineId>
+    <Text> 關注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101182</LineId>
+    <Text>追蹤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101183</LineId>
+    <Text>另存新檔</Text>
+  </Text>
+  <Text>
+    <LineId>1999101184</LineId>
+    <Text>刪除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101185</LineId>
+    <Text>啟動全部</Text>
+  </Text>
+  <Text>
+    <LineId>1999101186</LineId>
+    <Text> 載入訂單</Text>
+  </Text>
+  <Text>
+    <LineId>1999101187</LineId>
+    <Text>首次啟動</Text>
+  </Text>
+  <Text>
+    <LineId>1999101188</LineId>
+    <Text>會期已過</Text>
+  </Text>
+  <Text>
+    <LineId>1999101189</LineId>
+    <Text>錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101190</LineId>
+    <Text>設定檔重設</Text>
+  </Text>
+  <Text>
+    <LineId>1999101191</LineId>
+    <Text>系統簡介</Text>
+  </Text>
+  <Text>
+    <LineId>1999101192</LineId>
+    <Text>無效檔案</Text>
+  </Text>
+  <Text>
+    <LineId>1999101193</LineId>
+    <Text>安裝錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101194</LineId>
+    <Text>無效模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101195</LineId>
+    <Text>夾板</Text>
+  </Text>
+  <Text>
+    <LineId>1999101196</LineId>
+    <Text>拒絕存取</Text>
+  </Text>
+  <Text>
+    <LineId>1999101197</LineId>
+    <Text>找不到資料夾</Text>
+  </Text>
+  <Text>
+    <LineId>1999101198</LineId>
+    <Text>敕令</Text>
+  </Text>
+  <Text>
+    <LineId>1999101199</LineId>
+    <Text>未找到日誌</Text>
+  </Text>
+  <Text>
+    <LineId>1999101200</LineId>
+    <Text>找不到設定資料夾</Text>
+  </Text>
+  <Text>
+    <LineId>1999101201</LineId>
+    <Text>成功</Text>
+  </Text>
+  <Text>
+    <LineId>1999101202</LineId>
+    <Text>連線已建立</Text>
+  </Text>
+  <Text>
+    <LineId>1999101203</LineId>
+    <Text>條款更新</Text>
+  </Text>
+  <Text>
+    <LineId>1999101204</LineId>
+    <Text>驗證失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101205</LineId>
+    <Text>連線已撤銷</Text>
+  </Text>
+  <Text>
+    <LineId>1999101206</LineId>
+    <Text>重設所有調整</Text>
+  </Text>
+  <Text>
+    <LineId>1999101207</LineId>
+    <Text>啟動錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101208</LineId>
+    <Text>載入錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101209</LineId>
+    <Text>已載入預設值</Text>
+  </Text>
+  <Text>
+    <LineId>1999101210</LineId>
+    <Text>覆寫</Text>
+  </Text>
+  <Text>
+    <LineId>1999101211</LineId>
+    <Text>解除安裝模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101212</LineId>
+    <Text>已安裝 (未激活)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101213</LineId>
+    <Text>帝國物流</Text>
+  </Text>
+  <Text>
+    <LineId>1999101214</LineId>
+    <Text>重新安裝模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101220</LineId>
+    <Text>無法自動找到 Anno 117。請選擇遊戲安裝資料夾。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101221</LineId>
+    <Text>您的 mod.io 會話令牌已過期。
+請在設定中重新連線您的帳號，以繼續使用 Mod Browser。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101222</LineId>
+    <Text>未找到可儲存的活動設定檔。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101223</LineId>
+    <Text>切換到預設值。所有已安裝的 MOD 已啟動。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101224</LineId>
+    <Text>預設」設定檔是系統需求，無法刪除。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101225</LineId>
+    <Text>請丟下 .zip mod 存檔。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101226</LineId>
+    <Text>未設定 Mod 儲存路徑。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101227</LineId>
+    <Text>此 ZIP 中找不到 modinfo.json。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101228</LineId>
+    <Text>日誌內容已成功複製！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101229</LineId>
+    <Text>請在設定中設定您的 mod.io API 金鑰，以存取此功能。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101230</LineId>
+    <Text>無法找到 MOD 安裝資料夾。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101231</LineId>
+    <Text>未找到 Mod 元資料。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101232</LineId>
+    <Text>未找到 Anno117.exe！請在「設定」中設定路徑。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101233</LineId>
+    <Text>mod.io API 密鑰已成功更新。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101234</LineId>
+    <Text>尚未建立除錯記錄檔。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101235</LineId>
+    <Text>尚未建立設定資料夾。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101236</LineId>
+    <Text>API 金鑰不能為空。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101237</LineId>
+    <Text>憑證已接受。繼續驗證。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101238</LineId>
+    <Text>您的 mod.io 會話已過期。請在設定中重新連線您的帳號。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101239</LineId>
+    <Text>Imperial Archives 現在已與您的帳戶同步。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101240</LineId>
+    <Text>自您上次同意後，mod.io 的使用條款已更新。
+在繼續之前，您需要再次檢閱並接受這些條款。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101241</LineId>
+    <Text>所提供的安全代碼被存檔拒絕。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101242</LineId>
+    <Text>您的憑證已從本機儲存中移除。存檔現已鎖定。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101243</LineId>
+    <Text>mod.io 使用條款已變更。請重新驗證以查看並接受這些條款。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101244</LineId>
+    <Text>您確定要將所有 mod 回復到預設設定嗎？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101245</LineId>
+    <Text>所有 mod 的調整都已重設。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101250</LineId>
+    <Text>依名稱或類別搜尋 Mod。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101251</LineId>
+    <Text>Reset to Default profile - 啟動所有已安裝的 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101252</LineId>
+    <Text>在檔案總管中開啟目前的 MOD 安裝資料夾。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101253</LineId>
+    <Text>從磁碟重新載入目前的 MOD 清單 - 如果您以「老式」超級手動方式安裝 MOD，這會很方便 - 否則它不會立即顯示在清單中。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101254</LineId>
+    <Text>切換載入順序檢視 - 依遊戲載入 MOD 的順序排序。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101255</LineId>
+    <Text>在檔案總管中開啟此 MOD 的安裝資料夾。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101256</LineId>
+    <Text>在 mod.io 上取消訂閱此 mod，並解除安裝其本機檔案。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101257</LineId>
+    <Text>刪除本機檔案以解除安裝此 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101258</LineId>
+    <Text>在「調整」標籤中開啟此 mod，自訂部分內容。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101259</LineId>
+    <Text>啟動遺失的 MOD 依賴。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101260</LineId>
+    <Text>在遊戲開始後手動更新 mod-loader.log 檔案。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101261</LineId>
+    <Text>將 mod-loader.log 的內容複製成 .txt 檔案到剪貼簿，以便在 Discord 上分享。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101262</LineId>
+    <Text>在檔案總管中瀏覽您的 Anno 遊戲安裝資料夾。選擇名為「Anno 117 - Pax Romana」的資料夾，然後按「OK」，如果您在目前的檢視中看到「mods」資料夾，表示位置不對 - 請上移一層資料夾！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101263</LineId>
+    <Text>儲存您的 mod.io API 金鑰。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101264</LineId>
+    <Text>從應用程式中斷開您目前的 mod.io 帳戶。Mod Browser 和 Collections 停止運作。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101265</LineId>
+    <Text>將您的 mod.io 帳戶連接到應用程式。Mod Browser 和 Collections 現已可用。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101266</LineId>
+    <Text>包含 5 位數安全代碼的電子郵件會傳送到指定的電子郵件地址。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101267</LineId>
+    <Text>只顯示您訂閱的模式。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101268</LineId>
+    <Text>重新下載並安裝此 MOD，例如檔案損毀或 MOD 已更新。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101269</LineId>
+    <Text>將所有 mod 的所有選項值重設為 mod 的 modinfo.json 中的預設值。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101270</LineId>
+    <Text>將此 mod 的選項值重設為 mod 的 modinfo.json 中的預設值。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101271</LineId>
+    <Text>透過色輪挑選顏色。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101272</LineId>
+    <Text>停用衝突的 MOD，同時啟用目前的 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101273</LineId>
+    <Text>只顯示您追蹤的收藏集。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101274</LineId>
+    <Text>從集合中重新下載任何遺失或更新的 MOD，而不碰觸現有的 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101280</LineId>
+    <Text>預設儲存</Text>
+  </Text>
+  <Text>
+    <LineId>1999101281</LineId>
+    <Text>確認刪除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101282</LineId>
+    <Text>安裝失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101283</LineId>
+    <Text>放棄 Mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101284</LineId>
+    <Text>無效資料夾</Text>
+  </Text>
+  <Text>
+    <LineId>1999101285</LineId>
+    <Text>登入 mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101286</LineId>
+    <Text>物流錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101287</LineId>
+    <Text>確認中斷</Text>
+  </Text>
+  <Text>
+    <LineId>1999101288</LineId>
+    <Text>背書失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101289</LineId>
+    <Text>安裝相依性</Text>
+  </Text>
+  <Text>
+    <LineId>1999101290</LineId>
+    <Text>覆寫</Text>
+  </Text>
+  <Text>
+    <LineId>1999101291</LineId>
+    <Text>解除安裝模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101292</LineId>
+    <Text>已安裝 (未激活)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101293</LineId>
+    <Text>重新安裝模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101294</LineId>
+    <Text>啟動錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101295</LineId>
+    <Text>載入錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101296</LineId>
+    <Text>已載入預設值</Text>
+  </Text>
+  <Text>
+    <LineId>1999101297</LineId>
+    <Text>已載入記錄</Text>
+  </Text>
+  <Text>
+    <LineId>1999101298</LineId>
+    <Text>API 錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101299</LineId>
+    <Text>放棄失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101300</LineId>
+    <Text>未檢視使用條款和隱私權政策就登入 mod.io？
+
+繼續使用即表示您同意這些文件。您可以在 mod.io 網站上找到它們。
+
+您也可以在稍後的設定中繼續登入。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101301</LineId>
+    <Text>您確定要撤銷與 mod.io 的連線嗎？
+
+您的本機憑證將被移除，而對 mod 瀏覽器的存取也會受到限制。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101302</LineId>
+    <Text>已安裝的依賴</Text>
+  </Text>
+  <Text>
+    <LineId>1999101303</LineId>
+    <Text>移除依賴</Text>
+  </Text>
+  <Text>
+    <LineId>1999101304</LineId>
+    <Text>需要手動操作</Text>
+  </Text>
+  <Text>
+    <LineId>1999101305</LineId>
+    <Text>已跟進收藏</Text>
+  </Text>
+  <Text>
+    <LineId>1999101306</LineId>
+    <Text>已安裝的收藏集</Text>
+  </Text>
+  <Text>
+    <LineId>1999101307</LineId>
+    <Text>未關注</Text>
+  </Text>
+  <Text>
+    <LineId>1999101308</LineId>
+    <Text>刷新系列</Text>
+  </Text>
+  <Text>
+    <LineId>1999101309</LineId>
+    <Text>版本 </Text>
+  </Text>
+  <Text>
+    <LineId>1999101310</LineId>
+    <Text>由 </Text>
+  </Text>
+  <Text>
+    <LineId>1999101311</LineId>
+    <Text>使用者文件</Text>
+  </Text>
+  <Text>
+    <LineId>1999101312</LineId>
+    <Text>遊戲目錄</Text>
+  </Text>
+  <Text>
+    <LineId>1999101313</LineId>
+    <Text>設定儲存為漫遊：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101314</LineId>
+    <Text>一個 5 位數的清除代碼已發送至：</Text>
+  </Text>
+  <Text>
+    <LineId>1999101315</LineId>
+    <Text>模組跟隨</Text>
+  </Text>
+  <Text>
+    <LineId>1999101316</LineId>
+    <Text>跟隨修改</Text>
+  </Text>
+  <Text>
+    <LineId>1999101317</LineId>
+    <Text>重新安裝模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101318</LineId>
+    <Text>放棄失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101319</LineId>
+    <Text>跟蹤失敗</Text>
+  </Text>
+  <Text>
+    <LineId>1999101320</LineId>
+    <Text>無法跟隨收集</Text>
+  </Text>
+  <Text>
+    <LineId>1999101321</LineId>
+    <Text>安裝系列</Text>
+  </Text>
+  <Text>
+    <LineId>1999101322</LineId>
+    <Text>收集預設錯誤</Text>
+  </Text>
+  <Text>
+    <LineId>1999101323</LineId>
+    <Text>移除遺漏的相依性</Text>
+  </Text>
+  <Text>
+    <LineId>1999101324</LineId>
+    <Text>重設模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101325</LineId>
+    <Text>放棄</Text>
+  </Text>
+  <Text>
+    <LineId>1999101326</LineId>
+    <Text>刪除個人資料</Text>
+  </Text>
+  <Text>
+    <LineId>1999101327</LineId>
+    <Text>遺失的相依性</Text>
+  </Text>
+  <Text>
+    <LineId>1999101328</LineId>
+    <Text>帝國檔案存取</Text>
+  </Text>
+  <Text>
+    <LineId>1999101350</LineId>
+    <Text>您確定要永久刪除預設 '{0}'？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101351</LineId>
+    <Text>mod資料夾'{0}'已經存在。重寫嗎？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101352</LineId>
+    <Text>您希望取消訂閱「{0}」嗎？
+
+這將會從您的 News feed 中移除此 MOD 的更新，並刪除本機的 MOD 檔案。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101353</LineId>
+    <Text>您確定要永久刪除 {0}？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101354</LineId>
+    <Text>成功安裝 {0}。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101355</LineId>
+    <Text>設定「{0}」已歸檔。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101356</LineId>
+    <Text>記錄 '{0}' 成功套用。刷新存檔。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101357</LineId>
+    <Text>刪除預設 '{0}'。還原為 Default (所有 mod 已啟動)。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101358</LineId>
+    <Text>成功解除安裝 {0}。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101359</LineId>
+    <Text>{0}」的 Mod 檔案會重新下載並安裝。
+
+使用此功能可套用更新或進行完整的檔案更新。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101360</LineId>
+    <Text>以下 mod 已作為 '{0}' 的依賴品安裝，但已不再需要：
+
+{1}
+
+也移除它們嗎？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101361</LineId>
+    <Text>將「{0}」的所有調整還原為預設值？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101362</LineId>
+    <Text>從「{0}」重新下載任何遺失或更新的 MOD？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101363</LineId>
+    <Text>取消關注 '{0}'？
+
+您是否也想取消訂閱，並移除所有專屬於此收藏集的 MOD？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101364</LineId>
+    <Text>{0}'安裝成功。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101365</LineId>
+    <Text>從 Archives 和本機儲存中移除 '{0}'。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101366</LineId>
+    <Text>{0}' 已被取消關注。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101367</LineId>
+    <Text>{0}'已成功安裝。
+
+由於偵測到衝突，MOD 一直處於停用狀態。
+在「啟動」標籤中解決衝突以啟用它。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101368</LineId>
+    <Text>{0}'已成功安裝。
+
+ 由於在設定中關閉了「自動啟動新安裝的mod」，所以該mod一直處於停用狀態。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101369</LineId>
+    <Text>以下所需的 MOD 尚未安裝，並會在 '{0}' 之前自動下載：
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101370</LineId>
+    <Text>下列所需的 MOD 尚未安裝，將會自動下載：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101371</LineId>
+    <Text>使用者文件 ({0})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101372</LineId>
+    <Text>遊戲目錄 ({0})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101373</LineId>
+    <Text>已儲存至漫遊的設定：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101374</LineId>
+    <Text>一個 5 位數的清除代碼已發送至：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101375</LineId>
+    <Text>版本 {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101376</LineId>
+    <Text>由 {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101377</LineId>
+    <Text>By {0}  | 已更新：{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101378</LineId>
+    <Text>{0}之後</Text>
+  </Text>
+  <Text>
+    <LineId>1999101379</LineId>
+    <Text>重設 {0} 的調整。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101380</LineId>
+    <Text>無法取消訂閱：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101381</LineId>
+    <Text>發生技術故障：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101382</LineId>
+    <Text>現在跟隨 '{0}'。
+這個合集中的所有 mod 都已經安裝和訂閱。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101383</LineId>
+    <Text>所有來自 '{0}' 的 mod 已成功訂閱並安裝。
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101384</LineId>
+    <Text>現在跟隨 '{0}'。
+
+將下載並安裝以下 {1} mod：
+
+{2}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101385</LineId>
+    <Text>儲存預設值失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101386</LineId>
+    <Text>套用預設失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101387</LineId>
+    <Text>無法刪除預設：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101388</LineId>
+    <Text>{0}'已成功安裝。
+
+由於偵測到衝突，MOD 一直處於停用狀態。
+在「啟動」標籤中解決衝突以啟用它。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101389</LineId>
+    <Text>{0}'已成功安裝。
+
+由於在設定中關閉了「自動啟動新安裝的mod」，所以該mod一直處於停用狀態。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101390</LineId>
+    <Text>發生錯誤：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101391</LineId>
+    <Text>複製日誌失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101392</LineId>
+    <Text>擷取失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101393</LineId>
+    <Text>解除安裝失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101394</LineId>
+    <Text>啟動遊戲失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101395</LineId>
+    <Text>無法在：
+{0}
+
+請選擇主要的 Anno 117 安裝目錄。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101396</LineId>
+    <Text>連接到 mod.io 伺服器失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101397</LineId>
+    <Text>取得訂閱失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101398</LineId>
+    <Text>無法提交評分：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101399</LineId>
+    <Text>取得 MOD 失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101400</LineId>
+    <Text>發生技術故障：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101401</LineId>
+    <Text>下列無主 mod 已取消訂閱並移除掉：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101402</LineId>
+    <Text>以下 mod 已在 mod.io 上取消訂閱，但無法匹配到本機資料夾，因此必須手動刪除：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101403</LineId>
+    <Text>載入 MOD 失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101404</LineId>
+    <Text>現在遵循 '{0}'。
+所有 mod 已經安裝。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101405</LineId>
+    <Text>所有來自 '{0}' 的 mod 已成功安裝。
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101406</LineId>
+    <Text>取消關注失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101407</LineId>
+    <Text>{0} 模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101408</LineId>
+    <Text>{0} 模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101409</LineId>
+    <Text>預設中遺失的模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101410</LineId>
+    <Text>此預設中儲存的下列 MOD 目前尚未安裝，因此將會跳過：
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101411</LineId>
+    <Text>其他模組要求</Text>
+  </Text>
+  <Text>
+    <LineId>1999101412</LineId>
+    <Text>無論如何移除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101413</LineId>
+    <Text>無論如何卸載</Text>
+  </Text>
+  <Text>
+    <LineId>1999101414</LineId>
+    <Text>無論如何啟動</Text>
+  </Text>
+  <Text>
+    <LineId>1999101415</LineId>
+    <Text>無論如何繼續</Text>
+  </Text>
+  <Text>
+    <LineId>1999101416</LineId>
+    <Text>遺失的相依性</Text>
+  </Text>
+  <Text>
+    <LineId>1999101417</LineId>
+    <Text>{0}'被下列作用中的 MOD 列為必要的相依性：
+
+{1}
+
+取消訂閱並將其移除可能會破壞這些變數。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101418</LineId>
+    <Text>{0}'被下列作用中的 MOD 列為必要的相依性：
+
+{1}
+
+解除安裝可能會破壞這些 MOD。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101419</LineId>
+    <Text>您的活動模式清單中缺少下列所需的模式：
+
+{0}
+
+在沒有它們的情況下啟動可能會導致錯誤、當機或不穩定！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101420</LineId>
+    <Text>'{0}'已取消訂閱，並從本機儲存中移除。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101421</LineId>
+    <Text>無法遵循集合：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101422</LineId>
+    <Text>跟蹤收集失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101423</LineId>
+    <Text>開啟 Mod Manager 的設定資料夾</Text>
+  </Text>
+  <Text>
+    <LineId>1999101424</LineId>
+    <Text>開啟 Mod Manager 錯誤記錄檔，位於：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101425</LineId>
+    <Text>讀取日誌時發生錯誤：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101426</LineId>
+    <Text>在以下位置找不到日誌檔案：
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101427</LineId>
+    <Text>從帝國檔案館載入...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101428</LineId>
+    <Text>+ 或將 .zip 檔案拖曳至此</Text>
+  </Text>
+  <Text>
+    <LineId>1999101429</LineId>
+    <Text>安裝「tkinterdnd2」以進行拖曳操作</Text>
+  </Text>
+  <Text>
+    <LineId>1999101430</LineId>
+    <Text>若要存取線上 mod.io 功能，您必須輸入您的憑證。
+
+1.在 mod.io 註冊或登入
+2.按一下您的使用者頭像（在網站面板左下方）-「API 存取
+3.在「API 存取」下，閱讀並接受 mod.io API 金鑰使用條款。
+4.然後按一下「請求 API 金鑰」。
+5.複製已產生的 API 金鑰並貼在下方。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101431</LineId>
+    <Text>此應用程式使用 mod.io 支援自動安裝使用者產生的內容 (mod)。
+
+點選「我同意」即表示您同意 mod.io 使用條款。有關 mod.io 如何處理您的個人資料，請參閱 mod.io 隱私權政策。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101432</LineId>
+    <Text>最多下載</Text>
+  </Text>
+  <Text>
+    <LineId>1999101433</LineId>
+    <Text>依字母順序</Text>
+  </Text>
+  <Text>
+    <LineId>1999101434</LineId>
+    <Text>最新</Text>
+  </Text>
+  <Text>
+    <LineId>1999101435</LineId>
+    <Text>最高評級</Text>
+  </Text>
+  <Text>
+    <LineId>1999101436</LineId>
+    <Text>作者</Text>
+  </Text>
+  <Text>
+    <LineId>1999101437</LineId>
+    <Text>使用中的 MOD - 載入順序</Text>
+  </Text>
+  <Text>
+    <LineId>1999101438</LineId>
+    <Text>停用的 Mods</Text>
+  </Text>
+  <Text>
+    <LineId>1999101439</LineId>
+    <Text>活動模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101440</LineId>
+    <Text>{0}'被標示為不相容
+與下列目前使用中的 MOD 不相容：
+
+{1}
+
+同時執行可能會導致不穩定或錯誤。
+您想如何進行？</Text>
+  </Text>
+  <Text>
+    <LineId>1999101441</LineId>
+    <Text>訂閱 {0} mod(s)...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101442</LineId>
+    <Text>已安裝所有 Mods。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101443</LineId>
+    <Text>安裝 {0} 新 mod...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101444</LineId>
+    <Text>完成！</Text>
+  </Text>
+  <Text>
+    <LineId>1999101445</LineId>
+    <Text>Mods Active/Installed：{0} / {1}   | 總大小: {2}/ {3}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101446</LineId>
+    <Text>  - '{0}'（{1}為必填項目）</Text>
+  </Text>
+  <Text>
+    <LineId>1999101447</LineId>
+    <Text>錯誤：無法檢索文件。</Text>
+  </Text>
+  <Text>
+    <LineId>1999101448</LineId>
+    <Text>連線失敗：{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101449</LineId>
+    <Text>找到 {0} 的 {1} 模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101450</LineId>
+    <Text>{0} 的 {1} 訂閱模式</Text>
+  </Text>
+  <Text>
+    <LineId>1999101451</LineId>
+    <Text>此集合中的 {0} 模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101452</LineId>
+    <Text>此集合中的 {0} 模組</Text>
+  </Text>
+  <Text>
+    <LineId>1999101453</LineId>
+    <Text>- 需要新遊戲</Text>
+  </Text>
+  <Text>
+    <LineId>1999101454</LineId>
+    <Text>- 可在會議期中安全移除</Text>
+  </Text>
+  <Text>
+    <LineId>1999101455</LineId>
+    <Text>- 與多人遊戲相容</Text>
+  </Text>
+  <Text>
+    <LineId>1999101456</LineId>
+    <Text>- 可安全用於運動</Text>
+  </Text>
+  <Text>
+    <LineId>1999101457</LineId>
+    <Text>已知問題</Text>
+  </Text>
+  <Text>
+    <LineId>1999101458</LineId>
+    <Text>要求</Text>
+  </Text>
+  <Text>
+    <LineId>1999101459</LineId>
+    <Text>選購</Text>
+  </Text>
+  <Text>
+    <LineId>1999101460</LineId>
+    <Text>載入後</Text>
+  </Text>
+  <Text>
+    <LineId>1999101461</LineId>
+    <Text>已停用</Text>
+  </Text>
+  <Text>
+    <LineId>1999101462</LineId>
+    <Text>不相容</Text>
+  </Text>
+  <Text>
+    <LineId>1999101463</LineId>
+    <Text>最後載入</Text>
+  </Text>
+  <Text>
+    <LineId>1999101464</LineId>
+    <Text>{0} 的 {1} 集合</Text>
+  </Text>
+</Texts>

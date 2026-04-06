@@ -1,0 +1,1820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Texts>
+  <Text>
+    <LineId>1999101000</LineId>
+    <Text>Gerenciador de Mods Anno 117</Text>
+  </Text>
+  <Text>
+    <LineId>1999101001</LineId>
+    <Text>INTEGRAÇÃO COM O NAVEGADOR DE MODS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101002</LineId>
+    <Text>Você gostaria de ativar a integração do navegador mod.io?
+
+Isso permite que você navegue e instale mods diretamente do aplicativo, mas requer uma conta mod.io gratuita e uma chave de API.
+
+Você sempre pode alterar isso mais tarde nas Configurações.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101003</LineId>
+    <Text>Ativar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101004</LineId>
+    <Text>Agora não</Text>
+  </Text>
+  <Text>
+    <LineId>1999101005</LineId>
+    <Text>Salvar predefinição</Text>
+  </Text>
+  <Text>
+    <LineId>1999101006</LineId>
+    <Text>NOMEAR SUA PREDEFINIÇÃO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101007</LineId>
+    <Text>Digite uma designação para essa configuração de mod:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101008</LineId>
+    <Text>Confirmar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101009</LineId>
+    <Text>Mod Info</Text>
+  </Text>
+  <Text>
+    <LineId>1999101010</LineId>
+    <Text>NOTÍCIAS E ATUALIZAÇÕES</Text>
+  </Text>
+  <Text>
+    <LineId>1999101011</LineId>
+    <Text>  NOTÍCIAS ATUALIZADAS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101012</LineId>
+    <Text>  ANNO UNION</Text>
+  </Text>
+  <Text>
+    <LineId>1999101013</LineId>
+    <Text>Buscando as últimas notícias do Empire...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101014</LineId>
+    <Text>Nenhuma notícia encontrada. Verifique sua conexão.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101015</LineId>
+    <Text>Mod não encontrado nos arquivos.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101016</LineId>
+    <Text>Nenhuma imagem
+anexado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101017</LineId>
+    <Text>  Abrir no navegador de mods</Text>
+  </Text>
+  <Text>
+    <LineId>1999101018</LineId>
+    <Text>  Abrir em Coleções</Text>
+  </Text>
+  <Text>
+    <LineId>1999101019</LineId>
+    <Text>Perfil ativo:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101020</LineId>
+    <Text>  Salvar como novo</Text>
+  </Text>
+  <Text>
+    <LineId>1999101021</LineId>
+    <Text>  Excluir</Text>
+  </Text>
+  <Text>
+    <LineId>1999101022</LineId>
+    <Text>Pesquisar:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101023</LineId>
+    <Text>  Ativar tudo</Text>
+  </Text>
+  <Text>
+    <LineId>1999101024</LineId>
+    <Text>  Pedido de carga</Text>
+  </Text>
+  <Text>
+    <LineId>1999101025</LineId>
+    <Text>Não foram encontrados mods.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101026</LineId>
+    <Text>Nome do mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101027</LineId>
+    <Text>Categoria</Text>
+  </Text>
+  <Text>
+    <LineId>1999101028</LineId>
+    <Text>Nenhuma modificação selecionada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101029</LineId>
+    <Text> Cancelar inscrição</Text>
+  </Text>
+  <Text>
+    <LineId>1999101030</LineId>
+    <Text> Desinstalar o Mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101031</LineId>
+    <Text>  Mod personalizável - Clique para ajustar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101032</LineId>
+    <Text>Dificuldade: </Text>
+  </Text>
+  <Text>
+    <LineId>1999101033</LineId>
+    <Text>Dependências</Text>
+  </Text>
+  <Text>
+    <LineId>1999101034</LineId>
+    <Text>Pasta:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101035</LineId>
+    <Text>Tamanho:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101036</LineId>
+    <Text>Ativar ausente</Text>
+  </Text>
+  <Text>
+    <LineId>1999101037</LineId>
+    <Text>Voltar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101038</LineId>
+    <Text>Instalação manual</Text>
+  </Text>
+  <Text>
+    <LineId>1999101039</LineId>
+    <Text>Já fez o download de um mod?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101040</LineId>
+    <Text>Selecione o arquivo .zip para instalar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101041</LineId>
+    <Text>Registro de atualização</Text>
+  </Text>
+  <Text>
+    <LineId>1999101042</LineId>
+    <Text>Copiar texto para a área de transferência</Text>
+  </Text>
+  <Text>
+    <LineId>1999101043</LineId>
+    <Text>Configurações do Mod Manager</Text>
+  </Text>
+  <Text>
+    <LineId>1999101044</LineId>
+    <Text>Geral</Text>
+  </Text>
+  <Text>
+    <LineId>1999101045</LineId>
+    <Text>Tutorial Infotips</Text>
+  </Text>
+  <Text>
+    <LineId>1999101046</LineId>
+    <Text>Mostra dicas de ferramentas úteis ao passar o mouse sobre botões em todo o aplicativo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101047</LineId>
+    <Text>Mostrar postagens do r/anno no feed de notícias</Text>
+  </Text>
+  <Text>
+    <LineId>1999101048</LineId>
+    <Text>Exibe as últimas postagens do reddit.com/r/anno juntamente com outras notícias.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101049</LineId>
+    <Text>Ativar automaticamente os mods recém-instalados</Text>
+  </Text>
+  <Text>
+    <LineId>1999101050</LineId>
+    <Text>Se estiver desativado, os novos mods aparecerão na lista, mas permanecerão desmarcados até que sejam ativados manualmente.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101051</LineId>
+    <Text>Arquivos de jogos</Text>
+  </Text>
+  <Text>
+    <LineId>1999101052</LineId>
+    <Text>Anno 117 Diretório de instalação:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101053</LineId>
+    <Text>Navegar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101054</LineId>
+    <Text>Mod Storage:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101055</LineId>
+    <Text>integração do mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101056</LineId>
+    <Text>Chave de API:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101057</LineId>
+    <Text>Salvar chave</Text>
+  </Text>
+  <Text>
+    <LineId>1999101058</LineId>
+    <Text>Status: Autenticado ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101059</LineId>
+    <Text>Desconectar conta</Text>
+  </Text>
+  <Text>
+    <LineId>1999101060</LineId>
+    <Text>Status: Não conectado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101061</LineId>
+    <Text>Conecte-se ao Mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101062</LineId>
+    <Text>Abrir a pasta de configuração</Text>
+  </Text>
+  <Text>
+    <LineId>1999101063</LineId>
+    <Text>Exibir registro de depuração</Text>
+  </Text>
+  <Text>
+    <LineId>1999101064</LineId>
+    <Text>Certo</Text>
+  </Text>
+  <Text>
+    <LineId>1999101065</LineId>
+    <Text>Sim</Text>
+  </Text>
+  <Text>
+    <LineId>1999101066</LineId>
+    <Text>Não</Text>
+  </Text>
+  <Text>
+    <LineId>1999101067</LineId>
+    <Text>Credenciais imperiais necessárias</Text>
+  </Text>
+  <Text>
+    <LineId>1999101068</LineId>
+    <Text>ACESSO AO ARQUIVO IMPERIAL</Text>
+  </Text>
+  <Text>
+    <LineId>1999101069</LineId>
+    <Text>Abrir o perfil do mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101070</LineId>
+    <Text>AUTORIZAR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101071</LineId>
+    <Text>Contrato do Mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101072</LineId>
+    <Text>Ver Termos de Uso</Text>
+  </Text>
+  <Text>
+    <LineId>1999101073</LineId>
+    <Text>Ver Política de Privacidade</Text>
+  </Text>
+  <Text>
+    <LineId>1999101074</LineId>
+    <Text>CONCORDO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101075</LineId>
+    <Text>NÃO, OBRIGADO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101076</LineId>
+    <Text>Verificação de identidade imperial</Text>
+  </Text>
+  <Text>
+    <LineId>1999101077</LineId>
+    <Text>APRESENTE SUA IDENTIFICAÇÃO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101078</LineId>
+    <Text>Digite o endereço de e-mail associado à sua conta mod.io:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101079</LineId>
+    <Text>SOLICITAR CÓDIGO DE ACESSO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101080</LineId>
+    <Text>Autorização de segurança</Text>
+  </Text>
+  <Text>
+    <LineId>1999101081</LineId>
+    <Text>DIGITE O CÓDIGO DE SEGURANÇA</Text>
+  </Text>
+  <Text>
+    <LineId>1999101082</LineId>
+    <Text>VALIDAR CREDENCIAIS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101083</LineId>
+    <Text>NAVEGADOR MOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101084</LineId>
+    <Text>  Assinatura</Text>
+  </Text>
+  <Text>
+    <LineId>1999101085</LineId>
+    <Text>Autentique-se em Configurações.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101086</LineId>
+    <Text>Pesquisando...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101087</LineId>
+    <Text>Consultando os Arquivos Imperiais...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101088</LineId>
+    <Text>Não foram encontrados mods.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101089</LineId>
+    <Text>Não foram encontrados mods inscritos para este jogo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101090</LineId>
+    <Text>⌛ Carregando...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101091</LineId>
+    <Text>  Endossado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101092</LineId>
+    <Text>  Endossar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101093</LineId>
+    <Text>  VISITA</Text>
+  </Text>
+  <Text>
+    <LineId>1999101094</LineId>
+    <Text>  INSTALAR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101095</LineId>
+    <Text>+ CARREGAR MAIS MODS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101096</LineId>
+    <Text>⌛ Carregando mais...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101097</LineId>
+    <Text>Sem visualização</Text>
+  </Text>
+  <Text>
+    <LineId>1999101098</LineId>
+    <Text>FECHAR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101099</LineId>
+    <Text>INSTALAR MOD</Text>
+  </Text>
+  <Text>
+    <LineId>1999101100</LineId>
+    <Text>⌛ Carregando a imagem principal...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101101</LineId>
+    <Text>DETALHES DO ARQUIVO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101102</LineId>
+    <Text>Arquivo visual corrompido</Text>
+  </Text>
+  <Text>
+    <LineId>1999101103</LineId>
+    <Text>Logística Imperial</Text>
+  </Text>
+  <Text>
+    <LineId>1999101104</LineId>
+    <Text>ARQUIVO DE AQUISIÇÃO:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101105</LineId>
+    <Text>Entrando em contato com o Mod.io...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101106</LineId>
+    <Text>Download de Byte-Stream...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101107</LineId>
+    <Text>Integração com arquivos...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101108</LineId>
+    <Text>  ASSINADO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101109</LineId>
+    <Text>  CANCELAR A INSCRIÇÃO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101110</LineId>
+    <Text>REMOÇÃO...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101111</LineId>
+    <Text>AJUSTAR AS CONFIGURAÇÕES
+DOS MODS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101112</LineId>
+    <Text>Redefinir tudo
+para o padrão</Text>
+  </Text>
+  <Text>
+    <LineId>1999101113</LineId>
+    <Text>Não foram encontrados mods personalizáveis.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101114</LineId>
+    <Text>Selecione um mod para
+inspecionar suas opções.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101115</LineId>
+    <Text>Redefinir para
+o padrão</Text>
+  </Text>
+  <Text>
+    <LineId>1999101116</LineId>
+    <Text>O esquema de opções não pôde ser lido.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101117</LineId>
+    <Text>Aviso de incompatibilidade</Text>
+  </Text>
+  <Text>
+    <LineId>1999101118</LineId>
+    <Text>cONFLITO DE MOD DETECTADO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101119</LineId>
+    <Text>Aceitar o risco</Text>
+  </Text>
+  <Text>
+    <LineId>1999101120</LineId>
+    <Text>Manter desativado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101121</LineId>
+    <Text>Desativar mods conflitantes</Text>
+  </Text>
+  <Text>
+    <LineId>1999101122</LineId>
+    <Text>COLEÇÕES DE MODS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101123</LineId>
+    <Text>  Seguido</Text>
+  </Text>
+  <Text>
+    <LineId>1999101124</LineId>
+    <Text>+ CARREGAR MAIS COLEÇÕES</Text>
+  </Text>
+  <Text>
+    <LineId>1999101125</LineId>
+    <Text>Não foram encontradas coleções.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101126</LineId>
+    <Text>Você ainda não está seguindo nenhuma coleção.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101127</LineId>
+    <Text>MODS NESTA COLEÇÃO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101128</LineId>
+    <Text>mods atraentes...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101129</LineId>
+    <Text>Não há mods nesta coleção.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101130</LineId>
+    <Text>  SEGUIDO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101131</LineId>
+    <Text>  DEIXAR DE SEGUIR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101132</LineId>
+    <Text>Seguindo...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101133</LineId>
+    <Text>Coleção seguinte</Text>
+  </Text>
+  <Text>
+    <LineId>1999101134</LineId>
+    <Text>Mods de coleção atraentes...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101135</LineId>
+    <Text>Coleção Unfollow</Text>
+  </Text>
+  <Text>
+    <LineId>1999101136</LineId>
+    <Text>DEIXAR DE SEGUIR A COLEÇÃO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101137</LineId>
+    <Text> Deixar de seguir + Remover mods</Text>
+  </Text>
+  <Text>
+    <LineId>1999101138</LineId>
+    <Text> Apenas deixar de seguir</Text>
+  </Text>
+  <Text>
+    <LineId>1999101139</LineId>
+    <Text>  SEGUIR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101140</LineId>
+    <Text>SEGUIR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101141</LineId>
+    <Text>Arquivos Imperiais</Text>
+  </Text>
+  <Text>
+    <LineId>1999101142</LineId>
+    <Text>Comportamento padrão de instalação do gerenciador</Text>
+  </Text>
+  <Text>
+    <LineId>1999101143</LineId>
+    <Text>Feed de notícias</Text>
+  </Text>
+  <Text>
+    <LineId>1999101144</LineId>
+    <Text>Exibir registro de depuração</Text>
+  </Text>
+  <Text>
+    <LineId>1999101145</LineId>
+    <Text>Instalar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101146</LineId>
+    <Text>Carregando...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101147</LineId>
+    <Text>  Mod personalizável (clique para ajustar)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101148</LineId>
+    <Text>Notícias</Text>
+  </Text>
+  <Text>
+    <LineId>1999101149</LineId>
+    <Text>    Ativação    
+    de mods</Text>
+  </Text>
+  <Text>
+    <LineId>1999101150</LineId>
+    <Text>   Navegador   
+  de mods</Text>
+  </Text>
+  <Text>
+    <LineId>1999101151</LineId>
+    <Text>Coleções</Text>
+  </Text>
+  <Text>
+    <LineId>1999101152</LineId>
+    <Text>   Instalação   
+   manual</Text>
+  </Text>
+  <Text>
+    <LineId>1999101153</LineId>
+    <Text>  Registro do  
+  Modloader</Text>
+  </Text>
+  <Text>
+    <LineId>1999101154</LineId>
+    <Text>Ajustes</Text>
+  </Text>
+  <Text>
+    <LineId>1999101155</LineId>
+    <Text>Configurações</Text>
+  </Text>
+  <Text>
+    <LineId>1999101156</LineId>
+    <Text>Idioma:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101157</LineId>
+    <Text>Reinicie o aplicativo para aplicar totalmente um novo idioma.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101158</LineId>
+    <Text>OK ✓</Text>
+  </Text>
+  <Text>
+    <LineId>1999101159</LineId>
+    <Text>  INICIAR  
+JOGO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101160</LineId>
+    <Text>NOTÍCIAS ATUALIZADAS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101161</LineId>
+    <Text>ANNO UNION</Text>
+  </Text>
+  <Text>
+    <LineId>1999101162</LineId>
+    <Text>Nenhuma imagem
+anexado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101163</LineId>
+    <Text> Abrir no navegador de mods</Text>
+  </Text>
+  <Text>
+    <LineId>1999101164</LineId>
+    <Text> Abrir em Coleções</Text>
+  </Text>
+  <Text>
+    <LineId>1999101165</LineId>
+    <Text> Mod personalizável - Clique para ajustar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101166</LineId>
+    <Text>Assinatura</Text>
+  </Text>
+  <Text>
+    <LineId>1999101167</LineId>
+    <Text> Endossado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101168</LineId>
+    <Text> VISITA</Text>
+  </Text>
+  <Text>
+    <LineId>1999101169</LineId>
+    <Text> INSTALAR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101170</LineId>
+    <Text>N/A</Text>
+  </Text>
+  <Text>
+    <LineId>1999101171</LineId>
+    <Text>⌛ ...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101172</LineId>
+    <Text>endossado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101173</LineId>
+    <Text>❤ Endossar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101174</LineId>
+    <Text>troca de visualização...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101175</LineId>
+    <Text> ASSINADO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101176</LineId>
+    <Text> CANCELAR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101177</LineId>
+    <Text>INSTALAR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101178</LineId>
+    <Text>Seguido</Text>
+  </Text>
+  <Text>
+    <LineId>1999101179</LineId>
+    <Text> SEGUIR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101180</LineId>
+    <Text> SEGUIDO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101181</LineId>
+    <Text> CANCELAR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101182</LineId>
+    <Text>SEGUIR</Text>
+  </Text>
+  <Text>
+    <LineId>1999101183</LineId>
+    <Text>Salvar
+como novo</Text>
+  </Text>
+  <Text>
+    <LineId>1999101184</LineId>
+    <Text>Excluir</Text>
+  </Text>
+  <Text>
+    <LineId>1999101185</LineId>
+    <Text>Ativar tudo</Text>
+  </Text>
+  <Text>
+    <LineId>1999101186</LineId>
+    <Text> Pedido de carga</Text>
+  </Text>
+  <Text>
+    <LineId>1999101187</LineId>
+    <Text>Primeiro início</Text>
+  </Text>
+  <Text>
+    <LineId>1999101188</LineId>
+    <Text>Sessão expirada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101189</LineId>
+    <Text>Erro</Text>
+  </Text>
+  <Text>
+    <LineId>1999101190</LineId>
+    <Text>Redefinição de perfil</Text>
+  </Text>
+  <Text>
+    <LineId>1999101191</LineId>
+    <Text>Perfil do sistema</Text>
+  </Text>
+  <Text>
+    <LineId>1999101192</LineId>
+    <Text>Arquivo inválido</Text>
+  </Text>
+  <Text>
+    <LineId>1999101193</LineId>
+    <Text>Erro de instalação</Text>
+  </Text>
+  <Text>
+    <LineId>1999101194</LineId>
+    <Text>Mod inválido</Text>
+  </Text>
+  <Text>
+    <LineId>1999101195</LineId>
+    <Text>Área de transferência</Text>
+  </Text>
+  <Text>
+    <LineId>1999101196</LineId>
+    <Text>Acesso negado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101197</LineId>
+    <Text>Pasta não encontrada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101198</LineId>
+    <Text>Decreto Imperial</Text>
+  </Text>
+  <Text>
+    <LineId>1999101199</LineId>
+    <Text>Nenhum registro encontrado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101200</LineId>
+    <Text>Nenhuma pasta de configuração encontrada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101201</LineId>
+    <Text>Sucesso</Text>
+  </Text>
+  <Text>
+    <LineId>1999101202</LineId>
+    <Text>Conexão estabelecida</Text>
+  </Text>
+  <Text>
+    <LineId>1999101203</LineId>
+    <Text>Termos atualizados</Text>
+  </Text>
+  <Text>
+    <LineId>1999101204</LineId>
+    <Text>Falha na validação</Text>
+  </Text>
+  <Text>
+    <LineId>1999101205</LineId>
+    <Text>Conexão revogada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101206</LineId>
+    <Text>Redefinir todos os ajustes</Text>
+  </Text>
+  <Text>
+    <LineId>1999101207</LineId>
+    <Text>Erro de inicialização</Text>
+  </Text>
+  <Text>
+    <LineId>1999101208</LineId>
+    <Text>Erro de carga</Text>
+  </Text>
+  <Text>
+    <LineId>1999101209</LineId>
+    <Text>Predefinição carregada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101210</LineId>
+    <Text>Sobrescrever</Text>
+  </Text>
+  <Text>
+    <LineId>1999101211</LineId>
+    <Text>Desinstalar o Mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101212</LineId>
+    <Text>Instalado (inativo)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101213</LineId>
+    <Text>Logística Imperial</Text>
+  </Text>
+  <Text>
+    <LineId>1999101214</LineId>
+    <Text>Reinstalar o mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101220</LineId>
+    <Text>O Anno 117 não foi encontrado automaticamente. Selecione a pasta de instalação do jogo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101221</LineId>
+    <Text>Seu token de sessão mod.io expirou.
+Reconecte sua conta nas Configurações para continuar usando o Mod Browser.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101222</LineId>
+    <Text>Não foi encontrado nenhum perfil ativo para salvar.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101223</LineId>
+    <Text>Alternado para o padrão. Todos os mods instalados foram ativados.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101224</LineId>
+    <Text>O perfil "Padrão" é um requisito do sistema e não pode ser excluído.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101225</LineId>
+    <Text>Envie um arquivo de modificação .zip.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101226</LineId>
+    <Text>O caminho de armazenamento do mod não está definido.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101227</LineId>
+    <Text>Nenhum modinfo.json foi encontrado neste ZIP.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101228</LineId>
+    <Text>Conteúdo do registro copiado com sucesso!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101229</LineId>
+    <Text>Configure sua chave de API do mod.io em Settings para acessar esse recurso.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101230</LineId>
+    <Text>Não foi possível encontrar a pasta de instalação do mod.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101231</LineId>
+    <Text>Os metadados do mod não foram encontrados.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101232</LineId>
+    <Text>Anno117.exe não foi encontrado! Defina o caminho em Configurações.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101233</LineId>
+    <Text>a chave de API do mod.io foi atualizada com sucesso.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101234</LineId>
+    <Text>Nenhum arquivo de registro de depuração foi criado ainda.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101235</LineId>
+    <Text>Nenhuma pasta de configuração foi criada ainda.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101236</LineId>
+    <Text>A chave de API não pode estar vazia.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101237</LineId>
+    <Text>Credenciais aceitas. Prosseguindo para a autenticação.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101238</LineId>
+    <Text>Sua sessão do mod.io expirou. Reconecte sua conta em Configurações.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101239</LineId>
+    <Text>Os Arquivos Imperiais agora estão sincronizados com sua conta.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101240</LineId>
+    <Text>os Termos de Uso do mod.io foram atualizados desde a última vez que você concordou.
+Você precisará revisá-los e aceitá-los novamente antes de continuar.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101241</LineId>
+    <Text>O código de segurança fornecido foi rejeitado pelos arquivos.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101242</LineId>
+    <Text>Suas credenciais foram removidas do armazenamento local. Os arquivos agora estão bloqueados.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101243</LineId>
+    <Text>Os Termos de Uso do mod.io foram alterados. Faça uma nova autenticação para revisá-los e aceitá-los.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101244</LineId>
+    <Text>Tem certeza de que deseja reverter TODOS os mods para suas configurações padrão?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101245</LineId>
+    <Text>Todos os ajustes de mod foram redefinidos.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101250</LineId>
+    <Text>Pesquise mods por nome ou categoria.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101251</LineId>
+    <Text>Reset to Default profile (Redefinir para o perfil padrão) - ativa todos os mods instalados.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101252</LineId>
+    <Text>Abra a pasta de instalação do mod atual no Explorer.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101253</LineId>
+    <Text>Recarrega a lista de mods atual do disco - útil se você instalou um mod da maneira supermanual "antiquada" - caso contrário, ele não aparecerá na lista imediatamente.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101254</LineId>
+    <Text>Alternar a visualização da ordem de carregamento - classifica os mods pela ordem em que o jogo os carrega.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101255</LineId>
+    <Text>Abra a pasta de instalação desse mod no Explorer.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101256</LineId>
+    <Text>Cancele a assinatura desse mod no mod.io e desinstale seus arquivos locais.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101257</LineId>
+    <Text>Desinstale esse mod excluindo seus arquivos locais.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101258</LineId>
+    <Text>Abra esse mod na guia Tweaking para personalizar parte de seu conteúdo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101259</LineId>
+    <Text>Ative a dependência do mod ausente.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101260</LineId>
+    <Text>Atualize o arquivo mod-loader.log manualmente após o início do jogo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101261</LineId>
+    <Text>Copia o conteúdo do mod-loader.log como um arquivo .txt para a área de transferência, por exemplo, para compartilhá-lo no Discord.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101262</LineId>
+    <Text>Navegue pela pasta de instalação do jogo Anno no Explorer. Selecione a pasta chamada "Anno 117 - Pax Romana" e pressione Ok. Se você vir uma pasta "mods" na visualização atual, não é o lugar certo - suba um nível de pasta!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101263</LineId>
+    <Text>Salve sua chave de API do mod.io.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101264</LineId>
+    <Text>Desconecte sua conta mod.io atual do aplicativo. O Mod Browser e as Coleções param de funcionar.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101265</LineId>
+    <Text>Conecte sua conta mod.io ao aplicativo. O Mod Browser e as Coleções já estão disponíveis.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101266</LineId>
+    <Text>Um e-mail contendo um código de segurança de 5 dígitos é enviado para o endereço de e-mail fornecido.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101267</LineId>
+    <Text>Mostrar apenas os mods nos quais você está inscrito.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101268</LineId>
+    <Text>Faz o download novamente e reinstala esse mod, por exemplo, se os arquivos estiverem corrompidos ou se o mod tiver recebido uma atualização.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101269</LineId>
+    <Text>Redefine os valores de TODAS as opções de TODOS os mods para os padrões fornecidos no modinfo.json do mod.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101270</LineId>
+    <Text>Redefine os valores de Opções para ESTE mod para os padrões fornecidos no modinfo.json do mod.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101271</LineId>
+    <Text>Escolha uma cor por meio da roda de cores.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101272</LineId>
+    <Text>Desativa o mod conflitante enquanto ativa o mod atual.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101273</LineId>
+    <Text>Mostrar apenas as coleções que você está seguindo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101274</LineId>
+    <Text>Faz o download novamente de todos os mods ausentes ou atualizados da coleção sem afetar os existentes.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101280</LineId>
+    <Text>Predefinição salva</Text>
+  </Text>
+  <Text>
+    <LineId>1999101281</LineId>
+    <Text>Confirmar Excluir</Text>
+  </Text>
+  <Text>
+    <LineId>1999101282</LineId>
+    <Text>Falha na instalação</Text>
+  </Text>
+  <Text>
+    <LineId>1999101283</LineId>
+    <Text>Renunciar ao Mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101284</LineId>
+    <Text>Pasta inválida</Text>
+  </Text>
+  <Text>
+    <LineId>1999101285</LineId>
+    <Text>Faça login no mod.io</Text>
+  </Text>
+  <Text>
+    <LineId>1999101286</LineId>
+    <Text>Erro de logística</Text>
+  </Text>
+  <Text>
+    <LineId>1999101287</LineId>
+    <Text>Confirmar a desconexão</Text>
+  </Text>
+  <Text>
+    <LineId>1999101288</LineId>
+    <Text>Falha no endosso</Text>
+  </Text>
+  <Text>
+    <LineId>1999101289</LineId>
+    <Text>Instalação de dependências</Text>
+  </Text>
+  <Text>
+    <LineId>1999101290</LineId>
+    <Text>Sobrescrever</Text>
+  </Text>
+  <Text>
+    <LineId>1999101291</LineId>
+    <Text>Desinstalar o Mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101292</LineId>
+    <Text>Instalado (inativo)</Text>
+  </Text>
+  <Text>
+    <LineId>1999101293</LineId>
+    <Text>Reinstalar o mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101294</LineId>
+    <Text>Erro de inicialização</Text>
+  </Text>
+  <Text>
+    <LineId>1999101295</LineId>
+    <Text>Erro de carga</Text>
+  </Text>
+  <Text>
+    <LineId>1999101296</LineId>
+    <Text>Predefinição carregada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101297</LineId>
+    <Text>Registro carregado</Text>
+  </Text>
+  <Text>
+    <LineId>1999101298</LineId>
+    <Text>Erro de API</Text>
+  </Text>
+  <Text>
+    <LineId>1999101299</LineId>
+    <Text>Renúncia Falha</Text>
+  </Text>
+  <Text>
+    <LineId>1999101300</LineId>
+    <Text>Fazer login no mod.io sem visualizar os Termos de Uso e a Política de Privacidade?
+
+Ao continuar, você concorda com esses documentos. Você pode encontrá-los no site do mod.io.
+
+Você também pode continuar fazendo login posteriormente nas Configurações.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101301</LineId>
+    <Text>Tem certeza de que deseja revogar sua conexão com o mod.io?
+
+Suas credenciais locais serão removidas e o acesso ao navegador mod será restrito.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101302</LineId>
+    <Text>Dependência instalada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101303</LineId>
+    <Text>Remoção de dependências</Text>
+  </Text>
+  <Text>
+    <LineId>1999101304</LineId>
+    <Text>Ação manual necessária</Text>
+  </Text>
+  <Text>
+    <LineId>1999101305</LineId>
+    <Text>Coleção Seguida</Text>
+  </Text>
+  <Text>
+    <LineId>1999101306</LineId>
+    <Text>Coleção instalada</Text>
+  </Text>
+  <Text>
+    <LineId>1999101307</LineId>
+    <Text>Não seguido</Text>
+  </Text>
+  <Text>
+    <LineId>1999101308</LineId>
+    <Text>Coleção Refresh</Text>
+  </Text>
+  <Text>
+    <LineId>1999101309</LineId>
+    <Text>Versão </Text>
+  </Text>
+  <Text>
+    <LineId>1999101310</LineId>
+    <Text>por </Text>
+  </Text>
+  <Text>
+    <LineId>1999101311</LineId>
+    <Text>Documentos do usuário</Text>
+  </Text>
+  <Text>
+    <LineId>1999101312</LineId>
+    <Text>Diretório de jogos</Text>
+  </Text>
+  <Text>
+    <LineId>1999101313</LineId>
+    <Text>Configuração salva em Roaming:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101314</LineId>
+    <Text>Um código de liberação de 5 dígitos foi enviado para:</Text>
+  </Text>
+  <Text>
+    <LineId>1999101315</LineId>
+    <Text>mod seguido</Text>
+  </Text>
+  <Text>
+    <LineId>1999101316</LineId>
+    <Text>mods seguidos</Text>
+  </Text>
+  <Text>
+    <LineId>1999101317</LineId>
+    <Text>Reinstalar o mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101318</LineId>
+    <Text>Renúncia Falha</Text>
+  </Text>
+  <Text>
+    <LineId>1999101319</LineId>
+    <Text>Falha no acompanhamento</Text>
+  </Text>
+  <Text>
+    <LineId>1999101320</LineId>
+    <Text>Não foi possível acompanhar a coleta</Text>
+  </Text>
+  <Text>
+    <LineId>1999101321</LineId>
+    <Text>Instalação da coleção</Text>
+  </Text>
+  <Text>
+    <LineId>1999101322</LineId>
+    <Text>Erro de predefinição de coleta</Text>
+  </Text>
+  <Text>
+    <LineId>1999101323</LineId>
+    <Text>Remover dependências órfãs</Text>
+  </Text>
+  <Text>
+    <LineId>1999101324</LineId>
+    <Text>Modificação de redefinição</Text>
+  </Text>
+  <Text>
+    <LineId>1999101325</LineId>
+    <Text>Renunciar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101326</LineId>
+    <Text>Perfil excluído</Text>
+  </Text>
+  <Text>
+    <LineId>1999101327</LineId>
+    <Text>Dependências ausentes</Text>
+  </Text>
+  <Text>
+    <LineId>1999101328</LineId>
+    <Text>Acesso ao Arquivo Imperial</Text>
+  </Text>
+  <Text>
+    <LineId>1999101350</LineId>
+    <Text>Tem certeza de que deseja excluir permanentemente a predefinição "{0}"?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101351</LineId>
+    <Text>A pasta mod '{0}' já existe. Substituir?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101352</LineId>
+    <Text>Deseja cancelar a assinatura de '{0}'?
+
+Isso removerá as atualizações desse mod do seu feed de notícias e excluirá os arquivos locais do mod.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101353</LineId>
+    <Text>Tem certeza de que deseja excluir permanentemente {0}?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101354</LineId>
+    <Text>Instalado {0} com sucesso.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101355</LineId>
+    <Text>A configuração '{0}' foi arquivada.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101356</LineId>
+    <Text>Registro '{0}' aplicado com sucesso. Atualizando os arquivos.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101357</LineId>
+    <Text>Predefinição '{0}' excluída. Revertido para o padrão (todos os mods ativados).</Text>
+  </Text>
+  <Text>
+    <LineId>1999101358</LineId>
+    <Text>Desinstalado {0} com sucesso.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101359</LineId>
+    <Text>Os arquivos mod para "{0}" serão baixados novamente e reinstalados.
+
+Use isso para aplicar uma atualização ou fazer uma atualização completa do arquivo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101360</LineId>
+    <Text>Os seguintes mods foram instalados como dependências de '{0}' e não são mais necessários:
+
+{1}
+
+Removê-los também?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101361</LineId>
+    <Text>Reverter todos os ajustes de "{0}" para seus padrões?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101362</LineId>
+    <Text>Baixe novamente os mods ausentes ou atualizados de '{0}'?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101363</LineId>
+    <Text>Deixar de seguir '{0}'?
+
+Você também gostaria de cancelar a assinatura e remover todos os mods que pertencem exclusivamente a esta coleção?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101364</LineId>
+    <Text>'{0}' instalado com sucesso.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101365</LineId>
+    <Text>'{0}' removido dos arquivos e do armazenamento local.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101366</LineId>
+    <Text>'{0}' deixou de ser seguido.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101367</LineId>
+    <Text>'{0}' foi instalado com sucesso.
+
+O mod foi mantido desativado devido a um conflito detectado.
+Resolva o conflito na guia Ativação para ativá-lo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101368</LineId>
+    <Text>'{0}' foi instalado com sucesso.
+
+ O mod foi mantido desativado porque a opção "Ativar automaticamente mods recém-instalados" está desativada em Configurações.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101369</LineId>
+    <Text>Os mods necessários a seguir ainda não estão instalados e serão baixados automaticamente antes de '{0}':
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101370</LineId>
+    <Text>Os mods necessários a seguir ainda não estão instalados e serão baixados automaticamente:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101371</LineId>
+    <Text>Documentos do usuário ({0})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101372</LineId>
+    <Text>Diretório de jogos ({0})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101373</LineId>
+    <Text>Configuração salva em Roaming: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101374</LineId>
+    <Text>Um código de liberação de 5 dígitos foi enviado para:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101375</LineId>
+    <Text>Versão {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101376</LineId>
+    <Text>por {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101377</LineId>
+    <Text>Por {0}  | Atualizado: {1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101378</LineId>
+    <Text>{0} seguido</Text>
+  </Text>
+  <Text>
+    <LineId>1999101379</LineId>
+    <Text>Ajustes para a redefinição {0}.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101380</LineId>
+    <Text>Não foi possível cancelar a assinatura: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101381</LineId>
+    <Text>Ocorreu uma falha técnica: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101382</LineId>
+    <Text>Agora seguindo '{0}'.
+Todos os mods dessa coleção já estão instalados e inscritos.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101383</LineId>
+    <Text>Todos os mods de '{0}' foram inscritos e instalados com sucesso.
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101384</LineId>
+    <Text>Agora seguindo "{0}".
+
+O(s) seguinte(s) {1} mod(s) será(ão) baixado(s) e instalado(s):
+
+{2}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101385</LineId>
+    <Text>Falha ao salvar a predefinição: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101386</LineId>
+    <Text>Falha ao aplicar a predefinição: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101387</LineId>
+    <Text>Não foi possível excluir a predefinição: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101388</LineId>
+    <Text>'{0}' foi instalado com sucesso.
+
+O mod foi mantido desativado devido a um conflito detectado.
+Resolva o conflito na guia Ativação para ativá-lo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101389</LineId>
+    <Text>'{0}' foi instalado com sucesso.
+
+O mod foi mantido desativado porque a opção "Ativar automaticamente mods recém-instalados" está desativada em Configurações.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101390</LineId>
+    <Text>Ocorreu um erro: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101391</LineId>
+    <Text>Falha ao copiar o registro: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101392</LineId>
+    <Text>Falha ao buscar: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101393</LineId>
+    <Text>Falha na desinstalação: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101394</LineId>
+    <Text>Falha ao iniciar o jogo: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101395</LineId>
+    <Text>Não foi possível localizar o Bin\Win64\Anno117.exe em:
+{0}
+
+Selecione o diretório principal de instalação do Anno 117.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101396</LineId>
+    <Text>Falha ao acessar o servidor mod.io: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101397</LineId>
+    <Text>Falha ao buscar assinaturas: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101398</LineId>
+    <Text>Não foi possível enviar a classificação:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101399</LineId>
+    <Text>Falha ao adquirir o mod: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101400</LineId>
+    <Text>Ocorreu uma falha técnica: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101401</LineId>
+    <Text>O(s) seguinte(s) mod(s) órfão(s) foi(ram) cancelado(s) e removido(s):
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101402</LineId>
+    <Text>Os mods a seguir foram cancelados no mod.io, mas não puderam ser combinados com uma pasta local e devem ser excluídos manualmente:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101403</LineId>
+    <Text>Falha ao carregar os mods: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101404</LineId>
+    <Text>Agora seguindo "{0}".
+Todos os mods já estão instalados.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101405</LineId>
+    <Text>Todos os mods de '{0}' foram instalados com sucesso.
+
+{1}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101406</LineId>
+    <Text>Falha ao deixar de seguir: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101407</LineId>
+    <Text>{0} mod</Text>
+  </Text>
+  <Text>
+    <LineId>1999101408</LineId>
+    <Text>{0} mods</Text>
+  </Text>
+  <Text>
+    <LineId>1999101409</LineId>
+    <Text>Mods ausentes na predefinição</Text>
+  </Text>
+  <Text>
+    <LineId>1999101410</LineId>
+    <Text>Os seguintes mods salvos nessa predefinição não estão instalados no momento e serão ignorados:
+
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101411</LineId>
+    <Text>Exigido por outros mods</Text>
+  </Text>
+  <Text>
+    <LineId>1999101412</LineId>
+    <Text>Remover de qualquer forma</Text>
+  </Text>
+  <Text>
+    <LineId>1999101413</LineId>
+    <Text>Desinstalar de qualquer forma</Text>
+  </Text>
+  <Text>
+    <LineId>1999101414</LineId>
+    <Text>Lançamento de qualquer forma</Text>
+  </Text>
+  <Text>
+    <LineId>1999101415</LineId>
+    <Text>Continue assim mesmo</Text>
+  </Text>
+  <Text>
+    <LineId>1999101416</LineId>
+    <Text>Dependências ausentes</Text>
+  </Text>
+  <Text>
+    <LineId>1999101417</LineId>
+    <Text>'{0}' é listado como uma dependência necessária pelo(s) seguinte(s) mod(s) ativo(s):
+
+{1}
+
+Cancelar a assinatura e removê-lo pode interromper esses mods.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101418</LineId>
+    <Text>'{0}' é listado como uma dependência necessária pelo(s) seguinte(s) mod(s) ativo(s):
+
+{1}
+
+A desinstalação pode interromper esses mods.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101419</LineId>
+    <Text>O(s) seguinte(s) mod(s) necessário(s) está(ão) faltando em sua lista de mods ativos:
+
+{0}
+
+A inicialização sem eles pode causar erros, falhas ou instabilidade!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101420</LineId>
+    <Text>'{0}' cancelou a assinatura e foi removido do armazenamento local.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101421</LineId>
+    <Text>Não foi possível acompanhar a coleta: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101422</LineId>
+    <Text>Falha ao seguir a coleção: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101423</LineId>
+    <Text>Abre a pasta de configuração do Mod Manager</Text>
+  </Text>
+  <Text>
+    <LineId>1999101424</LineId>
+    <Text>Abre o arquivo de registro de depuração do Mod Manager em:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101425</LineId>
+    <Text>Erro ao ler o registro: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101426</LineId>
+    <Text>Arquivo de registro não encontrado em:
+{0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101427</LineId>
+    <Text>Carregando dos Arquivos Imperiais...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101428</LineId>
+    <Text>+ ou arraste e solte o arquivo .zip aqui</Text>
+  </Text>
+  <Text>
+    <LineId>1999101429</LineId>
+    <Text>Instalar o "tkinterdnd2" para arrastar e soltar</Text>
+  </Text>
+  <Text>
+    <LineId>1999101430</LineId>
+    <Text>Para acessar os recursos on-line do mod.io, você deve inserir suas credenciais.
+
+1. Registre-se ou faça login no mod.io
+2. Clique no seu avatar de usuário (no painel do site, no canto inferior esquerdo) - "API Access" (Acesso à API)
+3. Em "Acesso à API", leia e aceite os Termos de uso da chave de API do mod.io.
+4. Em seguida, clique em "Request API Key" (Solicitar chave de API).
+5. Copie a chave de API gerada e cole-a abaixo.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101431</LineId>
+    <Text>Este aplicativo usa o mod.io para oferecer suporte à instalação automática de conteúdo gerado pelo usuário (mods).
+
+Ao clicar em "I Agree", você concorda com os Termos de Uso do mod.io. Consulte a Política de Privacidade do mod.io para saber como o mod.io processa seus dados pessoais.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101432</LineId>
+    <Text>Mais downloads</Text>
+  </Text>
+  <Text>
+    <LineId>1999101433</LineId>
+    <Text>Em ordem alfabética</Text>
+  </Text>
+  <Text>
+    <LineId>1999101434</LineId>
+    <Text>Mais recente</Text>
+  </Text>
+  <Text>
+    <LineId>1999101435</LineId>
+    <Text>Classificação mais alta</Text>
+  </Text>
+  <Text>
+    <LineId>1999101436</LineId>
+    <Text>Autor</Text>
+  </Text>
+  <Text>
+    <LineId>1999101437</LineId>
+    <Text>MODS ATIVOS - ORDEM DE CARREGAMENTO</Text>
+  </Text>
+  <Text>
+    <LineId>1999101438</LineId>
+    <Text>MODS DESATIVADOS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101439</LineId>
+    <Text>MODOS ATIVOS</Text>
+  </Text>
+  <Text>
+    <LineId>1999101440</LineId>
+    <Text>'{0}' está marcado como incompatível
+com o(s) seguinte(s) mod(s) atualmente ativo(s):
+
+{1}
+
+A execução conjunta desses mods pode causar instabilidade ou erros.
+Como você gostaria de proceder?</Text>
+  </Text>
+  <Text>
+    <LineId>1999101441</LineId>
+    <Text>Assinatura de {0} mod(s)...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101442</LineId>
+    <Text>Todos os mods já instalados.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101443</LineId>
+    <Text>Instalando {0} novo(s) mod(s)...</Text>
+  </Text>
+  <Text>
+    <LineId>1999101444</LineId>
+    <Text>Pronto!</Text>
+  </Text>
+  <Text>
+    <LineId>1999101445</LineId>
+    <Text>Mods ativos/instalados: {0} / {1}   | Tamanho total: {2} / {3}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101446</LineId>
+    <Text>  - '{0}' (exigido por {1})</Text>
+  </Text>
+  <Text>
+    <LineId>1999101447</LineId>
+    <Text>Erro: Não foi possível recuperar o documento.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101448</LineId>
+    <Text>Falha na conexão: {0}</Text>
+  </Text>
+  <Text>
+    <LineId>1999101449</LineId>
+    <Text>{0} de {1} mods encontrados</Text>
+  </Text>
+  <Text>
+    <LineId>1999101450</LineId>
+    <Text>{0} de {1} mods inscritos</Text>
+  </Text>
+  <Text>
+    <LineId>1999101451</LineId>
+    <Text>{0} mod nesta coleção</Text>
+  </Text>
+  <Text>
+    <LineId>1999101452</LineId>
+    <Text>{0} mods nesta coleção</Text>
+  </Text>
+  <Text>
+    <LineId>1999101453</LineId>
+    <Text>- Requer um novo jogo</Text>
+  </Text>
+  <Text>
+    <LineId>1999101454</LineId>
+    <Text>- Seguro para remover no meio da sessão</Text>
+  </Text>
+  <Text>
+    <LineId>1999101455</LineId>
+    <Text>- Compatível com vários jogadores</Text>
+  </Text>
+  <Text>
+    <LineId>1999101456</LineId>
+    <Text>- Seguro para uso em campanhas</Text>
+  </Text>
+  <Text>
+    <LineId>1999101457</LineId>
+    <Text>Problemas conhecidos</Text>
+  </Text>
+  <Text>
+    <LineId>1999101458</LineId>
+    <Text>Requer</Text>
+  </Text>
+  <Text>
+    <LineId>1999101459</LineId>
+    <Text>Opcional</Text>
+  </Text>
+  <Text>
+    <LineId>1999101460</LineId>
+    <Text>Carregar depois</Text>
+  </Text>
+  <Text>
+    <LineId>1999101461</LineId>
+    <Text>Descontinua</Text>
+  </Text>
+  <Text>
+    <LineId>1999101462</LineId>
+    <Text>Incompatível</Text>
+  </Text>
+  <Text>
+    <LineId>1999101463</LineId>
+    <Text>Os últimos carregamentos</Text>
+  </Text>
+  <Text>
+    <LineId>1999101464</LineId>
+    <Text>{0} de {1} coleções</Text>
+  </Text>
+</Texts>
