@@ -425,28 +425,37 @@ class AnnoModManagerApp(TkinterDnD.Tk):
             ]
 
         drives = self.get_drive_letters()
-        joker_patterns = ["Anno 117 - Pax Romana", "*/Anno 117 - Pax Romana", "*/*/Anno 117 - Pax Romana", "Anno 117", "*/Anno 117", "*/*/Anno 117", "117", "*/117", "*/*/117"]
+
+        # Glob directly for the exe at every plausible depth, on every drive.
+        # This finds the path regardless of what folder structure precedes it.
+        exe_patterns = [
+            os.path.join("Anno 117 - Pax Romana", "Bin", "Win64", "Anno117.exe"),
+            os.path.join("*", "Anno 117 - Pax Romana", "Bin", "Win64", "Anno117.exe"),
+            os.path.join("*", "*", "Anno 117 - Pax Romana", "Bin", "Win64", "Anno117.exe"),
+            os.path.join("*", "*", "*", "Anno 117 - Pax Romana", "Bin", "Win64", "Anno117.exe"),
+            os.path.join("*", "*", "*", "*", "Anno 117 - Pax Romana", "Bin", "Win64", "Anno117.exe"),
+            os.path.join("*", "*", "*", "*", "*", "Anno 117 - Pax Romana", "Bin", "Win64", "Anno117.exe"),
+        ]
 
         for drive in drives:
-            for pattern in joker_patterns:
+            for pattern in exe_patterns:
                 full_pattern = os.path.join(drive + os.sep, pattern)
                 try:
-                    matches = glob.glob(full_pattern)
-                    possible_roots.extend([m for m in matches if os.path.isdir(m)])
-                except Exception: continue
+                    for match in glob.glob(full_pattern):
+                        if os.path.isfile(match):
+                            return os.path.abspath(match)
+                except Exception:
+                    continue
 
+        # Fall back to the known-root candidates collected above (registry / fixed paths)
         for root in list(dict.fromkeys(possible_roots)):
-            if not root or not os.path.exists(root): continue
-
-            search_targets = [
+            if not root or not os.path.exists(root):
+                continue
+            for target in [
                 os.path.join(root, "Bin", "Win64", "Anno117.exe"),
+                os.path.join(root, "Anno 117 - Pax Romana", "Bin", "Win64", "Anno117.exe"),
                 os.path.join(root, "Anno117.exe"),
-                os.path.join(root, "main", "Bin", "Win64", "Anno117.exe"),
-                # Linux / Proton
-                os.path.join(root, "Anno117"),
-                os.path.join(root, "anno117"),
-            ]
-            for target in search_targets:
+            ]:
                 if os.path.exists(target):
                     return os.path.abspath(target)
 
@@ -570,8 +579,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
 
     def check_first_run(self):
         """Called once at startup after language selection. Locates the game executable, prompts the user if not found, configures mod paths and kicks off the mod.io setup flow when needed."""
-        self.game_exe_path = self.find_anno_exe()
-
+        # Only search if load_settings didn't already give us a valid path
         if not self.game_exe_path or not os.path.exists(self.game_exe_path):
             self.game_exe_path = self.find_anno_exe()
 
@@ -3856,6 +3864,10 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                     self.show_reddit_news_var.set(self.settings.get("show_reddit_news", False))
                     self.show_tooltips_var.set(self.settings.get("show_tooltips", True))
                     self.current_profile_name = self.settings.get("current_profile_name", "Default")
+                    # Restore use_mod_browser so check_first_run doesn't re-show the prompt
+                    umb = self.settings.get("use_mod_browser")
+                    if umb is not None:
+                        self.use_mod_browser = umb
 
                     self.update_mod_path_from_mode()
                     return True
