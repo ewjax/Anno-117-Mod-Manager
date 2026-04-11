@@ -32,7 +32,6 @@ import time
 import io
 import html as html_lib
 import tempfile
-
 import _version
 
 try:
@@ -276,13 +275,19 @@ def T(line_id: int, *args) -> str:
 MODIO_GAME_ID = "11358"
 MODIO_BASE_URL = "https://g-11358.modapi.io/v1"
 
+# --- Version check integration ---
+try:
+    APP_VERSION = _version.__VERSION__
+except Exception:
+    APP_VERSION = "0.0.0"
+GITHUB_REPO    = "Taludas/Anno-117-Mod-Manager"
+GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
+
 # Virtual-scroll constants for the Mod Browser
 _VR_H   = 645   # pixel height per tile row (tile 620px + 10px top/bottom padding)
 _VR_C   = 3     # tile columns
 _VR_BUF = 2   # extra rows above/below viewport kept alive
 _VR_COL_H = 545  # pixel height per collections tile row (tile 520px + 10+15px padding)
-
-
 
 # --- Main Application Class ---
 def _open_path(path):
@@ -365,6 +370,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
         self._subscription_states = self._load_subscriptions()
         self._subscription_modio_map = self._load_subscription_map()
         self._collection_follow_states = self._load_collection_follows()
+        self.jump_to_activation = self.settings.get("jump_to_activation", True)
         self.after(150, self._start_sequence)
 
         # After paths are set, get metadata
@@ -474,7 +480,57 @@ class AnnoModManagerApp(TkinterDnD.Tk):
             return
         self._build_sidebar()
         self.switch_tab("News")
-        self.check_first_run()
+        self.check_first_run(),
+        self._check_for_update()
+
+    def _check_for_update(self):
+        """Checks GitHub releases API for a newer version and prompts the user if one is found. Runs in a background thread to avoid blocking startup."""
+        def _worker():
+            try:
+                res = requests.get(GITHUB_API_URL, timeout=8, headers={"Accept": "application/vnd.github+json"})
+                if res.status_code != 200:
+                    return
+                latest_tag = res.json().get("tag_name", "").lstrip("vV").strip()
+                release_url = res.json().get("html_url", f"https://github.com/{GITHUB_REPO}/releases/latest")
+                if not latest_tag:
+                    return
+                # Compare version tuples
+                def _parse(v):
+                    try: return tuple(int(x) for x in v.split("."))
+                    except: return (0,)
+                if _parse(latest_tag) > _parse(APP_VERSION):
+                    self.after(0, lambda: self._show_update_prompt(latest_tag, release_url))
+            except Exception as e:
+                print(f"[update check] {e}")
+        threading.Thread(target=_worker, daemon=True).start()
+
+    def _show_update_prompt(self, new_version, release_url):
+        """Shows a non-blocking update notification dialog."""
+        win_w, win_h = 480, 220
+        upd_win = tk.Toplevel(self)
+        upd_win.title(T(1999101480))
+        upd_win.geometry(f"{win_w}x{win_h}")
+        self.update_idletasks()
+        x = self.winfo_x() + (self.winfo_width()  // 2) - (win_w // 2)
+        y = self.winfo_y() + (self.winfo_height() // 2) - (win_h // 2)
+        upd_win.geometry(f"+{x}+{y}")
+        upd_win.configure(bg=BG_MAIN)
+        upd_win.transient(self)
+        upd_win.resizable(False, False)
+
+        tk.Label(upd_win, text=T(1999101480), font=FONT_TITLE, bg=BG_MAIN, fg=FG_GOLD).pack(pady=(22, 6))
+        tk.Label(upd_win, text=T(1999101481, APP_VERSION, new_version), font=FONT_BODY, bg=BG_MAIN, fg=FG_MAIN, wraplength=420, justify="center").pack(pady=(0, 16))
+
+        btn_frame = tk.Frame(upd_win, bg=BG_MAIN)
+        btn_frame.pack(pady=(0, 20))
+
+        btn_dl = tk.Button(btn_frame, text=T(1999101482), font=FONT_UI_BOLD, bg="#2ecc71", fg="#000000", cursor="hand2", padx=20, relief="flat", command=lambda:[webbrowser.open_new_tab(release_url), upd_win.destroy()])
+        btn_dl.pack(side="left", padx=8)
+        self._bind_hover(btn_dl, "#2ecc71", "#39f085")
+
+        btn_later = tk.Button(btn_frame, text=T(1999101483), font=FONT_UI_BOLD, bg=BG_SECTION, fg=FG_MAIN, cursor="hand2", padx=20, relief="flat", command=upd_win.destroy)
+        btn_later.pack(side="left", padx=8)
+        self._bind_hover(btn_later, BG_SECTION, BG_HOVER)
 
     def _show_language_picker(self):
         """Shows a full-window BG_SECTION overlay for language selection on first launch. Blocks until the user confirms, then destroys the overlay."""
@@ -713,16 +769,26 @@ class AnnoModManagerApp(TkinterDnD.Tk):
         all_mods = []
         search_paths = []
 
-        user_docs = os.path.expanduser("~/Documents")
-        docs_mods = os.path.normpath(os.path.join(user_docs, "Anno 117 - Pax Romana", "mods"))
+        # 1. Use custom docs path if provided, otherwise default to ~/Documents
+        if getattr(self, 'custom_docs_path', ''):
+            docs_base = os.path.normpath(self.custom_docs_path)
+        else:
+            docs_base = os.path.normpath(os.path.join(os.path.expanduser("~/Documents"), "Anno 117 - Pax Romana"))
+
+        docs_mods = os.path.join(docs_base, "mods")
         if os.path.exists(docs_mods):
             search_paths.append(docs_mods)
 
+        # 2. Check the Game Directory
         if self.game_exe_path:
             game_root = os.path.dirname(os.path.dirname(os.path.dirname(self.game_exe_path)))
             game_mods = os.path.normpath(os.path.join(game_root, "mods"))
             if os.path.exists(game_mods) and game_mods not in search_paths:
                 search_paths.append(game_mods)
+
+        # 3. Fallback: Ensure the active mod_path is included just in case
+        if getattr(self, 'mod_path', '') and os.path.exists(self.mod_path) and self.mod_path not in search_paths:
+            search_paths.append(self.mod_path)
 
         seen_folders = set()
         for base in search_paths:
@@ -1218,7 +1284,8 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                         self.mods = self.get_all_mod_metadata()
                         self.parse_active_profile()
                         self._imperial_alert(T(1999101212), T(1999101388, folder_name))
-                        self.switch_tab("Mod Activation", select_id=new_mod_id)
+                        if getattr(self, 'jump_to_activation', True):
+                            self.switch_tab("Mod Activation", select_id=new_mod_id)
                         return
 
                 self.mods = self.get_all_mod_metadata()
@@ -1240,7 +1307,8 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                         self._imperial_alert(T(1999101212), T(1999101389, folder_name))
                     else:
                         self._imperial_alert(T(1999101201), T(1999101354, folder_name))
-                    self.switch_tab("Mod Activation", select_id=new_mod_id)
+                    if getattr(self, 'jump_to_activation', True):
+                        self.switch_tab("Mod Activation", select_id=new_mod_id)
 
         except Exception as e:
             self._imperial_alert(T(1999101282), T(1999101390, e), is_error=True)
@@ -1720,29 +1788,32 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                 version = mod.get('modfile', {}).get('version', '')
                 excerpt = f"Version {version} is now available." if version else "An update is available."
 
-                # Attempt to get the changelog for this specific file update
-                changelog = mod.get('modfile', {}).get('changelog', '')
+                changelog = (mod.get('modfile') or {}).get('changelog') or ''
+                summary    = html.unescape(mod.get('summary', ''))
 
                 if changelog:
-                    # Strip HTML tags, unescape entities, and clean up
-                    clean_changelog = html.unescape(re.sub(r'<[^<]+?>', '', changelog)).strip()
-                    # Replace line breaks with a separator so it flows nicely in the small card
-                    clean_changelog = re.sub(r'\s*\n\s*', ' | ', clean_changelog)
-                    # Standardize whitespace and replace newlines with a cleaner separator
-                    clean_changelog = re.sub(r'\s*\n\s*', ' • ', clean_changelog)
-
-                    if clean_changelog:
-                        limit = 500
-                        display_text = clean_changelog[:limit]
-                        if len(clean_changelog) > limit:
-                            display_text += "..."
-
-                        excerpt += f"\n\nChangelog: {display_text}"
-                else:
-                    # Fallback to the summary if the author didn't provide a changelog
-                    summary = html.unescape(mod.get('summary', ''))
-                    if summary:
-                        excerpt += f"  {summary[500]}"
+                    clean = html.unescape(re.sub(r'<[^<]+?>', '', changelog)).strip()
+                    clean = re.sub(r'\s{2,}', ' ', clean)
+                    # Format line by line: "-" lines stay on their own line, non-bullet lines are joined with " • "
+                    raw_lines = [l.strip() for l in clean.splitlines() if l.strip()]
+                    out_parts = []
+                    pending = ''
+                    for cl in raw_lines:
+                        if cl.startswith('-'):
+                            if pending:
+                                out_parts.append(pending)
+                                pending = ''
+                            out_parts.append(cl)
+                        else:
+                            pending = (pending + ' • ' + cl) if pending else cl
+                    if pending:
+                        out_parts.append(pending)
+                    clean = '\n'.join(out_parts)
+                    if clean:
+                        display = clean[:500] + ('...' if len(clean) > 500 else '')
+                        excerpt += f"\n\nChangelog:\n {display}"
+                elif summary:
+                    excerpt += f"\n\n{summary[:500]}"
 
                 items.append({
                     "title": f"Update: {html.unescape(mod.get('name', 'Unknown Mod'))}",
@@ -1884,7 +1955,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
             mods = data.get('data', [])
             total_count = data.get('result_total', 0)
 
-            current_viewing = offset + len(mods)
+            current_viewing = len(mods)
             stats_text = T(1999101449, current_viewing, total_count) if mods else T(1999101449, 0, total_count)
             self.after(0, lambda t=stats_text: self.browser_stats_lbl.config(text=t) if hasattr(self, 'browser_stats_lbl') and self.browser_stats_lbl.winfo_exists() else None)
 
@@ -2748,6 +2819,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                 upd_lbl.bind("<Enter>", on_enter)
                 upd_lbl.bind("<Leave>", on_leave)
                 upd_lbl.bind("<Button-1>", _quick_update)
+                self._attach_tooltip(upd_lbl, T(1999101479))
             _ico_mb = load_icon("modio_mod", (14, 14))
             if _ico_mb:
                 mb_lbl = tk.Label(row, image=_ico_mb, bg=row_bg, cursor="hand2")
@@ -3566,6 +3638,16 @@ class AnnoModManagerApp(TkinterDnD.Tk):
         _adv.trace_add("write", _on_ac)
         tk.Label(general_frame, text=T(1999101050), font=FONT_XSMALL, bg=BG_MAIN, fg=FG_DIM).pack(anchor="w", padx=25)
 
+        # jump to activation tab after mod browser install setting
+        self.var_jump_activation = tk.BooleanVar(value=getattr(self, 'jump_to_activation', True))
+
+        def _toggle_jump():
+            self.jump_to_activation = self.var_jump_activation.get()
+            self.save_settings()
+
+        chk_jump = tk.Checkbutton(general_frame, text=T(1999101478), variable=self.var_jump_activation, bg=BG_MAIN, fg=FG_MAIN, selectcolor=BG_SECTION,  activebackground=BG_MAIN, activeforeground=FG_MAIN,  font=FONT_SMALL, cursor="hand2", command=_toggle_jump)
+        chk_jump.pack(anchor="w", pady=2)
+
         # GAME INSTALLATION PATH
         path_frame = tk.LabelFrame(_mc, text=T(1999101051), font=FONT_BOLD_SMALL, bg=BG_MAIN, fg=FG_DIM, padx=15, pady=15)
         path_frame.pack(fill="x", pady=10, padx=5)
@@ -3601,8 +3683,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                 self.update_mod_path_from_mode()
                 self.save_settings()
                 # Refresh the mod storage radio label to show the updated path
-                new_docs_display = os.path.normpath(
-                    os.path.join(self.custom_docs_path, "mods"))
+                new_docs_display = os.path.normpath(os.path.join(self.custom_docs_path, "mods"))
                 for w in loc_frame.winfo_children():
                     if isinstance(w, tk.Radiobutton):
                         cfg = w.config()
@@ -3623,8 +3704,11 @@ class AnnoModManagerApp(TkinterDnD.Tk):
         loc_frame = tk.Frame(path_frame, bg=BG_MAIN)
         loc_frame.pack(fill="x", pady=5)
 
-        user_docs = os.path.expanduser("~/Documents")
-        docs_raw = os.path.join(user_docs, "Anno 117 - Pax Romana", "mods")
+        if getattr(self, 'custom_docs_path', ''):
+            docs_raw = os.path.join(self.custom_docs_path, "mods")
+        else:
+            user_docs = os.path.expanduser("~/Documents")
+            docs_raw = os.path.join(user_docs, "Anno 117 - Pax Romana", "mods")
         docs_display = os.path.normpath(docs_raw)
 
         if self.game_exe_path:
@@ -3733,7 +3817,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
     def update_mod_path_from_mode(self):
         """Recalculates mod_path and the active-profile/log/options file paths. Respects a custom Anno 117 documents folder if the user has configured one."""
         if getattr(self, 'custom_docs_path', ''):
-            docs_base = os.path.normpath(self.custom_docs_path)
+            docs_base = os.path.normpath(os.path.join(self.custom_docs_path, "mods"))
         else:
             if IS_WINDOWS:
                 user_docs = os.path.expanduser("~/Documents")
@@ -3832,7 +3916,8 @@ class AnnoModManagerApp(TkinterDnD.Tk):
             "modio_declined": getattr(self, "modio_declined", False),
             "custom_docs_path": getattr(self, "custom_docs_path", ""),
             **({"use_mod_browser": self.settings["use_mod_browser"]}
-               if self.settings.get("use_mod_browser") is not None else {})
+               if self.settings.get("use_mod_browser") is not None else {}),
+            "jump_to_activation": getattr(self, "jump_to_activation", True)
         })
 
         # 3. Save the entire dictionary to the file
@@ -7976,7 +8061,8 @@ class AnnoModManagerApp(TkinterDnD.Tk):
             self.refresh_presets_list()
             self.save_settings()
 
-            self.switch_tab("Mod Activation")
+            if getattr(self, 'jump_to_activation', True):
+                self.switch_tab("Mod Activation")
 
         except Exception as e:
             print(f"[CollectionPreset] Failed to create preset: {e}")

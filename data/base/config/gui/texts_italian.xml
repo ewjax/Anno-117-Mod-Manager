@@ -1876,4 +1876,28 @@ Selezionare la cartella "DocumentiAnno 117 - Pax Romana" nella finestra di dialo
     <LineId>1999101477</LineId>
     <Text>Questa mod è installata localmente, ma non sei più iscritto su mod.io. Non riceverai notifiche di aggiornamento. Clicca su Installa per iscriverti nuovamente.</Text>
   </Text>
+  <Text>
+    <LineId>1999101478</LineId>
+    <Text>Se abilitata, l'app salta alla scheda Attivazione ogni volta che si installa una mod dal Mod Browser</Text>
+  </Text>
+  <Text>
+    <LineId>1999101479</LineId>
+    <Text>C'è una discrepanza nei numeri di versione tra la versione locale della mod attualmente installata e la versione più recente disponibile su mod.io! Fare clic per aggiornare direttamente la mod con la versione più recente da mod.io.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101480</LineId>
+    <Text>Aggiornamento disponibile</Text>
+  </Text>
+  <Text>
+    <LineId>1999101481</LineId>
+    <Text>È in esecuzione la versione {0} dell'applicazione. La versione {1} è ora disponibile.</Text>
+  </Text>
+  <Text>
+    <LineId>1999101482</LineId>
+    <Text>Scarica ora</Text>
+  </Text>
+  <Text>
+    <LineId>1999101483</LineId>
+    <Text>Più tardi</Text>
+  </Text>
 </Texts>
