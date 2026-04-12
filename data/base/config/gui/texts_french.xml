@@ -1900,4 +1900,8 @@ Veuillez sélectionner le dossier "Documents-Anno 117 - Pax Romana" dans la boî
     <LineId>1999101483</LineId>
     <Text>Plus tard</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>Installé : v{0} → Disponible : v{1}</Text>
+  </Text>
 </Texts>

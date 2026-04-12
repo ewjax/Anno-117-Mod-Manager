@@ -1901,4 +1901,8 @@ Wybierz folder "Documents\Anno 117 - Pax Romana" w następnym oknie dialogowym.<
     <LineId>1999101483</LineId>
     <Text>Później</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>Zainstalowany: v{0} → Dostępny: v{1}</Text>
+  </Text>
 </Texts>

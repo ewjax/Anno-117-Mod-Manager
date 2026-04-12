@@ -1874,7 +1874,7 @@ Please select the "Documents\Anno 117 - Pax Romana" folder in the next dialog.</
   </Text>
   <Text>
     <LineId>1999101479</LineId>
-    <Text>Local version: {0}, mod.io version: {1}</Text>
+    <Text>There is a mismatch in version numbers between the currently installed local version of the mod and the newest version available on mod.io! Click to directly update the mod with the newest version from mod.io.</Text>
   </Text>
   <Text>
     <LineId>1999101480</LineId>
@@ -1891,5 +1891,9 @@ Please select the "Documents\Anno 117 - Pax Romana" folder in the next dialog.</
   <Text>
     <LineId>1999101483</LineId>
     <Text>Later</Text>
+  </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>Installed: v{0} → Available: v{1}</Text>
   </Text>
 </Texts>

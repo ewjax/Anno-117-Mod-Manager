@@ -30,7 +30,7 @@ libs.clean:
 
 # exe make targets ###########################
 exe: libs
-	pyinstaller --onefile --windowed --add-data "data;data" --name "Anno 117 Mod Manager" $(PACKAGE).py
+	pyinstaller --onefile --windowed --add-data "data;data" --icon="app_icon.ico" --version-file="file_version_info.txt" --name "Anno 117 Mod Manager" $(PACKAGE).py
 
 exe.clean:
 	rd /s /q build
