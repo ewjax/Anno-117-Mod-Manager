@@ -1897,4 +1897,8 @@ Anno 117のメイン・インストール・ディレクトリを選択してく
     <LineId>1999101483</LineId>
     <Text>後日</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>インストール済み：v{0} → 利用可能：v{1}</Text>
+  </Text>
 </Texts>

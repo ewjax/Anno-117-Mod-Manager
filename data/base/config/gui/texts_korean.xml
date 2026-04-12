@@ -1892,4 +1892,8 @@ Anno 117의 기본 설치 디렉터리를 선택하세요.</Text>
     <LineId>1999101483</LineId>
     <Text>나중에</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>설치됨: v{0} → 사용 가능: v{1}</Text>
+  </Text>
 </Texts>

@@ -332,6 +332,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
         self.show_tooltips_var = tk.BooleanVar(value=True)
         self._endorsement_states = {}
         self._modio_update_available: set = set() # local mod IDs with a newer version on mod.io
+        self._modio_update_versions   = {}  # local_id → (local_ver, remote_ver)
         self._subscription_states = {}
         self._subscription_modio_map = {}
         self._collection_follow_states = {}
@@ -1864,6 +1865,8 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                 def _norm(v): return v.strip().lstrip('vV')
                 if local_ver and remote_ver and _norm(local_ver) != _norm(remote_ver):
                     updated.add(local_id)
+                    self._modio_update_versions[local_id] = (
+                        _norm(local_ver), _norm(remote_ver))
             self._modio_update_available = updated
             if updated:
                 self.after(0, lambda: self.render_activation_tab() if self.current_tab == "Mod Activation" else None)
@@ -2819,10 +2822,9 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                 upd_lbl.bind("<Enter>", on_enter)
                 upd_lbl.bind("<Leave>", on_leave)
                 upd_lbl.bind("<Button-1>", _quick_update)
-                local_mod_version = current_mod['version']
-                modio_mod_version = 'todo: obtain-this-data'
-                self._attach_tooltip(upd_lbl, text = T(1999101479, local_mod_version, modio_mod_version))
-
+                _lv, _rv = self._modio_update_versions.get(current_mod["id"], ("?", "?"))
+                _tip = f"{T(1999101484, _lv, _rv)}\n\n" + T(1999101479)
+                self._attach_tooltip(upd_lbl, _tip)
             _ico_mb = load_icon("modio_mod", (14, 14))
             if _ico_mb:
                 mb_lbl = tk.Label(row, image=_ico_mb, bg=row_bg, cursor="hand2")
@@ -6797,8 +6799,17 @@ class AnnoModManagerApp(TkinterDnD.Tk):
                 entry.bind("<FocusOut>", make_entry_callback())
                 entry.bind("<Return>", make_entry_callback())
 
-                # --- CUSTOM COLOR PICKER INJECTION ---
-                if mod['id'] in ["taludas-customnpccolours", "taludas-customplayercolour", "custom-player-colors-ewjax"]:
+                # --- COLOUR PICKER INJECTION ---
+                # Show picker for any option whose key contains "color"/"colour" and whose default value is a signed 32-bit ARGB integer.
+                def _is_colour_option(key, details):
+                    if "color" not in key.lower() and "colour" not in key.lower():
+                        return False
+                    try:
+                        v = int(details.get("default", ""))
+                        return -2147483648 <= v <= 2147483647
+                    except (TypeError, ValueError):
+                        return False
+                if _is_colour_option(opt_key, opt_details):
                     # Create the picker button
                     _ico_cp = load_icon("colorpicker_btn", (24, 24))
                     btn_color = tk.Button(input_frame, text="" if _ico_cp else "🎨", font=FONT_XSMALL, bg=BG_MAIN, fg=FG_MAIN, cursor="hand2", relief="raised", image=_ico_cp, compound="center" if _ico_cp else "none")

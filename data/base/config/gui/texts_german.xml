@@ -1897,4 +1897,8 @@ Bitte wählen Sie im nächsten Dialog den Ordner "Dokumente\Anno 117 - Pax Roman
     <LineId>1999101483</LineId>
     <Text>Später</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>Installiert: v{0} → Verfügbar: v{1}</Text>
+  </Text>
 </Texts>

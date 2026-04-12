@@ -1903,4 +1903,8 @@
     <LineId>1999101483</LineId>
     <Text>Позже</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>Установлено: v{0} → Доступно: v{1}</Text>
+  </Text>
 </Texts>

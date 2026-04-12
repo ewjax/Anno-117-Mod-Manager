@@ -1892,4 +1892,8 @@
     <LineId>1999101483</LineId>
     <Text>稍後</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>已安裝： v{0} → 可用： v{1}</Text>
+  </Text>
 </Texts>

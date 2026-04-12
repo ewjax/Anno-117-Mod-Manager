@@ -1900,4 +1900,8 @@ Selezionare la cartella "DocumentiAnno 117 - Pax Romana" nella finestra di dialo
     <LineId>1999101483</LineId>
     <Text>Più tardi</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>Installato: v{0} → Disponibile: v{1}</Text>
+  </Text>
 </Texts>

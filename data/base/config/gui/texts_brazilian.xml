@@ -1901,4 +1901,8 @@ Selecione a pasta "Documents\Anno 117 - Pax Romana" na próxima caixa de diálog
     <LineId>1999101483</LineId>
     <Text>Mais tarde</Text>
   </Text>
+  <Text>
+    <LineId>1999101484</LineId>
+    <Text>Instalado: v{0} → Disponível: v{1}</Text>
+  </Text>
 </Texts>
