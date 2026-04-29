@@ -1216,7 +1216,7 @@ class AnnoModManagerApp(TkinterDnD.Tk):
             with zipfile.ZipFile(zip_path, 'r') as zref:
                 mod_internal_path = None
                 for file_info in zref.infolist():
-                    if file_info.filename.endswith("modinfo.json"):
+                    if file_info.filename.endswith("modinfo.json") or file_info.filename.endswith("modinfo.jsonc"):
                         mod_internal_path = os.path.dirname(file_info.filename)
                         break
 
