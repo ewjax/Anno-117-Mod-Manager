@@ -280,6 +280,7 @@ Einige Mods legen in ihrer `modinfo.json` konfigurierbare Wertoptionen fest (Zah
 - Die Auswahl eines Mods zeigt seine Optionen im rechten Panel:
   - **Enum** – Dropdown mit vordefinierten Auswahlmöglichkeiten.
   - **Schalter** – Checkbox für boolesche Einstellungen.
+  - **Schieberegler** – Bewegt den Schieberegler frei in festgelegten Schritten auf einen beliebigen Wert zwischen dem Minimal- und dem Maximalwert.
   - **Text / Farbe** – Freitexteingabe; Farboptionen enthalten eine Farbauswahl-Schaltfläche für bestimmte Mods.
 - Änderungen werden in `active-options.jsonc` in deinem Mod-Ordner gespeichert und beim nächsten Spielstart angewendet.
 - **Auf Standard zurücksetzen** setzt die Optionen für den ausgewählten Mod zurück. **Alle auf Standard zurücksetzen** setzt jeden Mod auf einmal zurück.

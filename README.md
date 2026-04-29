@@ -283,6 +283,7 @@ Some mods expose configurable value options in their `modinfo.json` (colour valu
 - Selecting a mod shows its options in the right panel:
   - **Enum** - dropdown with predefined choices.
   - **Toggle** - checkbox for boolean settings.
+  - **Slider** - move the slider button in incremental steps to any value inside the min and max value.
   - **Text / Colour** - free-text entry; colour options include a colour-picker button for specific mods.
 - Changes are saved to `active-options.jsonc` in your mod folder and applied next time you launch the game.
 - **Reset to Default** resets options for the selected mod. **Reset All to Default** resets every mod at once.
